@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE BOOKINFO SYSTEM "bookdtd">
+<?xml-stylesheet type="text/xsl" href="bookstylesheet.xsl"?>
+
+<BOOKINFO>
+	<BOOK BOOKID="B001" Category="Practical">
+		<BOOKNAME>PHP and XML</BOOKNAME>
+		<AUTHORNAME>XYZ</AUTHORNAME>
+		<PRICE>231</PRICE>
+	</BOOK>
+
+	<BOOK BOOKID="B002" Category="Practical">
+		<BOOKNAME>JAVA</BOOKNAME>
+		<AUTHORNAME>WDO</AUTHORNAME>
+		<PRICE>234</PRICE>
+	</BOOK>
+	
+	<BOOK BOOKID="B003" Category="Practical">
+		<BOOKNAME>SE</BOOKNAME>
+		<AUTHORNAME>ADd</AUTHORNAME>
+		<PRICE>345</PRICE>
+	</BOOK>
+</BOOKINFO>
