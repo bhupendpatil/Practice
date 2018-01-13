@@ -158,6 +158,37 @@ JDBC create | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advan
 ## PL/SQL
 Program | Link
 -- | --
+Create Table | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/EMPLOYEE.sql) [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/createTable.sql)
+Factorial | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/Factorial.sql)
+Associative Array | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/associativeArray.sql)
+Break | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/break.sql)
+Continue | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/continue.sql)
+Cursor | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/cursorParameter.sql)
+Case | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/demoCase.sql)
+For loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/demoForLoop.sql)
+Increment | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/demoIncrement.sql)
+Sequence | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/demoSequence.sql)
+While loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/demoWhileLoop.sql)
+Exception Handling | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/exceptionHandling(Zero_Divide).sql)
+Ecxeption Propagation  | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/exceptionPropagation.sql)
+Explicit Conversion  | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/explicitConversion.sql)
+Explicit Cursor | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/explicitCursor.sql)
+For Loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/forLoop.sql)
+for update and where current | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/forUpdateAndWhereCurrent.sql)
+Function | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/functionDemo.sql)
+Impicit Conversion | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/implicitConversion.sql)
+Implicit Cursor | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/implicitCursor.sql)
+Nested Table | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/nestedTable.sql)
+No data found Exception | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/noDataFoundException.sql)
+Not NULL | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/notNull.sql)
+NULL | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/null.sql)
+%Type | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/percentType.sql)
+simple Loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/simpleLoop.sql)
+Stored Procedure | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/storedProcedure.sql)
+Too many rows Exception | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/tooManyRowsException.sql)
+User defined Exception | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/userDefinedException.sql)
+Variable Scope | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/variableScope.sql)
+While Loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/whileLoop.sql)
 
 
 ## Android
