@@ -194,6 +194,19 @@ While Loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQ
 ## Android
 Program | Link
 -- | --
+Frame Layout | [.xml](https://github.com/bhupendpatil/Practice/blob/master/Android/Layouts/FrameLayout.xml)
+Linear Layout | [.xml](https://github.com/bhupendpatil/Practice/blob/master/Android/Layouts/LinearLayout.xml)
+Relative Layout | [.xml](https://github.com/bhupendpatil/Practice/blob/master/Android/Layouts/RelativeLayout.xml)
+Table Layout | [.xml](https://github.com/bhupendpatil/Practice/blob/master/Android/Layouts/TableLayout.xml)
+Grid View | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/Adapter/GridView)
+List View | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/Adapter/ListView)
+Spinner | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/Adapter/Spinner)
+Calculator | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/Calculator)
+Email | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/Email)
+Network | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/Network)
+Notification | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/Notification)
+Option Menu | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/OptionMenu)
+Screen Navigation | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/ScreenNavigation)
 
 
 ## C# & .Net
