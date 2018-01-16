@@ -228,3 +228,18 @@ LinQ Where | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/Lin
 
 ## Web
 Program | Link
+-- | --
+AJAX Simple | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/AJAXsimple.html)
+AJAX Partial Refresh | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/AJAXPartialRefresh.html)
+XML dtd | [.dtd](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/book.dtd)
+XML Simple | [.xml](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/book.xml)
+XML Stylesheet | [.xsl](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/bookstylesheet.xsl) [.xsl](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/ifbook.xsl)
+Compare Validator | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/CompareValidator.aspx)
+Menu | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/Menu.aspx)
+Radio Button | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/RadioButton.aspx)
+Range Validator | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/RangeValidator.aspx)
+Regular Expression Validator | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/RegularExpressionValidator.aspx)
+Required Field | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/RequiredField.aspx)	
+Script Manager | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/ScriptManager.aspx)	
+Tree View | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/TreeView.aspx)	
+Validation Summary | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/ValidationSummary.aspx)
