@@ -210,8 +210,21 @@ Option Menu | [project](https://github.com/bhupendpatil/Practice/tree/master/And
 Screen Navigation | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/ScreenNavigation)
 
 
-## C# & .Net
+## C# 
 Program | Link
 -- | --
+Print the sum of two numbers | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/Program%20to%20print%20the%20sum%20of%20two%20numbers.cs)
+Print Hello and your name in a separate line | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/Program%20to%20print%20Hello%20and%20your%20name%20in%20a%20separate%20line.cs)
+Print the output of multiplication of three numbers which will be entered by the user | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/Program%20to%20print%20the%20output%20of%20multiplication%20of%20three%20numbers%20which%20will%20be%20entered%20by%20the%20user.cs)
+Print the result of dividing two numbers | [.sql](https://github.com/bhupendpatil/Practice/blob/master/C%23/Program%20to%20print%20the%20result%20of%20dividing%20two%20numbers.cs)
+Swap 2 numbers | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/Program%20to%20swap%20two%20numbers.cs)
+Exception Divide by zero | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/ExceptionDivideByZero.cs)
+LinQ GroupBy | [.cs](https://github.com/bhupendpatil/Practice/blob/dotNET/C%23/LinqGroupBy.cs)
+LinQ Join | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/LinqJoin.cs)
+LinQ OfType | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/LinqOfType.cs)
+LinQ Select | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/LinqSelect.cs)
+LinQ Where | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/LinqWhere.cs)
 
 
+## Web
+Program | Link
