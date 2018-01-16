@@ -189,6 +189,7 @@ Too many rows Exception | [.sql](https://github.com/bhupendpatil/Practice/blob/m
 User defined Exception | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/userDefinedException.sql)
 Variable Scope | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/variableScope.sql)
 While Loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/whileLoop.sql)
+Simple Package | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/simplePackage.sql)
 
 
 ## Android
