@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+		if(window.XMLHttpRequest){
+			XHRobj = new XMLHttpRequest();
+		}
+		else if(window.ActiveXObject){
+			XHRobj = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+
+		function fetchdata(datasource, divID){
+			if(XHRobj){
+				XHRobj.open("GET", datasource);
+				XHRobj.onreadystatechange=function(){
+					if(XHRobj.readyState==4 && XHRobj.status==200){
+						doeument.getElementById(divID).innerHTML = XHRobj.responseText;
+					}
+				}
+				XHRobj.send(null);
+			}
+		}
+	</script>
+</head>
+<body>
+	<h3>Fetching data with AJAX</h3>
+	<form>
+		<input type="button" value="Fetch Message" onclick="fetchdata("data.txt",'myDiv')">
+	</form>
+	<div id="myDiv"><b>The fetched data: </b></div>
+</body>
+</html>
