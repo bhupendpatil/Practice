@@ -244,3 +244,4 @@ Required Field | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WE
 Script Manager | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/ScriptManager.aspx)	
 Tree View | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/TreeView.aspx)	
 Validation Summary | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/ValidationSummary.aspx)
+Creating and Opening XMLHttpRequest object | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/CreatingAndOpening.html)
