@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script LANGUAGE="JavaScript">
+		var XHRobj = false;
+
+		if (window.XMLHttpRequest){
+			XHRobj = new XMLHttpRequest();
+		}
+		else if (window.ActiveXObject){
+			XHRobj = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+
+		function fetchdata(datasource,divID){
+			if(XHRobj){
+				XHRobj.open("GET", datasource);
+				XHRobj.onreadystatechange = function(){
+					if (XHRobj.readyState==4 && XHRobj.status==200){
+						document.getElementById(divID).innerHTML=XHRobj.responseText;
+					}
+				}
+				XHRobj.send(null);
+			}
+		}
+	</script>
+</head>
+<body>
+	<h3>Fetching data</h3>
+	<form>
+		<input type="button" value="Fetch Message" onclick="fetchdata('info.txt','myDiv')">
+	</form>
+	<div id="myDiv"><b>Fetched Data: </b></div>
+</body>
+</html>
