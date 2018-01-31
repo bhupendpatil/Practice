@@ -9,7 +9,7 @@ public class login extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        response.setContentType("text/html;charset=UTF-8");
+        response.setContentType("text/html");
         try (PrintWriter out = response.getWriter()) {
             String username = request.getParameter("uname");
             String userpass = request.getParameter("upass");
