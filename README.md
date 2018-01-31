@@ -155,6 +155,7 @@ JDBC Prepared Statement | [.java](https://github.com/bhupendpatil/Practice/blob/
 JDBC insertion and display | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Practical%20Exam/Sem%205/JDBCIncDis9.java)
 JDBC create | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Practical%20Exam/Sem%205/JDBCCreate8.java)
 Generic Servlet | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/GenericServletDemo.java)
+Current date and time using JSP | [.jsp](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/CurrentDateAndTimeJSP.jsp)
 
 ## PL/SQL
 Program | Link
