@@ -159,6 +159,7 @@ Current date and time using JSP | [.jsp](https://github.com/bhupendpatil/Practic
 Login using Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/login%20using%20servlet)
 Reading Cookies | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/ReadCookie.java)
 Operation of a Calculator using Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/operation%20of%20a%20calculator%20using%20servlet)
+addition and subtraction EJB | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/addition%20and%20subtraction%20EJB)
 
 ## PL/SQL
 Program | Link
