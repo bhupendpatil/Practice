@@ -158,6 +158,7 @@ Generic Servlet | [.java](https://github.com/bhupendpatil/Practice/blob/master/A
 Current date and time using JSP | [.jsp](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/CurrentDateAndTimeJSP.jsp)
 Login using Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/login%20using%20servlet)
 Reading Cookies | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/ReadCookie.java)
+Operation of a Calculator using Servlet | [project]()
 
 ## PL/SQL
 Program | Link
@@ -194,6 +195,7 @@ User defined Exception | [.sql](https://github.com/bhupendpatil/Practice/blob/ma
 Variable Scope | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/variableScope.sql)
 While Loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/whileLoop.sql)
 Simple Package | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/simplePackage.sql)
+Dynamic SQL | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dynamicSQL.sql)
 
 
 ## Android
@@ -212,7 +214,6 @@ Network | [project](https://github.com/bhupendpatil/Practice/tree/master/Android
 Notification | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/Notification)
 Option Menu | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/OptionMenu)
 Screen Navigation | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/ScreenNavigation)
-
 
 ## C# 
 Program | Link
