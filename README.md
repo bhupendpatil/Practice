@@ -160,6 +160,7 @@ Login using Servlet | [project](https://github.com/bhupendpatil/Practice/tree/ma
 Reading Cookies | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/ReadCookie.java)
 Operation of a Calculator using Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/operation%20of%20a%20calculator%20using%20servlet)
 addition and subtraction EJB | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/addition%20and%20subtraction%20EJB)
+servlet database output | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/servlet%20database%20output)
 
 ## PL/SQL
 Program | Link
