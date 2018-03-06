@@ -201,6 +201,7 @@ Dynamic SQL | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20S
 Study of transactions and locks | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/transactions.sql)
 Package 1 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/Package1.sql)
 Package 2 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/Package2.sql)
+Data dictionary | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dataDictionary.sql)
 
 
 ## Android
