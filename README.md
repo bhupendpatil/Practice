@@ -198,6 +198,7 @@ Variable Scope | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%
 While Loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/whileLoop.sql)
 Simple Package | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/simplePackage.sql)
 Dynamic SQL | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dynamicSQL.sql)
+Study of transactions and locks | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/transactions.sql)
 
 
 ## Android
