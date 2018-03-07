@@ -1,4 +1,4 @@
--- Assume Table
+-- Assume Table employee
 --    ID FIRST_NAME LAST_NAME      SALARY         DEPARTMENT_NO
 -------- ---------- ---------- ---------- ---------------------
 --     1 ABC        CBA             232.1                    50
