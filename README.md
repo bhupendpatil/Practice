@@ -204,6 +204,7 @@ Data dictionary | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL
 Dynamic SQL 1 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dynamicSQL1.sql)
 Dynamic SQL 2 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dynamicSQL2.sql)
 Trigger | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/trigger.sql)
+Indexes | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/indexes.sql)
 
 
 ## Android
