@@ -41,7 +41,7 @@ values (7, 'Noone', 22, 'MH', 2333.00 );
 --Salary difference:
 
 --After Trigger
-create or replace trigger displayChange after
+create or replace trigger displayInsertChange after
 insert on customers
 for each row
 begin
@@ -53,3 +53,7 @@ insert into customer (id,name,age,address,salary)
 values (8, 'Noone', 22, 'MH', 2333.00 );
 --OUTPUT
 --Inserted new values in table :)
+
+--Remove Trigger
+Drop trigger displayChange;
+Drop trigger displayInsertChange;
