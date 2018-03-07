@@ -197,11 +197,12 @@ User defined Exception | [.sql](https://github.com/bhupendpatil/Practice/blob/ma
 Variable Scope | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/variableScope.sql)
 While Loop | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/whileLoop.sql)
 Simple Package | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/simplePackage.sql)
-Dynamic SQL | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dynamicSQL.sql)
 Study of transactions and locks | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/transactions.sql)
 Package 1 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/Package1.sql)
 Package 2 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/Package2.sql)
 Data dictionary | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dataDictionary.sql)
+Dynamic SQL 1 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dynamicSQL1.sql)
+Dynamic SQL 2 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/dynamicSQL2.sql)
 
 
 ## Android
