@@ -42,3 +42,5 @@ rollback to savepoint updatedSalary60;
   
 --Lock
 --LOCK TABLE [TABLE NAME] IN [LOCK MODE] [WAIT | NOWAIT]
+
+LOCK TABLE employee IN SHARE MODE NOWAIT;
