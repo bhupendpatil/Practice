@@ -4,6 +4,7 @@
 	<title>Required Field Validation</title>
 </head>
 <body>
+
 <?php 
 
 	$nameErr = "";
@@ -14,11 +15,12 @@
 		}
 	}
 		
-	?>
-	<form method = "POST" action="">
-		Name : <input type="text" name="name"><?php echo $nameErr; ?><br/>
+?>
+<form method = "POST" action="">
+	Name : <input type="text" name="name"><?php echo $nameErr; ?><br/>
 
-		<input type="submit" name="submit" value="submit">
-	</form>
+	<input type="submit" name="submit" value="submit">
+</form>
+
 </body>
 </html>
