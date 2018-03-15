@@ -258,3 +258,4 @@ Script Manager | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WE
 Tree View | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/TreeView.aspx)	
 Validation Summary | [.aspx](https://github.com/bhupendpatil/Practice/blob/master/WEB/aspx/ValidationSummary.aspx)
 Creating and Opening XMLHttpRequest object | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/CreatingAndOpening.html)
+Applying-templates | [.xml](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/student.xml) [.xsl](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/student.xsl)
