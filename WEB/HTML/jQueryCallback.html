@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jQuery Callback</title>
+</head>
+<body>
+	<p>This will go</p>
+	<p>this will too</p>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("p").click(function(){
+				$(this).hide("slow",function(){
+					alert("you clicked")
+				});
+			})
+		});
+	</script>
+</body>
+</html>
