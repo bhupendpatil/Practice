@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Synchronous XMLHttpRequest</title>
+</head>
+<body>
+	<h1>Synchronous Demo</h1>
+	<button type="button" onclick="sload()">OK</button>
+	<p id="changing">This will change</p>
+
+	<script>
+		function sload(){
+			var obj = new XMLHttpRequest();
+			obj.onreadystatechange = function(){
+				if(this.readyState==4 && this.status==200){
+					document.getElementById("changing").innerHTML = this.responseText;
+				}
+			};
+			obj.open("POST","abc.txt",false);
+			obj.send();
+		}
+	</script>
+</body>
+</html>
