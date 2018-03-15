@@ -267,3 +267,4 @@ Retriving data from database PHP | [.php](https://github.com/bhupendpatil/Practi
 jQuery Selector | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQuerysSelector.html)
 jQuery Effect | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQuerysSelector.html)
 jQuery Traversing | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQueryTraversing.html)
+jQuery Callback | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQueryCallback.html)
