@@ -264,3 +264,4 @@ Asynchronous XMLHttpRequest | [.html](https://github.com/bhupendpatil/Practice/b
 Synchronous XMLHttpRequest | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/synchronousXMLHttpRequest.html) [.txt](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/abc.txt)
 Required Field Validator | [.php](https://github.com/bhupendpatil/Practice/blob/master/WEB/PHP/requiredFieldValidation.php)
 Retriving data from database PHP | [.php](https://github.com/bhupendpatil/Practice/blob/master/WEB/PHP/databaseSelect.php)
+jQuery Selector | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQuerysSelector.html)
