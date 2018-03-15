@@ -262,3 +262,4 @@ Applying-templates | [.xml](https://github.com/bhupendpatil/Practice/blob/master
 Conditional Statement | [.xml](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/book.xml) [.xsl](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/bookstylesheet.xsl) [.dtd](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/book.dtd)
 Asynchronous XMLHttpRequest | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/asynchronousXMLHttpRequest.html) [.txt](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/abc.txt)
 Synchronous XMLHttpRequest | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/synchronousXMLHttpRequest.html) [.txt](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/abc.txt)
+Required Field Validator | [.php](https://github.com/bhupendpatil/Practice/blob/master/WEB/PHP/requiredFieldValidation.php)
