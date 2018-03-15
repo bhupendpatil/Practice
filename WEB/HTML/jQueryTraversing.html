@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jQuery Traversing</title>
+</head>
+<body>
+	<p>Okay Click me</p>
+	<p><span>It will get hidden</span></p>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("p").find("span").click(function(){
+				$(this).hide();
+			});
+		});
+	</script>
+</body>
+</html>
