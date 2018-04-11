@@ -161,6 +161,23 @@ Reading Cookies | [.java](https://github.com/bhupendpatil/Practice/blob/master/A
 Operation of a Calculator using Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/operation%20of%20a%20calculator%20using%20servlet)
 addition and subtraction EJB | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/addition%20and%20subtraction%20EJB)
 servlet database output | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/servlet%20database%20output)
+Cookie Play | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Cookie%20Play)
+EvenOdd Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/EvenOdd%20Servlet)
+PrimeServlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/PrimeServlet)
+Qualification Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Qualification%20Servlet)
+Reverse String Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Reverse%20String%20Servlet)
+Factorial | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Factorial)
+Inserting Values to Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Inserting%20Values%20to%20Database)
+Positive negative | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Positive%20negative)
+Square Root | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Square%20Root)
+Squaring Numbers | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Squaring%20Numbers)
+Factorial | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Factorial-WS.java)
+Factorial1 | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Factorial1-WS%20.java)
+Palindrome | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Palindrome-WS.java)
+Power | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Power-WS.java)
+Reverse | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Reverse-WS.java)
+StringLength | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/StringLength-WS.java)
+Sum | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Sum-WS.java)
 
 ## PL/SQL
 Program | Link
