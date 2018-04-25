@@ -178,6 +178,8 @@ Power | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20J
 Reverse | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Reverse-WS.java)
 StringLength | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/StringLength-WS.java)
 Sum | [.java](https://github.com/bhupendpatil/Practice/blob/master/Advance%20Java/Sum-WS.java)
+Database Login using Servlet | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/DatabaseLoginServlet)
+Cookie Country | [project](https://github.com/bhupendpatil/Practice/tree/master/Advance%20Java/Cookie%20Country)
 
 ## PL/SQL
 Program | Link
