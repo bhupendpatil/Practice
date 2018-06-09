@@ -1,0 +1,4 @@
+for each element in array
+	if element you're looking
+		return true
+return false

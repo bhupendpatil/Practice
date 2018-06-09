@@ -1,0 +1,9 @@
+look at middle of sorted array
+if element you're looking for
+	return true
+else if element is to left
+	search left half of array
+else if element is to right
+	search right half of array
+else
+	return false
