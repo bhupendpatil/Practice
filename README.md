@@ -62,8 +62,8 @@ The Flat Dictionary | [.py](https://github.com/bhupendpatil/Practice/blob/master
 The Longest Palindromic | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/CheckiO/Home/The%20Longest%20Palindromic.py)
 The Most Wanted Letter | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/CheckiO/Home/The%20Most%20Wanted%20Letter.py)
 Xs and Os Referee | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/CheckiO/Home/Xs%20and%20Os%20Referee.py)
-GCD | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCD.py)
-GCD in less time | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDLessTime.py)
+GCD | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCD.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDLessTime.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDmoreLessTime.py)
+Insertion Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/insertionsort.py)
 
 ## Java
 Program | Link
