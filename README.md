@@ -63,7 +63,7 @@ The Longest Palindromic | [.py](https://github.com/bhupendpatil/Practice/blob/ma
 The Most Wanted Letter | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/CheckiO/Home/The%20Most%20Wanted%20Letter.py)
 Xs and Os Referee | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/CheckiO/Home/Xs%20and%20Os%20Referee.py)
 GCD | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCD.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDLessTime.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDmoreLessTime.py)
-Insertion Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/insertionsorting.py)
+Insertion Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/insertionsort.py)
 
 ## Java
 Program | Link
