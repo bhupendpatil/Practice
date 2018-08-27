@@ -64,6 +64,7 @@ The Most Wanted Letter | [.py](https://github.com/bhupendpatil/Practice/blob/mas
 Xs and Os Referee | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/CheckiO/Home/Xs%20and%20Os%20Referee.py)
 GCD | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCD.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDLessTime.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDmoreLessTime.py)
 Insertion Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/insertionsort.py)
+Merge Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/MergeSort.py)
 
 ## Java
 Program | Link
