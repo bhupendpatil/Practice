@@ -65,6 +65,10 @@ Xs and Os Referee | [.py](https://github.com/bhupendpatil/Practice/blob/master/P
 GCD | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCD.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDLessTime.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDmoreLessTime.py)
 Insertion Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/insertionsort.py)
 Merge Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/MergeSort.py)
+Kruskal's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/kruskals.py)
+Huffman's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/huffman.py)
+Dijkstrass's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/dijkstrass.py)
+
 
 ## Java
 Program | Link
