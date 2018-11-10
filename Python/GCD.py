@@ -1,3 +1,5 @@
+import time
+
 def gcd(m,n):
     fm = []
     for i in range(1,m+1):
@@ -15,3 +17,13 @@ def gcd(m,n):
             cf.append(f)
 
     return(cf[-1])
+
+
+
+a = gcd(780000000,6000000000)
+
+print("Gcd is {}".format(a))
+
+end = time.time()
+
+print("Total time for execution is {}".format(end - start))

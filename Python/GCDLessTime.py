@@ -1,3 +1,5 @@
+import time
+
 def gcd(m,n):
 
     cf = []
@@ -7,3 +9,12 @@ def gcd(m,n):
             cf.append(i)
 
     return(cf[-1])
+
+
+a = gcd(780000000,6000000000)
+
+print("Gcd is {}".format(a))
+
+end = time.time()
+
+print("Total time for execution is {}".format(end - start))
