@@ -67,7 +67,7 @@ Insertion sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Pyth
 Merge sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/2mergeSort.py)
 Permute by sorting | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/3ipermuteBySort.py)
 Permute by cyclic | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/3iipermuteByCyclic.py)
-Longest Common Subsequence | [https://github.com/bhupendpatil/Practice/blob/master/Python/4longestCS.py]
+Longest Common Subsequence | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/4longestCS.py)
 Huffman's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/5huffman.py)
 Kruskal's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/6kruskal.py)
 Dijkstra's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/7dijkstra.py)
