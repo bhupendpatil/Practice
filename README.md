@@ -63,12 +63,17 @@ The Longest Palindromic | [.py](https://github.com/bhupendpatil/Practice/blob/ma
 The Most Wanted Letter | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/CheckiO/Home/The%20Most%20Wanted%20Letter.py)
 Xs and Os Referee | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/CheckiO/Home/Xs%20and%20Os%20Referee.py)
 GCD | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCD.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDLessTime.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/GCDmoreLessTime.py)
-Insertion Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/insertionsort.py)
-Merge Sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/MergeSort.py)
-Kruskal's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/kruskals.py)
-Huffman's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/huffman.py)
-Dijkstrass's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/dijkstrass.py)
-
+Insertion sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/1insertionSort.py)
+Merge sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/2mergeSort.py)
+Permute by sorting | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/3ipermuteBySort.py)
+Permute by cyclic | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/3iipermuteByCyclic.py)
+Longest Common Subsequence | [https://github.com/bhupendpatil/Practice/blob/master/Python/4longestCS.py]
+Huffman's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/5huffman.py)
+Kruskal's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/6kruskal.py)
+Dijkstra's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/7dijkstra.py)
+Euclid's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py)
+Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9eulers.py)
+Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
 
 ## Java
 Program | Link
