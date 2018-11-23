@@ -17,3 +17,14 @@ Practical No | Program | Link
 9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9eulers.py)
 
 Download [.zip](https://drive.google.com/open?id=1b7gEx6uIZwyFyl6CCDr5ImosU84zspK8)
+
+
+## ANC
+Practical No | Program | Link
+-- | -- | --
+1 | Using 3 routers and 3 PCs | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/1%203router%203pc.pkt)
+2 | Using OSPF | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/2%203router%203pc%20ospf.pkt)
+3 | Using BGP | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/3%203router%203pc%20bgp.pkt)
+4 | DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/4%20DNS%20for%20small%20network.pkt)
+
+Download [.zip](https://drive.google.com/open?id=1UHgRD8MnYHdS-8e61Io1Ey1oFK83HKj5)
