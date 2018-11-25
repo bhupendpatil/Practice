@@ -28,3 +28,10 @@ Practical No | Program | Link
 4 | DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/4%20DNS%20for%20small%20network.pkt)
 
 Download [.zip](https://drive.google.com/open?id=1UHgRD8MnYHdS-8e61Io1Ey1oFK83HKj5)
+
+## ADBMS
+Practical No | Program | Link
+-- | -- | --
+1 | Vertical Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/verticalFragmentation.sql)
+
+Download link will be updated shortly..
