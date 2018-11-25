@@ -1,3 +1,4 @@
+-- Vertical Fragmentation
 
 -- Global Schema Employee(Eno;Ename;Address;Email;Salary)
 -- insert 10 records
