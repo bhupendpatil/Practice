@@ -6,7 +6,7 @@ Practical No | Program | Link
 -- | -- | --
 1 | Insertion sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/1insertionSort.py)
 2 | Merge sort | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/2mergeSort.py)
-3 i | Permute by sorting | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/3ipermuteBySort.py)
+3 i | Permute by sorting | .py
 3 ii | Permute by cyclic | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/3iipermuteByCyclic.py)
 4 | Longest Common Subsequence | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/4longestCS.py)
 5 | Huffman's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/5huffman.py)
@@ -16,6 +16,7 @@ Practical No | Program | Link
 9 i | Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
 9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9eulers.py)
 
+Permute by sorting will be updated shortly..
 Download [.zip](https://drive.google.com/open?id=1b7gEx6uIZwyFyl6CCDr5ImosU84zspK8)
 
 
