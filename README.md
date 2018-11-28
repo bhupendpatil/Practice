@@ -237,6 +237,7 @@ Dynamic SQL 2 | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%2
 Trigger | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/trigger.sql)
 Indexes | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/indexes.sql)
 Vertical Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/verticalFragmentation.sql)
+Horizontal Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/horizontalFragmentation.sql)
 
 
 ## Android
