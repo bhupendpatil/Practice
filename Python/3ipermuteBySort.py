@@ -8,24 +8,26 @@ i) Permute-by-Sorting
 import random
 import time
 
-def prioritizeAndSort(a):
-	size = len(a)
-	priorities = random.sample(range(size*size*size),size)
+count = 0
 
-	for i in range(1,size):
-		key = priorities[i]
-		value = a[i]
-		j = i - 1
+def my_min(a):
+	global count
+	count += len(a)
+	return a.index(min(a))
 
-		while (j>=0 and priorities[j]>key):
-			priorities[j+1]=priorities[j]
-			a[j+1]=a[j];
-			j = j - 1
+def swapp(a,b,c):
+	global count
+	count += 1
+	a[b],a[c] = a[c],a[b]
 
-		priorities[j+1]=key
-		a[j+1]=value
-
-	return priorities, a
+def permute_random(a):
+	n = len(a)
+	random_keys = [random.randint(0,10 ** n) for i in a]
+	for i in range(n):
+		k = my_min(random_keys)
+		swapp(a,i,k-i)
+		random_keys.pop(k)
+	return a;
 
 
 aList = [1,2,3,4,5,6,7,8,9,10]
@@ -35,10 +37,7 @@ start = time.time()
 print("UnSorted:")
 print(aList)
 
-prio,sortedaList = prioritizeAndSort(aList)
-
-print("Priorities are:")
-print(prio)
+sortedaList = permute_random(aList)
 
 print("Sorted:")
 print(sortedaList)
@@ -50,9 +49,7 @@ print("Running time = {}".format(end - start))
 Output
 UnSorted:
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-Priorities are:
-[120, 187, 340, 458, 514, 523, 550, 658, 678, 902]
 Sorted:
-[3, 4, 10, 7, 6, 2, 5, 9, 8, 1]
-Running time = 0.0002758502960205078
+[7, 10, 5, 9, 8, 2, 1, 6, 3, 4]
+Running time = 0.0003116130828857422
 """
