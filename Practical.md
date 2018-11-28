@@ -35,4 +35,4 @@ Practical No | Program | Link
 1 | Vertical Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/verticalFragmentation.sql)
 2 | Horizontal Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/horizontalFragmentation.sql)
 
-Download link will be updated shortly..
+Download [.zip](https://drive.google.com/open?id=1mxLpSL4cwlXtr9m2ltDEPXUnwQuuApjd)
