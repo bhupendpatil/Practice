@@ -238,6 +238,7 @@ Trigger | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/t
 Indexes | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/indexes.sql)
 Vertical Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/verticalFragmentation.sql)
 Horizontal Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/horizontalFragmentation.sql)
+Replica of Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/replicaOfDatabase.sql)
 
 
 ## Android
