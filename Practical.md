@@ -34,5 +34,6 @@ Practical No | Program | Link
 -- | -- | --
 1 | Vertical Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/verticalFragmentation.sql)
 2 | Horizontal Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/horizontalFragmentation.sql)
+3 | Replica of Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/replicaOfDatabase.sql)
 
-Download [.zip](https://drive.google.com/open?id=1mxLpSL4cwlXtr9m2ltDEPXUnwQuuApjd)
+Download link will be updated shortly..
