@@ -2,10 +2,10 @@
 
 -- Global Schema Employee(Eno;Ename;Address;Email;Salary)
 -- insert 10 records
--- divide Emp into vertical fragments 
--- Emp1(Eno;Ename;Address)
+-- divide Employee into vertical fragments 
+-- Employee1(Eno;Ename;Address)
 -- and 
--- Emp2(Eno;Email;Salary)
+-- Employee2(Eno;Email;Salary)
 -- on two different nodes.
 -- Fire the 4 Queries
 -- 1. Find the salary of an employee where employee number is unknown
@@ -38,20 +38,18 @@ grant all privileges to msc1 identified by msc1;
 grant all privileges to msc2 identified by msc2;
 grant all privileges to msc3 identified by msc3;
 
--- divide Emp into vertical fragments
+-- divide Employee into vertical fragments
 
 -- connect to msc1
 connect msc1/msc1@orcl;
--- Emp1(Eno;Ename;Address)
--- create a 1st link
+-- Employee1(Eno;Ename;Address)
 create database link Linkm1 connect to scott identified by tiger using 'orcl';
 
 create table Employee1 as select Eno,Ename,Address from Employee@Linkm1;
 
 -- connect to msc2
 connect msc2/msc2@orcl;
--- Emp2(Eno;Email;Salary)
--- create a 2nd link
+-- Employee2(Eno;Email;Salary)
 create database link Linkm2 connect to scott identified by tiger using 'orcl';
 
 create table Employee2 as select Eno,Email,Salary from Employee@Linkm2;

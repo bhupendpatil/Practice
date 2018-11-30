@@ -15,7 +15,7 @@
 
 
 -- Global Schema Employee(Eno;Ename;Address;Email;Salary)
-create table Employee(Eno numeric(6),Ename varchar2(50),Address varchar2(50),Email varchar2(20),Salary numeric(6));
+create table Employee(Eno numeric(6),Ename varchar2(10),Address varchar2(10),Email varchar2(20),Salary numeric(6));
 
 -- insert 10 records
 insert into Employee values(101,'Steve','Nerul','steve@gmail.com',20000);
@@ -43,7 +43,6 @@ grant all privileges to msc3 identified by msc3;
 -- connect to msc1
 connect msc1/msc1@orcl;
 -- Empp1
--- create a link 
 create database link linkh1 connect to scott identified by tiger using 'orcl';
 
 create table Empp1 as (select * from Employee@linkh1 where salary <=10000);
@@ -52,7 +51,6 @@ create table Empp1 as (select * from Employee@linkh1 where salary <=10000);
 -- connect to msc2
 connect msc2/msc2@orcl;
 --Empp2
--- create a link
 create database link linkh2 connect to scott identified by tiger using 'orcl';
 
 create table Empp2 as (select * from Employee@linkh2 where salary > 10000);
