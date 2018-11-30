@@ -15,7 +15,7 @@
 
 
 -- Global Schema Employee(Eno;Ename;Address;Email;Salary)
-create table Employee(Eno numeric(6),Ename varchar2(50),Address varchar2(50),Email varchar2(20),Salary numeric(6));
+create table Employee(Eno numeric(6),Ename varchar2(10),Address varchar2(10),Email varchar2(20),Salary numeric(6));
 
 -- insert 10 records
 insert into Employee values(101,'Steve','Nerul','steve@gmail.com',20000);
@@ -29,7 +29,7 @@ insert into Employee values(108,'Nina','Thane','nina@gmail.com',16000);
 insert into Employee values(109,'John','Thane','john@gmail.com',22000);
 insert into Employee values(110,'Paul','Airoli','paul@gmail.com',30000);
 
---if there is no user make make one
+--if there is no user make one
 create user msc1 identified by msc1;
 create user msc2 identified by msc2;
 create user msc3 identified by msc3;
