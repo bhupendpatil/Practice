@@ -239,6 +239,10 @@ Indexes | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/i
 Vertical Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/verticalFragmentation.sql)
 Horizontal Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/horizontalFragmentation.sql)
 Replica of Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/replicaOfDatabase.sql)
+Temporal Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/temporlDatabase.sql)
+Active Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/activeDatabase.sql)
+OODBMS | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/oodbms.sql)
+XML Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/xmlDatabase.sql)
 
 
 ## Android
