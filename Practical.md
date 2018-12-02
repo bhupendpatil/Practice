@@ -35,5 +35,11 @@ Practical No | Program | Link
 1 | Vertical Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/verticalFragmentation.sql)
 2 | Horizontal Fragmentation | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/horizontalFragmentation.sql)
 3 | Replica of Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/replicaOfDatabase.sql)
+4 | Temporal Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/temporlDatabase.sql)
+5 | Table with Multimedia attributes | .sql
+6 | Active database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/activeDatabase.sql)
+7 | OODBMS | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/oodbms.sql)
+8 | Spatial Database | .sql
+9 | XML Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/xmlDatabase.sql)
 
 Download link will be updated shortly..
