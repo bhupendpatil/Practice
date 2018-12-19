@@ -14,7 +14,7 @@ Practical No | Program | Link
 7 | Dijkstra's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/7dijkstra.py)
 8 | Euclid's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py)
 9 i | Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
-9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9eulers.py)
+9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py)
 
 Download link will be updated shortly..
 
