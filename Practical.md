@@ -16,7 +16,7 @@ Practical No | Program | Link
 9 i | Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
 9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9eulers.py)
 
-Download [.zip](https://drive.google.com/open?id=1uhTxe2Nykgd2xI6_DZRQm2lI-1aJbHmZ)
+Download link will be updated shortly..
 
 
 ## ANC
