@@ -9,18 +9,18 @@ import time
 import random
 
 def cyclic(a):
-	size = len(a)
-	ssorted = list(range(size))
+    size = len(a)
+    ssorted = list(range(size))
 
-	offset = random.randint(0,size)
+    offset = random.randint(0,size)
 
-	for i in range(0,size):
-		dest = i + offset;
-		if(dest>=size):
-			dest=dest-size;
-		ssorted[dest]=a[i]
-
-	return ssorted;
+    for i in range(0,size):
+        dest = i + offset;
+        if(dest>=size):
+            dest=dest-size;
+        ssorted[dest]=a[i]
+        
+    return ssorted;
 
 ab = [1,2,3,4,5,6,7,8,9,10]
 

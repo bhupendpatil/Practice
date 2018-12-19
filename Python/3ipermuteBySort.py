@@ -11,23 +11,23 @@ import time
 count = 0
 
 def my_min(a):
-	global count
-	count += len(a)
-	return a.index(min(a))
+    global count
+    count += len(a)
+    return a.index(min(a))
 
 def swapp(a,b,c):
-	global count
-	count += 1
-	a[b],a[c] = a[c],a[b]
+    global count
+    count += 1
+    a[b],a[c] = a[c],a[b]
 
 def permute_random(a):
-	n = len(a)
-	random_keys = [random.randint(0,10 ** n) for i in a]
-	for i in range(n):
-		k = my_min(random_keys)
-		swapp(a,i,k-i)
-		random_keys.pop(k)
-	return a;
+    n = len(a)
+    random_keys = [random.randint(0,10 ** n) for i in a]
+    for i in range(n):
+        k = my_min(random_keys)
+        swapp(a,i,k-i)
+        random_keys.pop(k)
+    return a;
 
 
 aList = [1,2,3,4,5,6,7,8,9,10]
