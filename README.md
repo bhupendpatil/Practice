@@ -320,3 +320,4 @@ DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/mas
 Program | Link
 -- | --
 Depth First Search | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/DeptFirstSearch.md)
+Hill Climbing | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/HillClimbing.md)
