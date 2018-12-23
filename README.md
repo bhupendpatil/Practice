@@ -316,7 +316,7 @@ Using OSPF | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Network
 Using BGP | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/3%203router%203pc%20bgp.pkt)
 DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/4%20DNS%20for%20small%20network.pkt)
 
-## Pseudo Code
+## Pseudo Codes
 Program | Link
 -- | --
 Depth First Search | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/DeptFirstSearch.md)
