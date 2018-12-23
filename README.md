@@ -315,3 +315,8 @@ Using 3 routers and 3 PCs | [.pkt](https://github.com/bhupendpatil/Practice/blob
 Using OSPF | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/2%203router%203pc%20ospf.pkt)
 Using BGP | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/3%203router%203pc%20bgp.pkt)
 DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/4%20DNS%20for%20small%20network.pkt)
+
+## Pseudo Code
+Program | Link
+-- | --
+Depth First Search | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/DeptFirstSearch.md)
