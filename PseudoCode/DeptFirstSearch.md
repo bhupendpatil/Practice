@@ -1,3 +1,4 @@
+## Depth First Search
 ```
 DeptFirstSearch()
 	open <- ((start NIL))
