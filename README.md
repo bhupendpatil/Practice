@@ -321,3 +321,4 @@ Program | Link
 -- | --
 Depth First Search | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/DeptFirstSearch.md)
 Hill Climbing | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/HillClimbing.md)
+Dijkstra's Algorithm | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/Dijkstra.md)
