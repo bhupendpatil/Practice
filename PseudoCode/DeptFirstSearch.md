@@ -1,3 +1,4 @@
+```
 DeptFirstSearch()
 	open <- ((start NIL))
 	close <- ()
@@ -12,7 +13,9 @@ DeptFirstSearch()
 					new <- MakePairs(noLoops,node)
 					open <- Append(new, Tail(open))
 	return "No solution found"
+```
 
+```
 RemoveSeen(nodeList,openList,closedList)
 	if Null(nodeList)
 		then return ()
@@ -20,15 +23,20 @@ RemoveSeen(nodeList,openList,closedList)
 			if (OccursIn(n,openList) OR OccursIn(n,closedList))
 				then return RemoveSeen(Tail(nodeList),openList,closedList)
 				else return Cons(n, RemoveSeen(Tail(nodeList),openList,closedList))
+```
 
+```
 OccursIn(node, listOfPairs)
 	if Null(listOfPairs)
 		then return False
 		else if n <- Head(Head(listOfPairs))
 			then return TRUE
 			else return OccursIn(node, Tail(listOfPairs))
+```
 
+```
 MakePairs(list,parent)
 	if Null(list)
 		then return()
 		else return Cons(MakeList(Head(list),parent),MakePairs(Tail(list),parent))
+```
