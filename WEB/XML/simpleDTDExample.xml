@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE okay [
+<!ENTITY name "Bhupend">
+<!ENTITY kon "Someone">
+]>
+
+<note>
+<to>&name;</to>
+<from>&kon;</from>
+</note>
