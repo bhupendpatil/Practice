@@ -306,6 +306,7 @@ jQuery Selector | [.html](https://github.com/bhupendpatil/Practice/blob/master/W
 jQuery Effect | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQuerysSelector.html)
 jQuery Traversing | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQueryTraversing.html)
 jQuery Callback | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQueryCallback.html)
+XML DTD Simple Example | [.xml](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/simpleDTDExample.xml)
 
 ## Networking
 Program | Link
