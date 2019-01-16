@@ -33,3 +33,5 @@ Tools.delay(2000)
 motA.forward()
 motB.forward()
 Tools.delay(2000)
+
+robot.exit()
