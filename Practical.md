@@ -47,5 +47,12 @@ Download [.zip](https://drive.google.com/open?id=1mxLpSL4cwlXtr9m2ltDEPXUnwQuuAp
 ## Robotics
 Practical No | Program | Link
 -- | -- | --
+1 i | Robot with gear | [.py]()
+1 ii | Robot without gear | [.py]()
+2 | 2 motors move it Forward, Left, Right | [.py]()
+3 | Do a Square | [.py]()
+4 | Light sensors to follow a line | [.py]()
+5 | Path following Robot | [.py]()
+6 | Register obstacles | [.py]()
 
 Updating Shortly..
