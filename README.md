@@ -81,6 +81,7 @@ Light sensors to follow a line | [.py](https://github.com/bhupendpatil/Practice/
 Path following Robot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
 Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
 BFS | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
+Do a Square | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/makeSquare.py)
 
 ## Java
 Program | Link
