@@ -42,7 +42,7 @@ Practical No | Program | Link
 4 | Temporal Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/temporlDatabase.sql)
 5 | Active database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/activeDatabase.sql)
 6 | OODBMS | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/oodbms.sql)
-7 | Spatial Database | .sql
+7 | Spatial Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/SpatialDatabase.sql)
 8 | XML Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/xmlDatabase.sql)
 
 Download link will be updated shortly..
