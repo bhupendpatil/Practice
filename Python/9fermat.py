@@ -7,14 +7,14 @@ import math
 import time
 
 def fermat(a,p):
-	if(a%p==0):
-		print("a should not be divible by p")
-	else:
-		n = p - 1
-		lhs = math.pow(a,n)
-		llhs = lhs%p
-		rhs = 1%p
-		return llhs, rhs
+    if(a%p==0):
+        print("a should not be divible by p")
+    else:
+        n = p - 1
+        lhs = math.pow(a,n)
+        llhs = lhs%p
+        rhs = 1%p
+        return llhs, rhs
 
 aValue = float(input("Enter value for a: "))
 pValue = float(input("Enter a prime number(p): "))

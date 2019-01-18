@@ -9,22 +9,22 @@ import time
 import decimal
 
 def gcd(a,b):
-	if(b==0):
-		return a
-	else:
-		return gcd(b,a%b)
+    if(b==0):
+        return a
+    else:
+        return gcd(b,a%b)
 
 def phi(n):
-	count = 0
-	for i in range(0,n):
-		if(gcd(i,n)==1):
-			count = count + 1
-	return count
+    count = 0
+    for i in range(0,n):
+        if(gcd(i,n)==1):
+            count = count + 1
+    return count
 
 def euler(a,n,p):
-	lhs = float(math.pow(a,p))
-	rhs = float(lhs%n)
-	return lhs,rhs
+    lhs = float(math.pow(a,p))
+    rhs = float(lhs%n)
+    return lhs,rhs
 
 aValue = int(input("Enter value for a: "))
 bValue = int(input("Enter value for n: "))

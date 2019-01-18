@@ -8,10 +8,10 @@ time and recursive calls made in each case.
 import time
 
 def gcd(a,b):
-	if (b==0):
-		return a
-	else:
-		return gcd(b,a%b);
+    if (b==0):
+        return a
+    else:
+        return gcd(b,a%b);
 
 firstN = int(input("Enter first number: "))
 secondN = int(input("Enter second number: "))
@@ -19,9 +19,9 @@ secondN = int(input("Enter second number: "))
 start = time.time()
 
 if firstN<0 or secondN<0:
-	print("Enter only non-negative numbers")
+    print("Enter only non-negative numbers")
 else:
-	print("GCD is {}".format(gcd(firstN,secondN)))
+    print("GCD is {}".format(gcd(firstN,secondN)))
 
 end = time.time()
 print("Running time = {}".format(end - start))
