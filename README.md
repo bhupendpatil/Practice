@@ -74,6 +74,9 @@ Dijkstra's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Pyt
 Euclid's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py)
 Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9eulers.py)
 Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
+Robot with Gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithGear.py)
+Robot without Gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithoutGear.py)
+Forward, Left, Right | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/forwardLeftAndRight.py)
 
 ## Java
 Program | Link
