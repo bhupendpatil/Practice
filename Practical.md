@@ -54,5 +54,8 @@ Practical No | Program | Link
 4 | Light sensors to follow a line | .py
 5 | Path following Robot | .py
 6 | Register obstacles | .py
+7 | BFS | .py
+8 | Hill Climbing | .py
+9 | A* |.py
 
 Updating Shortly..
