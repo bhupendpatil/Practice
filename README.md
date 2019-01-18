@@ -77,6 +77,10 @@ Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Py
 Robot with Gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithGear.py)
 Robot without Gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithoutGear.py)
 Forward, Left, Right | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/forwardLeftAndRight.py)
+Light sensors to follow a line | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/LightSensor.py)
+Path following Robot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
+Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
+BFS | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
 
 ## Java
 Program | Link
