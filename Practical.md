@@ -50,14 +50,14 @@ Download [.zip](https://drive.google.com/open?id=1mxLpSL4cwlXtr9m2ltDEPXUnwQuuAp
 ## Robotics
 Practical No | Program | Link
 -- | -- | --
-1 i | Robot with gear | .py
-1 ii | Robot without gear | .py
-2 | 2 motors move it Forward, Left, Right | .py
+1 i | Robot with gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithGear.py)
+1 ii | Robot without gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithoutGear.py)
+2 | 2 motors move it Forward, Left, Right | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/forwardLeftAndRight.py)
 3 | Do a Square | .py
-4 | Light sensors to follow a line | .py
-5 | Path following Robot | .py
-6 | Register obstacles | .py
-7 | BFS | .py
+4 | Light sensors to follow a line | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/LightSensor.py)
+5 | Path following Robot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
+6 | Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
+7 | BFS | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
 8 | Hill Climbing | .py
 9 | A* |.py
 
