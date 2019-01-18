@@ -1,5 +1,7 @@
 # Practical
-Note: This [file](https://github.com/bhupendpatil/Practice/edit/master/Practical.md) will be deleted after exam
+Note: 
+This [file](https://github.com/bhupendpatil/Practice/edit/master/Practical.md) will be deleted after exam
+For Robotics you'll need TigerJython
 
 ## Algorithms
 Practical No | Program | Link
