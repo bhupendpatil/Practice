@@ -58,7 +58,7 @@ Practical No | Program | Link
 6 | Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
 7 | BFS | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/BFS.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
 8 | Hill Climbing | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/TSPNearestNeighbour.java)
-9 | A* |[.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Astar.java)
+9 | A* | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Astar.java)
 
 For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md)
 
