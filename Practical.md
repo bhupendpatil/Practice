@@ -3,7 +3,6 @@ Note:
 
 This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be deleted after exam
 
-For Robotics you'll need TigerJython
 
 ## Algorithms
 Practical No | Program | Link
@@ -60,5 +59,7 @@ Practical No | Program | Link
 7 | BFS | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
 8 | Hill Climbing | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/TSPNearestNeighbour.java)
 9 | A* |[.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Astar.java)
+
+For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md)
 
 Download link will be updated shortly..
