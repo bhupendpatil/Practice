@@ -27,10 +27,11 @@ Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/
 ## ANC
 Practical No | Program | Link
 -- | -- | --
-1 | Using 3 routers and 3 PCs | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/1%203router%203pc.pkt)
-2 | Using OSPF | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/2%203router%203pc%20ospf.pkt)
-3 | Using BGP | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/3%203router%203pc%20bgp.pkt)
-4 | DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/4%20DNS%20for%20small%20network.pkt)
+1 | Using 3 routers and 3 PCs | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/1%203router%203pc.pkt)
+
+2 | Using OSPF | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/2%203router%203pc%20ospf.pkt)
+3 | Using BGP | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/3%203router%203pc%20bgp.pkt)
+4 | DNS for small network | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/4%20DNS%20for%20small%20network.pkt)
 
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/ANC.zip)
 
