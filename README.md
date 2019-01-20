@@ -81,7 +81,10 @@ Light sensors to follow a line | [.py](https://github.com/bhupendpatil/Practice/
 Path following Robot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
 Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
 BFS | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
-Do a Square | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/makeSquare.py)
+Do a Square (while loop) | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/doSquareWhile.py) 
+Doing Steps (for loop) | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/stepsFor.py)
+Change direction based on condition | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/directionCondition.py)
+Control speed using switch case | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/controlSpeedSwitch.py)
 
 ## Java
 Program | Link
