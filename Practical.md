@@ -19,7 +19,7 @@ Practical No | Program | Link
 9 i | Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
 9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py)
 
-Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/AlgoFinal.zip)
+Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/Algo.zip)
 
 
 ## ANC
@@ -30,7 +30,7 @@ Practical No | Program | Link
 3 | Using BGP | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/3%203router%203pc%20bgp.pkt)
 4 | DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/4%20DNS%20for%20small%20network.pkt)
 
-Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/AncPartial.zip)
+Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/ANC.zip)
 
 ## ADBMS
 Practical No | Program | Link
@@ -44,7 +44,7 @@ Practical No | Program | Link
 7 | Spatial Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/SpatialDatabase.sql)
 8 | XML Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/xmlDatabase.sql)
 
-Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/ADBMSFinal.zip)
+Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/ADBMS.zip)
 
 ## Robotics
 Practical No | Program | Link
@@ -52,7 +52,10 @@ Practical No | Program | Link
 1 i | Robot with gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithGear.py)
 1 ii | Robot without gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithoutGear.py)
 2 | 2 motors move it Forward, Left, Right | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/forwardLeftAndRight.py)
-3 | Do a Square | .py <!-- [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/makeSquare.py) --> 
+3 i | Do a Square (while loop) | .py 
+3 ii | Do a Square (for loop) | .py
+3 iii | Do a Square (Based on condition) | .py
+3 iv | Do a Square (using switch case ) | .py
 4 | Light sensors to follow a line | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/LightSensor.py)
 5 | Path following Robot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
 6 | Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
@@ -62,4 +65,4 @@ Practical No | Program | Link
 
 For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md)
 
-Download file will be updated shortly..
+Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/Robotics.zip)
