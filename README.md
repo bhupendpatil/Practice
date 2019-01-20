@@ -320,11 +320,11 @@ XML DTD Simple Example | [.xml](https://github.com/bhupendpatil/Practice/blob/ma
 ## Networking
 Program | Link
 -- | --
-Simple Network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/Simple%20Network.pkt)
-Using 3 routers and 3 PCs | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/1%203router%203pc.pkt)
-Using OSPF | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/2%203router%203pc%20ospf.pkt)
-Using BGP | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/3%203router%203pc%20bgp.pkt)
-DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/4%20DNS%20for%20small%20network.pkt)
+Simple Network | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/Simple%20Network.pkt)
+Using 3 routers and 3 PCs | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/1%203router%203pc.pkt)
+Using OSPF | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/2%203router%203pc%20ospf.pkt)
+Using BGP | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/3%203router%203pc%20bgp.pkt)
+DNS for small network | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/4%20DNS%20for%20small%20network.pkt)
 
 ## Pseudo Codes
 Program | Link
