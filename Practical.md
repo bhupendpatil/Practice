@@ -56,7 +56,7 @@ Practical No | Program | Link
 4 | Light sensors to follow a line | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/LightSensor.py)
 5 | Path following Robot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
 6 | Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
-7 | BFS | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
+7 | BFS | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/BFS.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
 8 | Hill Climbing | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/TSPNearestNeighbour.java)
 9 | A* |[.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Astar.java)
 
