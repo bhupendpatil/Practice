@@ -62,4 +62,4 @@ Practical No | Program | Link
 
 For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md)
 
-Download link will be updated shortly..
+Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/RoboPartial.zip)
