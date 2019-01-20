@@ -3,6 +3,8 @@ Note:
 
 This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be deleted after exam
 
+For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md)
+
 
 ## Algorithms
 Practical No | Program | Link
@@ -32,6 +34,7 @@ Practical No | Program | Link
 
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/ANC.zip)
 
+
 ## ADBMS
 Practical No | Program | Link
 -- | -- | --
@@ -45,6 +48,7 @@ Practical No | Program | Link
 8 | XML Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/PL%20SQL/xmlDatabase.sql)
 
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/ADBMS.zip)
+
 
 ## Robotics
 Practical No | Program | Link
@@ -62,7 +66,5 @@ Practical No | Program | Link
 7 | BFS | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/BFS.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
 8 | Hill Climbing | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/TSPNearestNeighbour.java)
 9 | A* | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Astar.java)
-
-For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md)
 
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/Robotics.zip)
