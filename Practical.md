@@ -52,10 +52,10 @@ Practical No | Program | Link
 1 i | Robot with gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithGear.py)
 1 ii | Robot without gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithoutGear.py)
 2 | 2 motors move it Forward, Left, Right | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/forwardLeftAndRight.py)
-3 i | Do a Square (while loop) | .py 
-3 ii | Do a Square (for loop) | .py
-3 iii | Do a Square (Based on condition) | .py
-3 iv | Do a Square (using switch case ) | .py
+3 i | Do a Square (while loop) | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/doSquareWhile.py) 
+3 ii | Doing Steps (for loop) | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/stepsFor.py)
+3 iii | Change direction based on condition | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/directionCondition.py)
+3 iv | Control speed using switch case | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/controlSpeedSwitch.py)
 4 | Light sensors to follow a line | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/LightSensor.py)
 5 | Path following Robot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
 6 | Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
