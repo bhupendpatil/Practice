@@ -14,11 +14,11 @@ ts=TouchSensor(SensorPort.S3)
 robot.addPart(ts)
 robot.addPart(gear)
 
-gear.setSpeed(40)
+gear.setSpeed(30)
 gear.forward()
 
 while True:
     if ts.isPressed():
         gear.backward()
-        gear.left(850)
+        gear.left(750)
         gear.forward()
