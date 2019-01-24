@@ -3,7 +3,7 @@ Note:
 
 This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be deleted after exam
 
-For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md) if you code in Python; else you'll have to figureout your own ghanerda way if you code in JAVA
+For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md) for Python and [LifeSaverBhupend](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Java/Robotics/LifeSaverBhupend.jar) for Java
 
 
 ## Algorithms
@@ -56,21 +56,18 @@ Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/
 ## Robotics
 Practical No | Program | Link
 -- | -- | --
-1 i | Robot with gear | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithGear.py)
-1 ii | Robot without gear | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithoutGear.py)
-2 | 2 motors move it Forward, Left, Right | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/forwardLeftAndRight.py) 
-3 i | Do a Square (while loop) | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/doSquareWhile.py)
-3 ii | Doing Steps (for loop) | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/stepsFor.py)
-3 iii | Change direction based on condition | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/directionCondition.py)
-3 iv | Control speed using switch case | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/controlSpeedSwitch.py)
-4 | Light sensors to follow a line | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/LightSensor.py)
-5 | Path following Robot | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
-6 | Register obstacles | .java [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
+1 i | Robot with gear | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/robotWithGear.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithGear.py)
+1 ii | Robot without gear | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/robotWithoutGear.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/robotWithoutGear.py)
+2 | 2 motors move it Forward, Left, Right | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/forwardLeftAndRight.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/forwardLeftAndRight.py) 
+3 i | Do a Square (while loop) | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/doSquareWhile.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/doSquareWhile.py)
+3 ii | Doing Steps (for loop) | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/stepsFor.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/stepsFor.py)
+3 iii | Change direction based on condition | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/directionCondition.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/directionCondition.py)
+3 iv | Control speed using switch case | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/controlSpeedSwitch.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/controlSpeedSwitch.py)
+4 | Light sensors to follow a line | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/lightSensor.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/LightSensor.py)
+5 | Path following Robot | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/PathFollowing.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/PathFollowing.py)
+6 | Register obstacles | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/RegisterObstacles.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/RegisterObstacles.py)
 7 | BFS | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/BFS.java) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/BFS.py)
 8 | Hill Climbing | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/TSPNearestNeighbour.java)
 9 | A* | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Astar.java)
 
-Download link updating shortly..
-<!--
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/Robotics.zip)
--->
