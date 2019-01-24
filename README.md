@@ -201,6 +201,16 @@ Cookie Country | [project](https://github.com/bhupendpatil/Practice/tree/master/
 BFS | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/BFS.java)
 Hill Climbing | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/TSPNearestNeighbour.java)
 A* | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Astar.java)
+Robot with Gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/robotWithGear.java)
+Robot without Gear | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/robotWithoutGear.java)
+Forward, Left, Right | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/forwardLeftAndRight.java)
+Light sensors to follow a line | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/lightSensor.java)
+Path following Robot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/PathFollowing.java)
+Register obstacles | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/RegisterObstacles.java)
+Do a Square (while loop) | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/doSquareWhile.java) 
+Doing Steps (for loop) | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/stepsFor.java)
+Change direction based on condition | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/directionCondition.java)
+Control speed using switch case | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/controlSpeedSwitch.java)
 
 ## PL/SQL
 Program | Link
