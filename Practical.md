@@ -3,7 +3,7 @@ Note:
 
 This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be deleted after exam
 
-For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md) for Python and [LifeSaverBhupend](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Java/Robotics/LifeSaverBhupend.jar) for Java
+In Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md) for Python and [LifeSaverBhupend](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Java/Robotics/LifeSaverBhupend.jar) for Java
 
 
 ## Algorithms
