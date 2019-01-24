@@ -31,11 +31,14 @@ Practical No | Program | Link
 2 | Using OSPF | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/2%203router%203pc%20ospf.pkt)
 3 | Using BGP | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/3%203router%203pc%20bgp.pkt)
 4 | DNS for small network | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/4%20DNS%20for%20small%20network.pkt)
+5 | Virtual PC based network | [.md]()
+6 | Network cloud and hosts | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/NetworkCloudAndHosts.md)
+7 | Simple Adhoc network | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/SimpleAdhocNetwork.md)
+8 | MANET simulation for AODVUU | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/MANETsimulation.md)
+9 | Single mobile network | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/SingleMobileNetwork.md)
+10 | Wireless Network | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/WirelessNetwork.md)
 
-Download link updating shortly..
-<!--
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/ANC.zip)
--->
 
 
 ## ADBMS
