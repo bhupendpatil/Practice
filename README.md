@@ -335,6 +335,11 @@ Using 3 routers and 3 PCs | [.pkt](https://raw.githubusercontent.com/bhupendpati
 Using OSPF | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/2%203router%203pc%20ospf.pkt)
 Using BGP | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/3%203router%203pc%20bgp.pkt)
 DNS for small network | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/4%20DNS%20for%20small%20network.pkt)
+Network cloud and hosts | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/NetworkCloudAndHosts.md)
+Simple Adhoc network | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/SimpleAdhocNetwork.md)
+MANET simulation for AODVUU | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/MANETsimulation.md)
+Single mobile network | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/SingleMobileNetwork.md)
+Wireless Network | [.md](https://github.com/bhupendpatil/Practice/blob/master/Networking/WirelessNetwork.md)
 
 ## Pseudo Codes
 Program | Link
