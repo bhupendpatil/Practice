@@ -21,7 +21,10 @@ Practical No | Program | Link
 9 i | Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
 9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py)
 
+Download link updating shortly..
+<!--
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/Algo.zip)
+-->
 
 
 ## ANC
