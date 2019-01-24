@@ -21,10 +21,7 @@ Practical No | Program | Link
 9 i | Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
 9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py)
 
-Download link updating shortly..
-<!--
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/Algo.zip)
--->
 
 
 ## ANC
@@ -35,7 +32,10 @@ Practical No | Program | Link
 3 | Using BGP | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/3%203router%203pc%20bgp.pkt)
 4 | DNS for small network | [.pkt](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Networking/4%20DNS%20for%20small%20network.pkt)
 
+Download link updating shortly..
+<!--
 Download [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/raw/Raw/ANC.zip)
+-->
 
 
 ## ADBMS
