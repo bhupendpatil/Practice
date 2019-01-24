@@ -3,7 +3,7 @@ Note:
 
 This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be deleted after exam
 
-For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md)
+For Robotics you'll need [TigerJython](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/README.md) if you code in Python; else you'll have to figureout your own ghanerda way if you code in JAVA
 
 
 ## Algorithms
