@@ -41,16 +41,16 @@ grant all privileges to msc3 identified by msc3;
 -- divide Employee into vertical fragments
 
 -- connect to msc1
-connect msc1/msc1@orcl;
+connect msc1/msc1@xe;
 -- Employee1(Eno;Ename;Address)
-create database link Linkm1 connect to scott identified by tiger using 'orcl';
+create database link Linkm1 connect to system identified by tiger using 'xe';
 
 create table Employee1 as select Eno,Ename,Address from Employee@Linkm1;
 
 -- connect to msc2
-connect msc2/msc2@orcl;
+connect msc2/msc2@xe;
 -- Employee2(Eno;Email;Salary)
-create database link Linkm2 connect to scott identified by tiger using 'orcl';
+create database link Linkm2 connect to system identified by tiger using 'xe';
 
 create table Employee2 as select Eno,Email,Salary from Employee@Linkm2;
 
@@ -58,11 +58,11 @@ create table Employee2 as select Eno,Email,Salary from Employee@Linkm2;
 -- on two different nodes
 
 -- connect to msc3
-connect msc3/msc3@orcl;
+connect msc3/msc3@xe;
 --creating 2 different links
-create database link linkmsc1 connect to msc1 identified by msc1 using 'orcl';
+create database link linkmsc1 connect to msc1 identified by msc1 using 'xe';
 
-create database link linkmsc2 connect to msc2 identified by msc2 using 'orcl';
+create database link linkmsc2 connect to msc2 identified by msc2 using 'xe';
 
 
 
