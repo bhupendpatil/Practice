@@ -41,27 +41,27 @@ grant all privileges to msc3 identified by msc3;
 -- divide Emp into vertical fragments
 
 -- connect to msc1
-connect msc1/msc1@orcl;
+connect msc1/msc1@xe;
 -- Empp1
-create database link linkh1 connect to scott identified by tiger using 'orcl';
+create database link linkh1 connect to system identified by tiger using 'xe';
 
 create table Empp1 as (select * from Employee@linkh1 where salary <=10000);
 
 
 -- connect to msc2
-connect msc2/msc2@orcl;
+connect msc2/msc2@xe;
 --Empp2
-create database link linkh2 connect to scott identified by tiger using 'orcl';
+create database link linkh2 connect to system identified by tiger using 'xe';
 
 create table Empp2 as (select * from Employee@linkh2 where salary > 10000);
 
 
 -- connect to msc3
-connect msc3/msc3@orcl;
+connect msc3/msc3@xe;
 -- create 2 different links
-create database link linkh1 connect to msc1 identified by msc1 using 'orcl';
+create database link linkh1 connect to msc1 identified by msc1 using 'xe';
 
-create database link linkh2 connect to msc2 identified by msc2 using 'orcl';
+create database link linkh2 connect to msc2 identified by msc2 using 'xe';
 
 
 -- Fire the 4 Queries
