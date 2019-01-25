@@ -36,17 +36,17 @@ grant all privileges to msc3 identified by msc3;
 -- Store the replication of emp in 2 different nodes
 
 -- connect to msc1
-connect msc1/msc1@orcl;
+connect msc1/msc1@xe;
 -- EmppI
-create database link linkdb1 connect to scott identified by tiger using 'orcl';
+create database link linkdb1 connect to system identified by tiger using 'xe';
 
 create table EmppI as (select * from Employee@linkdb1);
 
 -- connect to msc2
-connect msc2/msc2@orcl;
+connect msc2/msc2@xe;
 
 -- create a replica link
-create database link linkdb3 connect to msc1 identified by msc1 using 'orcl';
+create database link linkdb3 connect to msc1 identified by msc1 using 'xe';
 
 -- Fire the 4 Queries
 
