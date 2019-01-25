@@ -17,7 +17,7 @@ Practical No | Program | Link
 5 | Huffman's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/5huffman.py)
 6 | Kruskal's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/6kruskal.py)
 7 | Dijkstra's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/7dijkstra.py)
-8 | Euclid's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/euclid.py)
+8 | Euclid's code | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py) [ckt.py](https://github.com/bhupendpatil/Practice/blob/master/Python/euclid.py)
 9 i | Fermat's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/9fermat.py)
 9 ii | Euler's Theorem | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/8euclid.py)
 
