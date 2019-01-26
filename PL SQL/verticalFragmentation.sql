@@ -43,14 +43,14 @@ grant all privileges to msc3 identified by msc3;
 -- connect to msc1
 connect msc1/msc1@xe;
 -- Employee1(Eno;Ename;Address)
-create database link Linkm1 connect to system identified by tiger using 'xe';
+create database link Linkm1 connect to scott identified by tiger using 'xe';
 
 create table Employee1 as select Eno,Ename,Address from Employee@Linkm1;
 
 -- connect to msc2
 connect msc2/msc2@xe;
 -- Employee2(Eno;Email;Salary)
-create database link Linkm2 connect to system identified by tiger using 'xe';
+create database link Linkm2 connect to scott identified by tiger using 'xe';
 
 create table Employee2 as select Eno,Email,Salary from Employee@Linkm2;
 

@@ -38,7 +38,7 @@ grant all privileges to msc3 identified by msc3;
 -- connect to msc1
 connect msc1/msc1@xe;
 -- EmppI
-create database link linkdb1 connect to system identified by tiger using 'xe';
+create database link linkdb1 connect to scott identified by tiger using 'xe';
 
 create table EmppI as (select * from Employee@linkdb1);
 
