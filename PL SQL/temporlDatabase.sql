@@ -11,7 +11,7 @@
 --    b. Find the name of company which has highest share price at 5:00 PM
 
 -- A. Create table jy(accno;ename;recdate;dob;retiredate)
-create table jy(accno number, 
+create table jy(accno number,
 	ename varchar2(10),
 	recdate date,
 	dob date,
