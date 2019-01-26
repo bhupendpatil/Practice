@@ -9,6 +9,10 @@
 -- 3. Find the employee name and email where employee number is known.
 -- 4. Find the employee name and address where employee number is known.
 
+-- create scott user if not present
+create user scott identified by tiger;
+grant all privileges to scott identified by tiger;
+
 -- Global Schema Employee(Eno;Ename;Address;Email;Salary)
 create table Employee(Eno numeric(6),Ename varchar2(10),Address varchar2(10),Email varchar2(20),Salary numeric(6));
 
