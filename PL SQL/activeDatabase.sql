@@ -61,9 +61,9 @@ create or replace Trigger QBV
 	for each row
 	when(New.pno IS NOT NULL)
 begin
-update katekar
-set thrs=thrs+:New.hrs-:old.hrs 
-where pno=:New.pno;	
+	update katekar
+	set thrs=thrs+:New.hrs-:old.hrs 
+	where pno=:New.pno;	
 end;
 /
 
