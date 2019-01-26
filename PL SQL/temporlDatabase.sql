@@ -11,11 +11,11 @@
 --    b. Find the name of company which has highest share price at 5:00 PM
 
 -- A. Create table jy(accno;ename;recdate;dob;retiredate)
-create table jy(accno number,
-				ename varchar2(10),
-				recdate date,
-				dob date,
-				retiredate date);
+create table jy(accno number, 
+	ename varchar2(10),
+	recdate date,
+	dob date,
+	retiredate date);
 
 --    insert 5 records
 insert into jy values(1,'ABC','2-Mar-1990','11-April-1975','');
@@ -49,9 +49,9 @@ select * from jy where retiredate = '02-Mar-30';
 
 -- B. Create table tbl_shares(company_name;no_shares;price;transaction_time)
 create table tb_shares(company_name varchar2(10),
-						no_shares number(5),
-						price number(5),
-						transaction_time date);
+	no_shares number(5),
+	price number(5),
+	transaction_time date);
 
 --    insert 5 records
 insert into tb_shares values('Infosys',300,10,to_date('09:45','hh24:mi'));
