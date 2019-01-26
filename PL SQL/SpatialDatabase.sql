@@ -15,34 +15,26 @@ Create table cola_mrp (mkt_id number primary key, name varchar(20), shape MDSYS.
 insert into cola_mrp values
 		(1,'cola_a',MDSYS.SDO_GEOMETRY(
 		2003,NULL,NULL,
-		MDSYS.SDO_ELEM_INFO_ARRAY
-		(1,1003,3),
-		MDSYS.SDO_ORDINATE_ARRAY
-		(1,1,5,7)));
+		MDSYS.SDO_ELEM_INFO_ARRAY(1,1003,3),
+		MDSYS.SDO_ORDINATE_ARRAY(1,1,5,7)));
 
 insert into cola_mrp values
 		(2,'cola_b',MDSYS.SDO_GEOMETRY(
 		2003,NULL,NULL,
-		MDSYS.SDO_ELEM_INFO_ARRAY
-		(1,1003,1),
-		MDSYS.SDO_ORDINATE_ARRAY
-		(5,1,8,1,8,6,5,7,5,1)));
+		MDSYS.SDO_ELEM_INFO_ARRAY(1,1003,1),
+		MDSYS.SDO_ORDINATE_ARRAY(5,1,8,1,8,6,5,7,5,1)));
 
 insert into cola_mrp values
 		(3,'cola_c',MDSYS.SDO_GEOMETRY(
 		2003,NULL,NULL,
-		MDSYS.SDO_ELEM_INFO_ARRAY
-		(1,1003,1),
-		MDSYS.SDO_ORDINATE_ARRAY
-		(3,3,6,3,6,5,4,5,3,3)));
+		MDSYS.SDO_ELEM_INFO_ARRAY(1,1003,1),
+		MDSYS.SDO_ORDINATE_ARRAY(3,3,6,3,6,5,4,5,3,3)));
 
 insert into cola_mrp values
 		(4,'cola_d',MDSYS.SDO_GEOMETRY(
 		2003,NULL,NULL,
-		MDSYS.SDO_ELEM_INFO_ARRAY
-		(1,1003,4),
-		MDSYS.SDO_ORDINATE_ARRAY
-		(7,9,10,9,8,11)));
+		MDSYS.SDO_ELEM_INFO_ARRAY(1,1003,4),
+		MDSYS.SDO_ORDINATE_ARRAY(7,9,10,9,8,11)));
 
 insert into user_SDO_GEOM_METADATA values
 		('cola_mrp','shape',
