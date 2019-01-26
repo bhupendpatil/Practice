@@ -9,9 +9,7 @@
 -- e) Find the distance between two geometries.
 
 -- Create Table
-Create table cola_mrp (mkt_id number primary key,
-						name varchar(20),
-						shape MDSYS.SDO_Geometry);
+Create table cola_mrp (mkt_id number primary key, name varchar(20), shape MDSYS.SDO_Geometry);
 
 -- Inserting values into table
 insert into cola_mrp values
