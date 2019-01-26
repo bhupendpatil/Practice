@@ -48,8 +48,8 @@ Create or replace type AuthorListType as array(10) of ref AuthorType;
 
 Create or replace type PublisherType as object(
 	name varchar2(50),
-    addr AddrType1, 
-    branches BranchTableType
+	addr AddrType1, 
+	branches BranchTableType
 );
 /
 
