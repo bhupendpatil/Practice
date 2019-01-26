@@ -37,7 +37,7 @@ Create or replace type BranchTableType as table of BranchType;
 
 Create or replace type AuthorType as object(
 	name varchar2(50),
-    addr AddrType1
+	addr AddrType1
 );
 /
 
@@ -91,24 +91,24 @@ insert into Publisher values('arihant',AddrType1(6002,'sstreet','nasik','mha',10
 -- Book
 insert into book
 	SELECT 'DSP','28-may-1983',ref(pub),AuthorListType(ref(aut)) 
-		FROM Publisher pub,Author aut
- 		WHERE pub.name='joshi' and aut.name='Schiller';
+	FROM Publisher pub,Author aut
+	WHERE pub.name='joshi' and aut.name='Schiller';
 insert into book
 	SELECT 'compiler','09-jan-1890',ref(pub),AuthorListType(ref(aut)) 
-		FROM Publisher pub,Author aut 
-		WHERE pub.name='wiley' and aut.name='Paulraj';
+	FROM Publisher pub,Author aut 
+	WHERE pub.name='wiley' and aut.name='Paulraj';
 insert into book
 	SELECT 'c','25-may-1983',ref(pub),AuthorListType(ref(aut))
-        FROM Publisher pub,Author aut 
-        WHERE pub.name='Pearson' and aut.name='Rabiner';
+	FROM Publisher pub,Author aut 
+	WHERE pub.name='Pearson' and aut.name='Rabiner';
 insert into book
     SELECT 'DSP','28-may-1983',ref(pub),AuthorListType(ref(aut))
-     	FROM Publisher pub,Author aut 
-		WHERE pub.name='joshi' and aut.name='Elmasri';
+    FROM Publisher pub,Author aut 
+    WHERE pub.name='joshi' and aut.name='Elmasri';
 insert into book
 	SELECT 'DSP','28-may-1983',ref(pub),AuthorListType(ref(aut))
-    	FROM Publisher pub,Author aut 
-		WHERE pub.name='arihant' and aut.name='Elmasri';
+	FROM Publisher pub,Author aut 
+	WHERE pub.name='arihant' and aut.name='Elmasri';
 
 -- Queries
 
@@ -126,15 +126,15 @@ SELECT *
 SELECT p.name
 	FROM publisher p, table(p.branches)
 	GROUP BY p.name having count(*)> = all (SELECT count(*)
-    			                             	FROM publisher p, table(p.branches)
-   			                                	GROUP BY name);
+		FROM publisher p, table(p.branches)
+		GROUP BY name);
 
 -- d)Name of authors who have not published more than a book.
 SELECT a.name
 	FROM author a
 	WHERE not exists (SELECT b.title
-    						FROM book b, table (b.authors)
-                            WHERE a.name = name);
+		FROM book b, table (b.authors)
+		WHERE a.name = name);
 
 -- e)List all the authors who have published more than one book.
 SELECT a.name
