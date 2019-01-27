@@ -20,14 +20,14 @@ class Astar {
 		System.out.println("\t\t\tArad\n");
 		System.out.println("Zerind\t\t\tSibiu\t\t\tTimisoara\n");
 		System.out.println("\tOradea\tRimnicu Vilcea  Fagaras\tLugoj\n");
-
-		System.out.println("\tCraiova Pitesti Bucharest\t Mehadia\n"); System.out.println(" Dobreta Pitesti Bucharest\t\t\tDobreta\n");
+		System.out.println("\tCraiova Pitesti Bucharest\t Mehadia\n");
+		System.out.println(" Dobreta Pitesti Bucharest\t\t\tDobreta\n");
 
 		//Expand the appropriate node according to their minimum value.
 		while(!str[0].equals(str[1])){
 			System.out.print(s2);
+			
 			System.out.println("Enter the no. of node of" +" "+ str[0] );
-
 			s1=br.readLine();
 			no=Integer.parseInt(s1);
 			//System.out.println(no);
@@ -35,7 +35,6 @@ class Astar {
 			int arr[]=new int[no];
 
 			System.out.println("Enter the successor nodes of" +" "+ str[0]+" " +"With their straight line distance to goal node h(n) and path cost from start node i.e. h(n) ");
-
 			for(i=0;i<no;i++){
 				for(j=0;j<3;j++){
 					st[i][j]=br.readLine();
@@ -75,7 +74,7 @@ class Astar {
 
 		System.out.println("The path from initial node to goal node is:");
 		for(i=0;i<k;i++)
-			System.out.print(path[i]+"--->");
+			System.out.print(path[i]+"-->");
 		System.out.print(str[1]);
 	}
 
