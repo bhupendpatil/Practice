@@ -8,16 +8,10 @@ i) Permute-by-Sorting
 import random
 import time
 
-count = 0
-
 def my_min(a):
-    global count
-    count += len(a)
     return a.index(min(a))
 
 def swapp(a,b,c):
-    global count
-    count += 1
     a[b],a[c] = a[c],a[b]
 
 def permute_random(a):
