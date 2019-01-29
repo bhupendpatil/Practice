@@ -16,6 +16,8 @@
 create user scott identified by tiger;
 grant all privileges to scott identified by tiger;
 
+connect scott/tiger@xe;
+
 -- Global Schema Employee(Eno;Ename;Address;Email;Salary)
 create table Employee(Eno numeric(6),Ename varchar2(10),Address varchar2(10),Email varchar2(20),Salary numeric(6));
 
