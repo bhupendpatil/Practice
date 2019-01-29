@@ -14,6 +14,6 @@ robot.addPart(gear)
 
 while True:
     if ls.getValue()<500:
-        gear.leftArc(0.2)
+        gear.leftArc(0.1)
     else:
         gear.rightArc(0.2)
