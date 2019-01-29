@@ -1,6 +1,6 @@
 -- Temporal Database
 
--- A. Create table jy(ename;recdate;dob;retiredate;accno)
+-- A. Create table temporal1(ename;recdate;dob;retiredate;accno)
 --    insert 5 records
 --    a. Find all the employees who join the company on 02-03-1990
 --    b. Find all the employees who retire on 02-03-1930
@@ -10,7 +10,7 @@
 --    a. Find all the names of a company whose share price is more than Rs. 100 at 11:45AM
 --    b. Find the name of company which has highest share price at 5:00 PM
 
--- A. Create table jy(accno;ename;recdate;dob;retiredate)
+-- A. Create table temporal1(accno;ename;recdate;dob;retiredate)
 create table temporal1(accno number,
 	ename varchar2(10),
 	recdate date,
