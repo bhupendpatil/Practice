@@ -1,9 +1,7 @@
 // Write a program to create a robot
 // i) Robot with gear
 
-import ch.aplu.robotsim.Gear;
-import ch.aplu.robotsim.LegoRobot;
-import ch.aplu.robotsim.Tools;
+import ch.aplu.robotsim.*;
 
 public class robotWithGear {
   robotWithGear() {

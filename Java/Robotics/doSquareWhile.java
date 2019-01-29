@@ -1,8 +1,6 @@
 // Do a square using while loop
 
-import ch.aplu.robotsim.Gear;
-import ch.aplu.robotsim.LegoRobot;
-import ch.aplu.robotsim.Tools;
+import ch.aplu.robotsim.*;
 
 public class doSquareWhile {
   doSquareWhile(){

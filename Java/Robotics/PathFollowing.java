@@ -1,9 +1,4 @@
-import ch.aplu.robotsim.Gear;
-import ch.aplu.robotsim.LegoRobot;
-import ch.aplu.robotsim.RobotContext;
-import ch.aplu.robotsim.SensorPort;
-import ch.aplu.robotsim.Tools;
-import ch.aplu.robotsim.TouchSensor;
+import ch.aplu.robotsim.*;
 
 public class PathFollowing {
   PathFollowing(){

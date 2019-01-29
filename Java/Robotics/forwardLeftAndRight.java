@@ -1,7 +1,4 @@
-import ch.aplu.robotsim.LegoRobot;
-import ch.aplu.robotsim.Motor;
-import ch.aplu.robotsim.MotorPort;
-import ch.aplu.robotsim.Tools;
+import ch.aplu.robotsim.*;
 
 public class forwardLeftAndRight {
   forwardLeftAndRight() {

@@ -1,10 +1,6 @@
 // Program to create a robot with light sensors to follow a line
 
-import ch.aplu.robotsim.Gear;
-import ch.aplu.robotsim.LegoRobot;
-import ch.aplu.robotsim.LightSensor;
-import ch.aplu.robotsim.RobotContext;
-import ch.aplu.robotsim.SensorPort;
+import ch.aplu.robotsim.*;
 
 public class lightSensor{
   lightSensor(){
@@ -20,7 +16,7 @@ public class lightSensor{
       if(ls.getValue()< 500)
         gear.leftArc(0.1);
       else
-        gear.rightArc(0.1);
+        gear.rightArc(0.2);
     }
   }
   

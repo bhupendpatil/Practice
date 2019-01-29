@@ -1,8 +1,6 @@
 // Change direction based on condition
 
-import ch.aplu.robotsim.Gear;
-import ch.aplu.robotsim.LegoRobot;
-import ch.aplu.robotsim.Tools;
+import ch.aplu.robotsim.*;
 
 public class directionCondition {
   directionCondition(){

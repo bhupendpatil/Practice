@@ -1,8 +1,6 @@
 // Doing steps with for loop
 
-import ch.aplu.robotsim.Gear;
-import ch.aplu.robotsim.LegoRobot;
-import ch.aplu.robotsim.Tools;
+import ch.aplu.robotsim.*;
 
 public class stepsFor {
   stepsFor(){
