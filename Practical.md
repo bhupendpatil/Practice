@@ -1,7 +1,7 @@
 # Practical
 Note:
 
-This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be deleted after exam
+This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be updated after 2nd Semester
 
 ## Advanced Operating Systems
 Practical No | Program | Link
@@ -25,4 +25,4 @@ Practical No | Program | Link
 
 
 
-updating shortly..
+# updating shortly..
