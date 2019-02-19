@@ -1,7 +1,7 @@
 # Practical
 Note:
 
-This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be updated keep checking :stuck_out_tongue_winking_eye: 
+This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be updated, keep checking :stuck_out_tongue_winking_eye: 
 
 ## Advanced Operating Systems
 Practical No | Program | Link
