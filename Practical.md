@@ -17,6 +17,8 @@ Practical No | Program | Link
 ## Cloud Computing
 Practical No | Program | Link
 -- | -- | --
+1 | Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/TimeServerWebService)
+
 
 
 ## Business Intelligence and Big Data Analytics
