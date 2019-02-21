@@ -1,7 +1,7 @@
 # Practical
 Note:
 
-This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be updated after 2nd Semester
+This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be updated shortly, keep checking :stuck_out_tongue_winking_eye: 
 
 ## Advanced Operating Systems
 Practical No | Program | Link
@@ -17,12 +17,11 @@ Practical No | Program | Link
 ## Cloud Computing
 Practical No | Program | Link
 -- | -- | --
+1 | Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/TimeServerWebService)
+
 
 
 ## Business Intelligence and Big Data Analytics
 Practical No | Program | Link
 -- | -- | --
 
-
-
-# updating shortly..

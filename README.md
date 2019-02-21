@@ -211,6 +211,7 @@ Do a Square (while loop) | [.py](https://github.com/bhupendpatil/Practice/blob/m
 Doing Steps (for loop) | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/stepsFor.java)
 Change direction based on condition | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/directionCondition.java)
 Control speed using switch case | [.py](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/controlSpeedSwitch.java)
+Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/TimeServerWebService)
 
 ## PL/SQL
 Program | Link
