@@ -215,6 +215,7 @@ Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tre
 Complex DataTypes Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ComplexDataTypesWebService)
 Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
 Socket Message | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SocketMessage)
+Multithreaded Prime Numbers | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultithreadedPrimeNumbers)
 
 ## PL/SQL
 Program | Link
