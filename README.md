@@ -213,7 +213,7 @@ Change direction based on condition | [.java](https://github.com/bhupendpatil/Pr
 Control speed using switch case | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/Robotics/controlSpeedSwitch.java)
 Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/TimeServerWebService)
 Complex DataTypes Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ComplexDataTypesWebService)
-Server Program to Show Quote of a Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
+Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
 
 ## PL/SQL
 Program | Link
