@@ -8,6 +8,7 @@ Practical No | Program | Link
 -- | -- | --
 1 | Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
 2 | Socket Message | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SocketMessage)
+3 | Multithreaded Prime Numbers | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultithreadedPrimeNumbers)
 
 
 ## Design and implementation of Modern Compilers
