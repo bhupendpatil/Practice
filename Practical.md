@@ -7,6 +7,7 @@ This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) w
 Practical No | Program | Link
 -- | -- | --
 1 | Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
+2 | Socket Message | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SocketMessage)
 
 
 ## Design and implementation of Modern Compilers
