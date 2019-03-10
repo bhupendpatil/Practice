@@ -214,6 +214,7 @@ Control speed using switch case | [.java](https://github.com/bhupendpatil/Practi
 Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/TimeServerWebService)
 Complex DataTypes Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ComplexDataTypesWebService)
 Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
+Socket Message | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SocketMessage)
 
 ## PL/SQL
 Program | Link
