@@ -6,7 +6,7 @@ This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) w
 ## Advanced Operating Systems
 Practical No | Program | Link
 -- | -- | --
-1 | Server Program to Show Quote of a Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
+1 | Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
 
 
 ## Design and implementation of Modern Compilers
