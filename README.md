@@ -216,6 +216,10 @@ Complex DataTypes Web Service | [project](https://github.com/bhupendpatil/Practi
 Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
 Socket Message | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SocketMessage)
 Multithreaded Prime Numbers | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultithreadedPrimeNumbers)
+Limit The Number Of Open Connections | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/LimitTheNumberOfOpenConnections)
+Pagesize Offset | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/PagesizeOffset.java)
+Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DiskScheduling.java)
+Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement)
 
 ## PL/SQL
 Program | Link
