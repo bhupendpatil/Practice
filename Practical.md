@@ -9,6 +9,10 @@ Practical No | Program | Link
 1 | Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
 2 | Socket Message | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SocketMessage)
 3 | Multithreaded Prime Numbers | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultithreadedPrimeNumbers)
+4 | Limit The Number Of Open Connections | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/LimitTheNumberOfOpenConnections)
+5 | Pagesize Offset | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/PagesizeOffset.java)
+6 | Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DiskScheduling.java)
+7 | Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement)
 
 
 ## Design and implementation of Modern Compilers
