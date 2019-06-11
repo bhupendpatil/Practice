@@ -363,3 +363,8 @@ Program | Link
 -- | --
 Hello World | [project](https://github.com/bhupendpatil/Practice/tree/master/iOS/HelloWorld)
 Notification HelloEx | [project](https://github.com/bhupendpatil/Practice/tree/master/iOS/HelloEx)
+
+## C++
+Program | Link
+-- | --
+Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
