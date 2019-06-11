@@ -18,7 +18,7 @@ Practical No | Program | Link
 ## Design and implementation of Modern Compilers
 Practical No | Program | Link
 -- | -- | --
-1 | Convert NFA to DFA | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NDtoD2.java)
+1 | Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp) [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NDtoD2.java)
 
 
 ## Cloud Computing
@@ -31,4 +31,3 @@ Practical No | Program | Link
 ## Business Intelligence and Big Data Analytics
 Practical No | Program | Link
 -- | -- | --
-
