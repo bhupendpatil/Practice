@@ -1,3 +1,5 @@
+// Convert Right Linear Grammar to Left Linear Grammar
+
 public class R2L{
   static String production[][]={{"S"," ","B"}, {"B","b","D"}, {"D","b","B"},{"S","a","B"}, {"B","a"," "}};
   char tmp;
