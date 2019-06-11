@@ -221,6 +221,7 @@ Pagesize Offset | [.java](https://github.com/bhupendpatil/Practice/blob/master/J
 Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DiskScheduling.java)
 Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement)
 Convert NFA to DFA | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NDtoD2.java)
+Convert Right Linear Grammar to Left Linear Grammar | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/R2L.cpp)
 
 ## PL/SQL
 Program | Link
@@ -368,3 +369,4 @@ Notification HelloEx | [project](https://github.com/bhupendpatil/Practice/tree/m
 Program | Link
 -- | --
 Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
+Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp)
