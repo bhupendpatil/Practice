@@ -220,6 +220,7 @@ Limit The Number Of Open Connections | [project](https://github.com/bhupendpatil
 Pagesize Offset | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/PagesizeOffset.java)
 Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DiskScheduling.java)
 Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement)
+Convert NFA to DFA | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NDtoD2.java)
 
 ## PL/SQL
 Program | Link
