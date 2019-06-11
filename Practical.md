@@ -30,7 +30,9 @@ Practical No | Program | Link
 7b | Loop Splitting | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/LoopSplitting.cpp)
 8 | Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopJamming.java)
 
-**Download link will be updated soon..**
+**Download**
+* **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/Compiler.zip)_**
+* **_Journal : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/CompilerJournal.zip)_**
 
 
 ## Cloud Computing
