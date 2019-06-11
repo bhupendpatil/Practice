@@ -22,6 +22,7 @@ Practical No | Program | Link
 2 | Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp) [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/R2L.java)
 3 | Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp) [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/SPM.java)
 4 | Generate OPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/opm.cpp) [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/opm.java)
+5 | Simple Program Analyzer And Interpreter | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SimpleProgramAnalyzerAndInterpreter)
 
 
 ## Cloud Computing
