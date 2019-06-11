@@ -1,3 +1,5 @@
+// Convert NDFA to DFA
+
 #include<stdio.h>
 #include<conio.h>
 
