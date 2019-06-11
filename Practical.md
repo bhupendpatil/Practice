@@ -26,6 +26,7 @@ Practical No | Program | Link
 6 | Generate DAG | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/DAG.cpp) [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DAG.java)
 7a | Loop Unrolling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopUnrolling.java)
 7b | Loop Splitting | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/LoopSplitting.cpp)
+8 | Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopJamming.java)
 
 
 ## Cloud Computing
