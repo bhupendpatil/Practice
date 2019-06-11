@@ -222,6 +222,7 @@ Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/J
 Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement)
 Convert NFA to DFA | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NDtoD2.java)
 Convert Right Linear Grammar to Left Linear Grammar | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/R2L.java)
+Generate SPM | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/SPM.java)
 
 ## PL/SQL
 Program | Link
