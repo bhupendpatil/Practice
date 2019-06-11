@@ -227,6 +227,7 @@ Generate OPM | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java
 Simple Program Analyzer And Interpreter | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SimpleProgramAnalyzerAndInterpreter)
 Generate DAG | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DAG.java)
 Loop Unrolling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopUnrolling.java)
+Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopJamming.java)
 
 ## PL/SQL
 Program | Link
