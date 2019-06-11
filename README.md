@@ -223,6 +223,7 @@ Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/maste
 Convert NFA to DFA | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NDtoD2.java)
 Convert Right Linear Grammar to Left Linear Grammar | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/R2L.java)
 Generate SPM | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/SPM.java)
+Generate OPM | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/opm.java)
 
 ## PL/SQL
 Program | Link
@@ -372,3 +373,4 @@ Program | Link
 Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
 Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp)
 Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp)
+Generate OPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/opm.cpp)
