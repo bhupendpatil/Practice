@@ -1,3 +1,5 @@
+// Convert Right Linear Grammar to Left Linear Grammar
+
 #include<stdio.h>
 #include<conio.h>
 
