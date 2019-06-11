@@ -20,6 +20,7 @@ Practical No | Program | Link
 -- | -- | --
 1 | Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp) [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NDtoD2.java)
 2 | Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp) [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/R2L.java)
+3 | Generate SMP | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp) [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/SPM.java)
 
 
 ## Cloud Computing
