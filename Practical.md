@@ -2,7 +2,7 @@
 Note:
 
 This [file](https://github.com/bhupendpatil/Practice/blob/master/Practical.md) will be updated shortly, keep checking :stuck_out_tongue_winking_eye: 
-
+___
 ## Advanced Operating Systems
 Practical No | Program | Link
 -- | -- | --
@@ -16,7 +16,7 @@ Practical No | Program | Link
 
 **Download link will be updated soon..**
 
-
+___
 ## Design and implementation of Modern Compilers
 Practical No | Program | Link
 -- | -- | --
@@ -34,7 +34,7 @@ Practical No | Program | Link
 * **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/Compiler.zip)_**
 * **_Journal : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/CompilerJournal.zip)_**
 
-
+___
 ## Cloud Computing
 Practical No | Program | Link
 -- | -- | --
@@ -43,7 +43,7 @@ Practical No | Program | Link
 
 **Download link will be updated soon..**
 
-
+___
 ## Business Intelligence and Big Data Analytics
 Practical No | Program | Link
 -- | -- | --
