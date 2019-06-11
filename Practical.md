@@ -14,7 +14,7 @@ Practical No | Program | Link
 6 | Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DiskScheduling.java)
 7 | Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement)
 
-#### Download link will be updated soon..
+**Download link will be updated soon..**
 
 
 ## Design and implementation of Modern Compilers
@@ -30,7 +30,7 @@ Practical No | Program | Link
 7b | Loop Splitting | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/LoopSplitting.cpp)
 8 | Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopJamming.java)
 
-Download : Journal[.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/CompilerJournal.zip)   Codes[.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/Compiler.zip)
+**Download link will be updated soon..**
 
 
 ## Cloud Computing
@@ -39,11 +39,11 @@ Practical No | Program | Link
 1 | Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/TimeServerWebService)
 2 | Complex DataTypes Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ComplexDataTypesWebService)
 
-#### Download link will be updated soon..
+**Download link will be updated soon..**
 
 
 ## Business Intelligence and Big Data Analytics
 Practical No | Program | Link
 -- | -- | --
 
-#### Download link will be updated soon..
+**Download link will be updated soon..**
