@@ -225,6 +225,7 @@ Convert Right Linear Grammar to Left Linear Grammar | [.java](https://github.com
 Generate SPM | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/SPM.java)
 Generate OPM | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/opm.java)
 Simple Program Analyzer And Interpreter | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SimpleProgramAnalyzerAndInterpreter)
+Generate DAG | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DAG.java)
 
 ## PL/SQL
 Program | Link
