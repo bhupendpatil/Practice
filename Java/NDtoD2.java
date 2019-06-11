@@ -1,4 +1,4 @@
-//NDFA to DFA
+// NDFA to DFA
 
 import java.lang.*;	
 import java.io.*;
