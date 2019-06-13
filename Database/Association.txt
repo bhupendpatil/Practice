@@ -1,0 +1,15 @@
+// Association rules by considering suitable parameters
+
+1. Open Weka Explorer->GotoAssociate tab-> Choose Apriori.
+
+2. In the Generic-Object-Editor change the numRules value from 10 to 100.Click on Ok ->Click Start.
+
+3. Output of rules generated with respect to Confidence.
+
+4. Changing minMetric value from 0.9 to 0.7.
+
+5. Output of rules generated with respect to Confidence.
+
+6. Change the metricType to “Lift”.
+
+7. Output of rules generated with respect to Lift.
