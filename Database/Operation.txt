@@ -1,0 +1,11 @@
+//  Operations like roll-up, drill-down, slice, and dice
+
+1. Click on Tools in menu bar and select Drillthrough options... to perform drillthrough operation on cube.
+
+2. Check Enabledrillthrough option -> Click on Select all button and click Ok.
+
+
+View of drill-through Data.
+a. To perform roll up/down-> Right click on your cube -> Select Browse Data option.
+b. To roll up/down through cube -> Double click on + to roll-down and -toroll-up.
+c. To perform slice operation-> Select a particular value for one dimension. Similarly to perform dice operation ->Select a value for each dimension, result will be a sub-cube containing a value with respect to other dimensions.
