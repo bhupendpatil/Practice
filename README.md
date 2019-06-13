@@ -281,6 +281,7 @@ OODBMS | [.sql](https://github.com/bhupendpatil/Practice/blob/master/Database/PL
 XML Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/Database/PL%20SQL/xmlDatabase.sql)
 Create Tables | [.accdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.accdb) [.mdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.mdb)
 Importing Various Tables | [.dts](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/importingVariousTables.dts)
+Fact table and measures in a Cube | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/FactTableandMeasuresInACube.txt)
 
 
 ## Android
