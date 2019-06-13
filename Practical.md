@@ -50,6 +50,7 @@ Practical No | Program | Link
 -- | -- | --
 1 | Create Tables | [.accdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.accdb) [.mdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.mdb)
 2 | Importing Various Tables | [.dts](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/importingVariousTables.dts)
+3 | Fact table and measures in a Cube | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/FactTableandMeasuresInACube.txt)
 
 **Download**
 * **_Softwares_**
