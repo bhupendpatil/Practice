@@ -51,6 +51,16 @@ Practical No | Program | Link
 1 | Create Tables | [.accdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.accdb) [.mdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.mdb)
 2 | Importing Various Tables | [.dts](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/importingVariousTables.dts)
 3 | Fact table and measures in a Cube | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/FactTableandMeasuresInACube.txt)
+4 | A cube with star schema | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/StarSchema.txt)
+5 | A cube with Snowflake schema | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/SnowflakeSchema.txt)
+6 | Dimension table from Parent-Child schema | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/ParentChildSchema.txt)
+7 | Roll-up, Drill-down, Slice, and Dice | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/Operation.txt)
+8 | Processing and browsing data from a cube | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/ProcessingB.txt)
+9 | Pre process data imported from external sources | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/PreProcessData.txt)
+10 | Association rules | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/Association.txt)
+
+**Note**
+For BI refer Journal
 
 **Download**
 * **_Softwares_**
