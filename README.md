@@ -282,7 +282,13 @@ XML Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/Datab
 Create Tables | [.accdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.accdb) [.mdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.mdb)
 Importing Various Tables | [.dts](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/importingVariousTables.dts)
 Fact table and measures in a Cube | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/FactTableandMeasuresInACube.txt)
-
+A cube with star schema | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/StarSchema.txt)
+A cube with Snowflake schema | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/SnowflakeSchema.txt)
+Dimension table from Parent-Child schema | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/ParentChildSchema.txt)
+Roll-up, Drill-down, Slice, and Dice | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/Operation.txt)
+Processing and browsing data from a cube | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/ProcessingB.txt)
+Pre process data imported from external sources | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/PreProcessData.txt)
+Association rules | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/Association.txt)
 
 ## Android
 Program | Link
