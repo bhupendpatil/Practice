@@ -1,0 +1,17 @@
+// Dimension table from Parent-Child Schema
+
+1. Click a New Dimension in the Wizard to start the Dimension Wizard. Select the option to skip the welcome screen, and then click on Next.
+
+2. Click the Option Parent-Child Schema: A Single Dimension Table, and the click Next.
+
+3. Select Product, Category table from Available Tables and click next.
+
+4. Select a. MemberKey: a. EmpID from drop down, b. Parent Key :ManagerID from drop down, c. Member Name: Ename from drop down. -> Click Next.
+
+5. Select all and click Next.
+
+6. Enable CustomRollups and click next.
+
+7. Check the option and click next.
+
+8. Name the Dimension: Employee Dimension.
