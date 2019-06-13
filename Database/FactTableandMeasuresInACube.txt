@@ -1,0 +1,26 @@
+// Develop an application to creating a fact table and measures in a cube
+
+Cube Creation
+Create a new OLAP database
+1. Open Programs -> Microsoft SQL Server -> Analysis Services -> Analysis Manager.
+
+2. Right click the server in the console tree, and click New Database to display the Database dialog Box.
+
+3. Type ‘SalesDb’ as the database name.
+
+4. Click OK to close the dialog box and to create the database.
+
+
+
+Specify a data source
+1. Expand the ‘SalesDb’ folder. Right-click on Cubes Folder -> Select New Cube -> Select Wizard.
+
+2. Click New Data Source ->Select Microsoft OLE DB Provider for SQL Server, and click Next.
+
+3. In the connection Tab Select or enter Server Name. -> Select DB on the server fromdrop down list.
+
+4. Click Test Connection to make sure the data source definition is correct. Then click OK to close the dialog box.
+
+5. Select SaleFact table from the list of tables.
+
+6. Right click on Sales_cube and select Edit. It will open Cube editor->Right Click on Sales_Cube and Select New Measures->Now create two new measures: Total Sales, Quantity Order
