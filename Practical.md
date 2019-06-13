@@ -50,4 +50,9 @@ Practical No | Program | Link
 -- | -- | --
 1 | Create Tables | [.accdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.accdb) [.mdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.mdb)
 
+**Download**
+* Softwares
+  * **SQL Server 2010** : [GDriveDownload](https://drive.google.com/open?id=1QRrSlz14Irk0OXpz9EXkN2l10am6q7AL) [DropboxDownload](https://www.dropbox.com/s/e7c7tb5l6otescg/SQLServer2000.zip?dl=0) [InstallationGuide](https://github.com/bhupendpatil/Fun/tree/master/SQLServer2000Installation)
+  * **Weka** : [Download](https://www.cs.waikato.ac.nz/ml/weka/downloading.html)
+
 **Download link will be updated soon..**
