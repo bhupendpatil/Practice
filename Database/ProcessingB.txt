@@ -1,0 +1,19 @@
+// Processing and browsing data from a cube
+
+Processing a cube:
+
+Right click on existing cube and select Process.
+
+Select Full Process and Click Ok
+
+
+
+Browsing data in a cube:
+
+Right click on existing cube and select Browse Data.
+
+A cube browser will opened.
+
+Double click a member to drill up(-) or down(+).
+
+To view data with respect to particular dimension, select particular value from dropdown to analyze.
