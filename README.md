@@ -280,6 +280,7 @@ Active Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/Da
 OODBMS | [.sql](https://github.com/bhupendpatil/Practice/blob/master/Database/PL%20SQL/oodbms.sql)
 XML Database | [.sql](https://github.com/bhupendpatil/Practice/blob/master/Database/PL%20SQL/xmlDatabase.sql)
 Create Tables | [.accdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.accdb) [.mdb](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Access/SalesDatabase.mdb)
+Importing Various Tables | [.dts](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/importingVariousTables.dts)
 
 
 ## Android
