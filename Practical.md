@@ -60,6 +60,7 @@ Practical No | Program | Link
 10 | Association rules | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/Association.txt)
 
 **Note**
+
 For BI refer Journal
 
 **Download**
