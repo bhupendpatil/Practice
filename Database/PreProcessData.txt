@@ -1,0 +1,24 @@
+// Pre process data imported from external sources
+
+1. Open Weka 3.6 click on Explorer.
+
+2. Once you get a “Weka Explorer” window click on “Open File” and select the .csv database file you want to preprocess.
+
+3. After the database is loaded, WEKA will automatically detect the attributes and show the visualization of each one of them at the bottom right panel.
+
+4. Select the “id” attribute and click on “Remove” to remove the “id” attribute from the database. Now save the database.
+
+5. Go to the newly saved database file and open it with wordpad.
+
+6. Change the attribute value of “children” from “numeric” to {0,1,2,3} and save the file.
+
+7. Open the newly saved file in WEKA. The continuous values of the attribute “children” are now discrete, as we have clustered the data in 4 discrete clusters.
+
+8. Select the “age” attribute, go to “Filter”-Choose-filters-unsupervised-attributes, Select
+Discretize.
+
+9. Click on the Discretize Text-Box. In theGenericObjectEditor change the bins value to “3”, click on OK->Apply Button. In the visualization 3 clusters of “age” attribute is being created.
+
+10. Open the database file with WordPad. Replace all the values of age attribute as shown in the figure below. Do the same for values of income attribute.
+
+11. Check the final output.
