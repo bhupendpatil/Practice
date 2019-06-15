@@ -229,7 +229,7 @@ Generate DAG | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java
 Loop Unrolling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopUnrolling.java)
 Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopJamming.java)
 Multiplication By Strassen's Algorithm | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultiByStrassensAlgo)
-
+CRUD operations using SOAP or RESTful web services | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt)
 
 ## Database
 Program | Link
