@@ -42,7 +42,7 @@ Practical No | Program | Link
 1 | Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/TimeServerWebService)
 2 | Complex DataTypes Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ComplexDataTypesWebService)
 3 | Multiplication By Strassen's Algorithm | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultiByStrassensAlgo)
-4 | CRUD operations using SOAP or RESTful web services | .txt <!--- (https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt) --->
+4 | CRUD operations using SOAP or RESTful web services | .txt
 
 **Download link will be updated soon..**
 
