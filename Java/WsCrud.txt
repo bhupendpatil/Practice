@@ -1,0 +1,116 @@
+// CRUD operations using SOAP or RESTful web services
+
+1. To start the Java DB Database from NetBeans, perform the following steps.
+	a. Click Services tab.
+	b. Expand Databases node.
+	c. Right-click Java DB icon.
+	d. Select Start Server.
+
+2. To create playerDB database, perform the following steps:
+	a. Right-click Java DB icon, select Create Database.
+	b. Enter the following information for the database:
+		Database Name: playerDB
+		User Name: john
+		Password: john
+		Confirm Password:john
+	c. Click OK.
+	This creates the database and adds a connection for the database under the Databases icon.
+ 
+3. To connect to the newly created database playerDB, perform the following steps :
+	a. Right-click jdbc:derby://localhost:1527/playerDB connection.
+	b. Select Connect.
+
+4. Create tables and populate them with data in playerDB database.
+	a. download the zipped file named “files” from the link: http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/RESTfulWebServices/RESTfulWebservices.htm#s6
+	b. In NetBeans select File > Open File.
+	c. Click Open. The script automatically opens in the SQL Editor.
+	d. Select jdbc:derby://localhost:1527/playerDB in Connection drop-down box in the SQL Editor toolbar.
+	e. Click the Run SQL icon to execute the SQL statement.
+
+5. Examine the contents of the database.
+	a. In the Services window, expand the jdbc:derby://localhost:1527/playerDB connection under the Databases node.
+	b. Right-click the connection and select Refresh.
+	c. Expand the john schema. You see the nodes for Tables, Views, and Procedures.
+	d. Expand the Tables node to see the PLAYER and TEAM tables.
+	e. Right-click the PLAYER table node and select View Data. An SQL command window opens and executes an SQL command to display the data in the table.
+ 	f. Repeat the previous step for the TEAM table.
+
+
+Building a Sample Web Application
+ 
+To create RESTful Web Services, you need a Java Web application project. In the below section you will create a demo Java web project, PlayerServer.
+ 
+1. To create new Java Web Project, select File > New Project.
+
+2. Select Java Web from the Categories column and Web Application from the Projects column and click Next.
+
+3. Perform the following steps:
+	a. Name the project PlayerServer.
+	b. Click Next.
+
+4. In the Server and Settings window, verify GlassFish Server is selected as Server and click Finish.
+
+5. To start the Server, perform the following steps :
+	a. Open the Projects tab.
+	b. Right-click PlayerServer project.
+	c. Select Run.
+
+
+Generate RESTful Web Services
+
+1. To generate RESTful Web Services do the following:
+	Right-click the PlayerServer and choose New > Other > Web Services > RESTful Web Services from Database. The New RESTful Web Service wizard opens on the Database Tables panel.
+
+2. In the Database Tables window, select Data Source.
+
+3. Next select "New Data Source" from the Drop-down list.
+	a. In the Create Data Source Window, enter the following information:
+		JNDI name: jdbc/playerDB
+		Database connection : select jdbc:derby://localhost:1527/playerDB[john on JOHN]
+	b. Click OK.
+	The PLAYER and TEAM tables are displayed under the Available Tables column.
+	c. Click Add All. The PLAYER and TEAM tables are displayed under the Selected Tables column.
+	d. Click Next.
+ 
+4. In the Entity Classes window, complete the following steps:
+	a. Enter the package name as com.playerentity.
+	b. Click Next.
+ 
+5. In the Generated Classes Window, click Finish with default values.
+
+6. In the Rest Resources Configuration Window, click OK.
+
+7.	In the Projects pane, perform the below steps :
+	a. Select and expand the PlayerServer project.
+	b. Expand the source packages of the project.
+	c. Expand the com.playerentity package.
+	d. Verify the creation of Entity Classes Player.java and Team.java.
+	e. Expand the RESTful Web Services folder and and verify the creation of two RESTful Web Services PlayerFacadeREST[com.playerentity.player] and TeamFacadeREST[com.playerentity.team].
+ 
+
+Test RESTful Web Services
+ 
+The following section demonstrates how to test RESTful Web Services with tests that are generated using the test framework provided by Jersey.
+1. To Generate Web Services Test client, complete the following steps.
+	a. Select PlayerServer project.
+	b. Right-click and select Test RESTful Web Services.
+	Configure REST test Client window opens.
+
+2.	Select "Web Test Client in project" and click Browse.
+
+3.  a. In the Select Project dialog box, select PlayerServer and click OK.
+	b. Configure Rest Test Client window is displayed, click OK.
+	The server starts and the application is deployed. When deployment is complete, the browser displays your  application, with a link for each of the Web Services.
+	On the left-hand side is the set of root resources named com.playerentity.team and com.playerentity.player.
+
+4. To test the Web Services Client, complete the following steps.
+	a. Select one resource node such as com.playerentity.team.
+	b. In the "Choose method to test" field, select either GET (application/json) or GET (application/xml). 
+	c. Click Test. 
+	The test client sends a request and displays the result in the Test Output section. The test client displays the Raw View by default.
+	d. Examine the output:
+	Response to an application/xml request.
+	Response to an application/json request.
+	JSON is widely used in REST-based applications, because this format is more compact than XML.
+	Also it can easily be used with most common programming languages, including JavaScript.
+	e. Likewise select the com.playerentity.player node and test the Web Service.
