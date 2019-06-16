@@ -230,7 +230,7 @@ Loop Unrolling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Ja
 Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopJamming.java)
 Multiplication By Strassen's Algorithm | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultiByStrassensAlgo)
 CRUD operations using REST | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt)
-Application to consume Google’s Map/Search RESTful Web service | [search.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleSearch.html) [map.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleMap.html)
+Application to consume Google’s Map/Search | [search.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleSearch.html) [map.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleMap.html)
 
 ## Database
 Program | Link
