@@ -42,7 +42,7 @@ Practical No | Program | Link
 1 | Time Server Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/TimeServerWebService)
 2 | Complex DataTypes Web Service | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ComplexDataTypesWebService)
 3 | Multiplication By Strassen's Algorithm | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultiByStrassensAlgo)
-4 | CRUD operations using REST | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt)
+4 | CRUD operations using REST | .txt
 5 | Application to consume Google’s Map/Search | [search.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleSearch.html) [map.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleMap.html)
 
 
