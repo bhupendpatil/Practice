@@ -1,0 +1,43 @@
+<!-- Application to consume Google’s Map RESTful Web service -->
+<!-- You'll need API keys to run this code properly. API keys are paid -->
+<!DOCTYPE link href="https://maps/documentation/javascript/examples/default.css" rel="stylesheet" />
+<html>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript"></script>
+    <script>
+        var mapcode;
+        var diag;
+        function initialize() {
+            mapcode = new google.maps.Geocoder(); 
+            var lnt = new google.maps.LatLng(26.45, 82.85);
+            var diagChoice = {
+                zoom: 9,
+                center: lnt, 
+                diagId: google.maps.MapTypeId.ROADMAP
+            }
+            diag = new google.maps.Map(document.getElementById('map-canvas'), diagChoice); 
+        }
+        function codeAddress() {
+            var add = document.getElementById('address').value;
+            mapcode.geocode({ 'address': add }, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) { 
+                    diag.setCenter(results[0].geometry.location); 
+                    var hint = new google.maps.Marker({ 
+                        diag: diag,
+                        position: results[0].geometry.location
+                    });
+                } else {
+                    alert('This code is not successful ' + status);
+                }
+            });
+        }
+        google.maps.event.addDomListener(window, 'load', initialize); 
+    </script>
+<body> 
+<div id="panel">
+        <input id="address" type="textbox" value="New Delhi">
+        <input type="button" value="Search" onclick="codeAddress()">
+    </div>
+    <div id="map-canvas" style="width: 600px; height: 390px; border: 5px solid #5E5454;">
+    </div>
+</body>
+</html>
