@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-class client4 {
+class Client {
 
     public static void main(String args[]) {
         try {

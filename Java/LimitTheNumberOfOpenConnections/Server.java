@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-class server4 {
+class Server {
 
     public static void main(String[] args) {
         try {
