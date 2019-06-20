@@ -355,6 +355,7 @@ jQuery Effect | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB
 jQuery Traversing | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQueryTraversing.html)
 jQuery Callback | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQueryCallback.html)
 XML DTD Simple Example | [.xml](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/simpleDTDExample.xml)
+WCF service returning JSON type | [project](https://github.com/bhupendpatil/Practice/tree/master/WEB/aspx/WCFServiceReturningJSON)
 
 ## Networking
 Program | Link
