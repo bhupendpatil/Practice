@@ -65,7 +65,7 @@ Practical No | Program | Link
 
 **Note**
 
-_Refer Journals cause you won't be able to understand if you're doing it for first time_
+_Refer Journals_
 
 **Download**
 * **_Softwares_**
