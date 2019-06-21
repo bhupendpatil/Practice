@@ -74,3 +74,13 @@ _Refer Journals cause you won't be able to understand if you're doing it for fir
   * **Weka** : [Download](https://www.cs.waikato.ac.nz/ml/weka/downloading.html)
 * **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/BI.zip)_**
 * **_Journals : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/BIJournals.zip)_**
+
+___
+## Cyber & Information Security
+Practical No | Program | Link
+-- | -- | --
+
+
+**Download**
+* **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/Cyber.zip)_**
+* **_Journal : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/CyberJournal.zip)_**
