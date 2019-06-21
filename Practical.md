@@ -33,7 +33,7 @@ Practical No | Program | Link
 
 **Download**
 * **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/Compiler.zip)_**
-* **_Journal : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/CompilerJournal.zip)_**
+* **_Journals : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/CompilerJournal.zip)_**
 
 ___
 ## Cloud Computing
