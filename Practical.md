@@ -79,7 +79,15 @@ ___
 ## Cyber & Information Security
 Practical No | Program | Link
 -- | -- | --
-
+1 | |
+2 | |
+3 | |
+4 | |
+5 | |
+6 | |
+7 | | 
+8 | | 
+9 | | 
 
 **Download**
 * **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/Cyber.zip)_**
