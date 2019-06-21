@@ -46,7 +46,13 @@ Practical No | Program | Link
 5 | Application to consume Google’s Map/Search | [search.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleSearch.html) [map.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleMap.html)
 6 | WCF service returning JSON type | [project](https://github.com/bhupendpatil/Practice/tree/master/WEB/aspx/WCFServiceReturningJSON)
 
-**Download link will be updated soon..**
+**Note**
+
+_Refer Journals_
+
+**Download**
+* **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/Cloud.zip)_**
+* **_Journals : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/CloudJournal.zip)_**
 
 ___
 ## Business Intelligence and Big Data Analytics
