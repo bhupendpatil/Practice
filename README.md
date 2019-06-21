@@ -229,8 +229,7 @@ Generate DAG | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java
 Loop Unrolling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopUnrolling.java)
 Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopJamming.java)
 Multiplication By Strassen's Algorithm | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultiByStrassensAlgo)
-CRUD operations using REST | .txt(https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt)
-Application to consume Google’s Map/Search | [search.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleSearch.html) [map.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleMap.html)
+CRUD operations using REST | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt)
 
 ## Database
 Program | Link
@@ -356,6 +355,7 @@ jQuery Traversing | [.html](https://github.com/bhupendpatil/Practice/blob/master
 jQuery Callback | [.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/jQueryCallback.html)
 XML DTD Simple Example | [.xml](https://github.com/bhupendpatil/Practice/blob/master/WEB/XML/simpleDTDExample.xml)
 WCF service returning JSON type | [project](https://github.com/bhupendpatil/Practice/tree/master/WEB/aspx/WCFServiceReturningJSON)
+Application to consume Google’s Map/Search | [search.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleSearch.html) [map.html](https://github.com/bhupendpatil/Practice/blob/master/WEB/HTML/GoogleMap.html)
 
 ## Networking
 Program | Link
