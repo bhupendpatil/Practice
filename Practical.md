@@ -19,7 +19,9 @@ Practical No | Program | Link
 10c | Internal Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/InternalDB)
 10d | SQLite Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/SQLiteDB)
 
-**Download link will be updated soon..**
+**Download**
+* **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/AOS.zip)_**
+* **_Journals : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/AOSJournals.zip)_**
 
 ___
 ## Design and implementation of Modern Compilers
