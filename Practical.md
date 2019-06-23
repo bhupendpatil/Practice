@@ -15,6 +15,7 @@ Practical No | Program | Link
 6 | Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DiskScheduling.java)
 7 | Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement)
 8 | Listener that downloads an image | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/ImgDown)
+9 | Life Cycle | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LifeCycle)
 
 **Download link will be updated soon..**
 
