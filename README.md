@@ -309,6 +309,9 @@ Notification | [project](https://github.com/bhupendpatil/Practice/tree/master/An
 Option Menu | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/OptionMenu)
 Screen Navigation | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/ScreenNavigation)
 Listener that downloads an image | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/ImgDown)
+Life Cycle | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LifeCycle)
+Internal Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/InternalDB)
+SQLite Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/SQLiteDB)
 
 
 ## C# 
