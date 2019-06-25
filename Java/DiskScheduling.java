@@ -61,7 +61,7 @@ public class DiskScheduling{
 			int p=sc.nextInt();
 			System.out.println("\nEnter your choice:\n1. FCFS\n2. SSTF");
 			int ch=sc.nextInt();
-			Disk ds=new Disk();
+			DiskScheduling ds=new DiskScheduling();
 			if(ch==1)
 				ds.fcfs(a, p);
 			else
