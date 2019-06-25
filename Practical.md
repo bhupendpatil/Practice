@@ -7,17 +7,17 @@ ___
 ## Advanced Operating Systems
 Practical No | Program | Link
 -- | -- | --
-1 | Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay)
-2 | Socket Message | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SocketMessage)
-3 | Multithreaded Prime Numbers | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultithreadedPrimeNumbers)
-4 | Limit The Number Of Open Connections | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/LimitTheNumberOfOpenConnections)
-5 | Pagesize Offset | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/PagesizeOffset.java)
-6 | Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DiskScheduling.java)
-7 | Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement)
-8 | Listener that downloads an image | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/ImgDown)
-9 | Life Cycle | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LifeCycle)
-10c | Internal Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/InternalDB)
-10d | SQLite Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/SQLiteDB)
+1 | Quote for that Day | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/ServerProgramQuoteDay) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/1.txt)
+2 | Socket Message | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/SocketMessage) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/2.txt)
+3 | Multithreaded Prime Numbers | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultithreadedPrimeNumbers) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/3.txt)
+4 | Limit The Number Of Open Connections | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/LimitTheNumberOfOpenConnections) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/4.txt)
+5 | Pagesize Offset | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/PagesizeOffset.java) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/5.txt)
+6 | Disk Scheduling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DiskScheduling.java) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/6.txt)
+7 | Page Replacement | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/PageReplacement) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/7.txt)
+8 | Listener that downloads an image | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/ImgDown) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/8.txt)
+9 | Life Cycle | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LifeCycle) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/9.txt)
+10c | Internal Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/InternalDB) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/10c.txt)
+10d | SQLite Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/SQLiteDB) [.txt](https://github.com/bhupendpatil/Practice/blob/RAW/TXT/AOS/10d.txt)
 
 **Download**
 * **_Codes : [.zip](https://raw.githubusercontent.com/bhupendpatil/Practice/RAW/AOS.zip)_**
