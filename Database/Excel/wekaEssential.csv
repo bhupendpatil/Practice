@@ -1,0 +1,6 @@
+outlook,temperature,humidity,windy,play
+sunny,hot,high,FALSE,yes
+rainy,hot,high,TRUE,no
+sunny,warm,nominal,TRUE,yes
+overcast,warm,high,TRUE,no
+rainy,cold,nominal,FALSE,yes
