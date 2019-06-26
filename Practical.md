@@ -72,7 +72,7 @@ Practical No | Program | Link
 6 | Dimension table from Parent-Child schema | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/ParentChildSchema.txt)
 7 | Roll-up, Drill-down, Slice, and Dice | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/Operation.txt)
 8 | Processing and browsing data from a cube | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/ProcessingB.txt)
-9 | Pre process data imported from external sources | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/PreProcessData.txt)
+9 | Pre process data imported from external sources | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/PreProcessData.txt) [.csv](https://github.com/bhupendpatil/Practice/blob/master/Database/Excel/wekaEssential.csv) [.csv](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Database/Excel/wekaEssential.csv)
 10 | Association rules | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Database/Association.txt)
 
 **Note**
