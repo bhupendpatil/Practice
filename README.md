@@ -393,6 +393,17 @@ Notification HelloEx | [project](https://github.com/bhupendpatil/Practice/tree/m
 Program | Link
 -- | --
 Hello World | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/helloWorld.cpp)
+Variable & Constant | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/varConsDemo.cpp)
+Array | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/arrayDemo.cpp)
+Struct | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/structDemo.cpp)
+Union | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/unionDemo.cpp)
+Enum | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/enumDemo.cpp)
+If-else | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/ifElseDemo.cpp)
+Switch | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/switchDemo.cpp)
+For Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/forDemo.cpp)
+While Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/whileDemo.cpp)
+Do While Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/doDemo.cpp)
+Nested Loops |  [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/nestedLoopDemo.cpp)
 Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
 Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp)
 Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp)
