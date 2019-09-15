@@ -407,6 +407,7 @@ Nested Loops |  [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B
 Function | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/functionDemo.cpp)
 Inline Function | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/inlineFuncDemo.cpp)
 Class | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/classDemo.cpp)
+Class Using Multiple files | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/classMultiFiles) 
 Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
 Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp)
 Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp)
