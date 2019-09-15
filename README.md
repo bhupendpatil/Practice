@@ -406,6 +406,7 @@ Do While Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B
 Nested Loops |  [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/nestedLoopDemo.cpp)
 Function | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/functionDemo.cpp)
 Inline Function | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/inlineFuncDemo.cpp)
+Class | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/classDemo.cpp)
 Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
 Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp)
 Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp)
