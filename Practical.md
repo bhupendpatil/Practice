@@ -18,6 +18,7 @@ ___
 ## Cloud Computing – II
 Practical No | Program | Link
 -- | -- | --
+1 | CloudSim Existing Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/CloudSimExistingAlgo.java)
 
 ___
 ## Business Intelligence and Big Data Analytics – II
