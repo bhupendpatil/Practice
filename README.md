@@ -231,6 +231,7 @@ Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java
 Multiplication By Strassen's Algorithm | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultiByStrassensAlgo)
 CRUD operations using REST | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt)
 Human Computer Interaction Demo | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/CloseableSimpleWarning.java)
+CloudSim Existing Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/CloudSimExistingAlgo.java)
 
 ## Database
 Program | Link
