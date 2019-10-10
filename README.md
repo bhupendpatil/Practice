@@ -415,6 +415,7 @@ References | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B
 Memory Allocation & Deallocation | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/memoryAllocationAndDeallocationDemo.cpp)
 Splitting Classes | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/classMultiFiles) [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SplittingClasses)
 Class Constructor | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/ClassConstructor)
+Encapsulation | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/EncapsulationDemo)
 Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
 Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp)
 Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp)
