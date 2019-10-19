@@ -19,6 +19,7 @@ ___
 Practical No | Program | Link
 -- | -- | --
 1 | CloudSim Existing Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/CloudSimExistingAlgo.java)
+2 | Cloud Analyst | [project](https://github.com/bhupendpatil/Practice/tree/master/Other/CloudAnalyst)
 
 ___
 ## Business Intelligence and Big Data Analytics – II
