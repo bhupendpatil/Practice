@@ -428,3 +428,4 @@ Program | Link
 -- | --
 Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/MyBlink/MyBlink.ino)
 Different Color | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DiffColorLED/DiffColorLED.ino)
+Digital Input | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DigiInputs/DigiInputs.ino)
