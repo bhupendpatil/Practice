@@ -422,3 +422,9 @@ Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%
 Generate OPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/opm.cpp)
 Generate DAG | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/DAG.cpp)
 Loop Splitting | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/LoopSplitting.cpp)
+
+## Arduino
+Program | Link
+-- | --
+Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/MyBlink/MyBlink.ino)
+Different Color | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DiffColorLED/DiffColorLED.ino)
