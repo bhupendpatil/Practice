@@ -233,6 +233,7 @@ CRUD operations using REST | [.txt](https://github.com/bhupendpatil/Practice/tre
 Human Computer Interaction Demo | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/CloseableSimpleWarning.java)
 CloudSim Existing Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/CloudSimExistingAlgo.java)
 Hadoop - CharCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
+Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
 
 ## Database
 Program | Link
