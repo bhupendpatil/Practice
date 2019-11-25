@@ -25,3 +25,5 @@ ___
 ## Business Intelligence and Big Data Analytics – II
 Practical No | Program | Link
 -- | -- | --
+3 | Hadoop - CharCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
+4 | Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
