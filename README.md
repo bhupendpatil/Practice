@@ -437,3 +437,9 @@ Name | Link
 -- | -- 
 house | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/house.arff)
 weather | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/weather.arff)
+
+## Weka
+Name | Link
+-- | --
+Regression Model | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/RegressionModel.txt)
+Forecasting Model | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/ForecastingModel.txt)
