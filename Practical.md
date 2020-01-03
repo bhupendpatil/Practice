@@ -30,5 +30,7 @@ Practical No | Program | Link
 3 | Hadoop - CharCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
 4 | Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
 5 | R - K-Shingles | [project](https://github.com/bhupendpatil/Practice/blob/master/R/KShingles)
+6 A | Measuring Similarity Bar Color | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityBarColor)
+6 B | Measuring Similarity Euclidean | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityEuclidean)
 7 | Nth Moment | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NthMoment.java)
 8 | Alon-Matias-Szegedy Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/AMS.java)
