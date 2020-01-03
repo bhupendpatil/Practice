@@ -445,3 +445,8 @@ Name | Link
 -- | --
 Regression Model | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/RegressionModel.txt)
 Forecasting Model | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/ForecastingModel.txt)
+
+## R
+Program | Link
+-- | --
+K-shingles | [project](https://github.com/bhupendpatil/Practice/blob/master/R/KShingles)
