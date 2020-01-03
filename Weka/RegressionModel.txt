@@ -1,0 +1,14 @@
+Step 1 :
+Open Weka > Weka Explorer
+
+Step 2:
+Click on Open file > house.arff (https://github.com/bhupendpatil/Practice/blob/master/DataSet/house.arff) 
+
+Step 3:
+Click on Classify > Choose > functions > LinearRegression
+
+Step 4:
+Set Cross-valid Folds 6
+
+Step 5:
+Start

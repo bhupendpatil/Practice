@@ -1,0 +1,11 @@
+Step 1 :
+Open Weka > Weka Explorer
+
+Step 2:
+Click on Open file > weather.arff (https://github.com/bhupendpatil/Practice/blob/master/DataSet/weather.arff) 
+
+Step 3:
+Click on Cluster > Choose > SimpleKMeans
+
+Step 4:
+Start
