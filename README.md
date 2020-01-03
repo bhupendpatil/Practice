@@ -450,3 +450,5 @@ Forecasting Model | [.txt](https://github.com/bhupendpatil/Practice/blob/master/
 Program | Link
 -- | --
 K-shingles | [project](https://github.com/bhupendpatil/Practice/blob/master/R/KShingles)
+Measuring Similarity Bar Color | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityBarColor)
+Measuring Similarity Euclidean | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityEuclidean)
