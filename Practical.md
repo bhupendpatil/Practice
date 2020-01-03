@@ -25,5 +25,7 @@ ___
 ## Business Intelligence and Big Data Analytics – II
 Practical No | Program | Link
 -- | -- | --
+1 | Weka - Regression Model | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/house.arff) [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/RegressionModel.txt)
+2 | Weka - Forecasting Model | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/weather.arff) [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/ForecastingModel.txt)
 3 | Hadoop - CharCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
 4 | Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
