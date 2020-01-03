@@ -29,3 +29,4 @@ Practical No | Program | Link
 2 | Weka - Forecasting Model | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/weather.arff) [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/ForecastingModel.txt)
 3 | Hadoop - CharCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
 4 | Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
+9 | Alon-Matias-Szegedy Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/AMS.java)
