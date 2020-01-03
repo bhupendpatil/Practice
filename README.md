@@ -235,6 +235,7 @@ CloudSim Existing Algorithm | [.java](https://github.com/bhupendpatil/Practice/b
 Hadoop - CharCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
 Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
 Alon-Matias-Szegedy Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/AMS.java)
+Nth Moment | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NthMoment.java)
 
 ## Database
 Program | Link
