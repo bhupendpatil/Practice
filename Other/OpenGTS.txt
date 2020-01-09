@@ -1,0 +1,12 @@
+ant all
+
+ant track
+
+ant track.deploy
+
+
+cd bin
+
+initdb.bat -rootUser=root1 -pass=root
+
+admin.bat Account –account:admin –pass:12345 –create
