@@ -10,3 +10,5 @@ cd bin
 initdb.bat -rootUser=root1 -pass=root
 
 admin.bat Account –account:admin –pass:12345 –create
+
+http://127.0.0.1:8080/track/Track
