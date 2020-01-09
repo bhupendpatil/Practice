@@ -7,6 +7,7 @@ ___
 ## Ubiquitous Computing
 Practical No | Program | Link
 -- | -- | --
+3 | OpenGTS | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/OpenGTS.txt)
 4 | Human Computer Interaction Demo | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/CloseableSimpleWarning.java)
 5 | Java Card Applet | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/JavaCardApplet.java)
 
