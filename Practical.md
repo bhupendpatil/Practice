@@ -15,6 +15,10 @@ ___
 ## Social Network Analysis
 Practical No | Program | Link
 -- | -- | --
+1 | Compute of given Network | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/dirUndir.R)
+5 | Network as a matrix and other | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/networkMatrix.r)
+7 | Sociograms | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/2mode.R)
+
 
 ___
 ## Cloud Computing – II
@@ -29,9 +33,9 @@ Practical No | Program | Link
 -- | -- | --
 1 | Weka - Regression Model | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/house.arff) [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/RegressionModel.txt)
 2 | Weka - Forecasting Model | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/weather.arff) [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/ForecastingModel.txt)
-3 | Hadoop - CharCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
-4 | Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
-O | Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
+3 | Hadoop - CharCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
+4 | Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
+O | Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
 5 | R - K-Shingles | [project](https://github.com/bhupendpatil/Practice/blob/master/R/KShingles)
 6 A | Measuring Similarity Bar Color | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityBarColor)
 6 B | Measuring Similarity Euclidean | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityEuclidean)
