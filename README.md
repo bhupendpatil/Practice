@@ -237,6 +237,7 @@ Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/ma
 Alon-Matias-Szegedy Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/AMS.java)
 Nth Moment | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NthMoment.java)
 Java Card Applet | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/JavaCardApplet.java)
+Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
 
 ## Database
 Program | Link
