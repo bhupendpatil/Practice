@@ -1,9 +1,20 @@
 library(igraph)
 library(igraphdata)
-data=("koenigsberg")
-plot(koenigsberg)
-get.edgelist(koenigsberg)
-data("kite")
+
+#lists data
+data(package = "igraphdata")
+
+
+#matrix
+data(kite)
 plot(kite)
-data("karade")
-plot(karade)
+kite[]
+
+#edgelist
+data(Koenigsberg)
+plot(Koenigsberg)
+get.edgelist(Koenigsberg)
+
+#sociogram
+data(karate)
+plot(karate)
