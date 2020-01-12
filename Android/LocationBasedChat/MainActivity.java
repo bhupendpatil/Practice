@@ -22,9 +22,6 @@ public class MainActivity extends AppCompatActivity {
     LocationListener ln;
 
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
