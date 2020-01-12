@@ -320,6 +320,8 @@ Listener that downloads an image | [project](https://github.com/bhupendpatil/Pra
 Life Cycle | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LifeCycle)
 Internal Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/InternalDB)
 SQLite Database | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/SQLiteDB)
+Location based messaging app | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LocationBasedMess)
+Location based chat messaging app | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LocationBasedChat)
 
 
 ## C#
