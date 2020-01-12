@@ -17,9 +17,14 @@ Practical No | Program | Link
 -- | -- | --
 1 | Compute of given Network | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/dirUndir.R) [.R](https://github.com/bhupendpatil/Practice/blob/master/R/GraphP1.R)
 2 | Matrices Transformation | [project](https://github.com/bhupendpatil/Practice/tree/master/R/MatricesTrasnformations)
+3 | Node Level measures | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/nodeLevelMeasuresP3.txt)
+4 | Shortest Path and Density | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/shortestpathDensityP4.txt)
 5 | Network as a matrix and other | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/networkMatrix.r)
+6 | Equivalence | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/EquivalenceP6.txt)
 7 | Sociograms | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/2mode.R)
-
+8 | SVD and Factor Analysis | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/SVDP8.txt)
+9 | 2-mode CorePeriphery | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/2modeCorePeripheryP9.txt)
+10 | 2-mode Factions | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/2modeFactionsP10.txt)
 
 ___
 ## Cloud Computing – II
