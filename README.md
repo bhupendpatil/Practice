@@ -458,3 +458,13 @@ Compute of given Network | [.R](https://github.com/bhupendpatil/Practice/blob/ma
 Network as a matrix and other | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/networkMatrix.r)
 Sociograms | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/2mode.R)
 Matrices Transformation | [project](https://github.com/bhupendpatil/Practice/tree/master/R/MatricesTrasnformations)
+
+## Other
+Program | Link
+-- | --
+Node Level measures | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/nodeLevelMeasuresP3.txt)
+Shortest Path and Density | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/shortestpathDensityP4.txt)
+Equivalence | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/EquivalenceP6.txt)
+SVD and Factor Analysis | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/SVDP8.txt)
+2-mode CorePeriphery | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/2modeCorePeripheryP9.txt)
+2-mode Factions | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/2modeFactionsP10.txt)
