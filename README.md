@@ -457,4 +457,4 @@ Measuring Similarity Euclidean | [project](https://github.com/bhupendpatil/Pract
 Compute of given Network | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/dirUndir.R) [.R](https://github.com/bhupendpatil/Practice/blob/master/R/GraphP1.R)
 Network as a matrix and other | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/networkMatrix.r)
 Sociograms | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/2mode.R)
-Matrices Transformation | [project](https://github.com/bhupendpatil/Practice/tree/master/R/MatricesTrasnformations)
+Matrices Transformation | [project](https://github.com/bhupendpatil/Practice/tree/master/R/MatricesTrasnformation)
