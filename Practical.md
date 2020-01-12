@@ -15,7 +15,8 @@ ___
 ## Social Network Analysis
 Practical No | Program | Link
 -- | -- | --
-1 | Compute of given Network | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/dirUndir.R)
+1 | Compute of given Network | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/dirUndir.R) [.R](https://github.com/bhupendpatil/Practice/blob/master/R/GraphP1.R)
+2 | Matrices Transformation | [project](https://github.com/bhupendpatil/Practice/tree/master/R/MatricesTrasnformations)
 5 | Network as a matrix and other | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/networkMatrix.r)
 7 | Sociograms | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/2mode.R)
 
