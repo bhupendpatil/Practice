@@ -232,12 +232,12 @@ Multiplication By Strassen's Algorithm | [project](https://github.com/bhupendpat
 CRUD operations using REST | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt)
 Human Computer Interaction Demo | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/CloseableSimpleWarning.java)
 CloudSim Existing Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/CloudSimExistingAlgo.java)
-Hadoop - CharCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
-Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
+Hadoop - CharCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
+Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
 Alon-Matias-Szegedy Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/AMS.java)
 Nth Moment | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NthMoment.java)
 Java Card Applet | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/JavaCardApplet.java)
-Hadoop - WordCount | [.project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
+Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
 
 ## Database
 Program | Link
@@ -454,6 +454,7 @@ Program | Link
 K-shingles | [project](https://github.com/bhupendpatil/Practice/blob/master/R/KShingles)
 Measuring Similarity Bar Color | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityBarColor)
 Measuring Similarity Euclidean | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityEuclidean)
-Compute of given Network | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/dirUndir.R)
+Compute of given Network | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/dirUndir.R) [.R](https://github.com/bhupendpatil/Practice/blob/master/R/GraphP1.R)
 Network as a matrix and other | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/networkMatrix.r)
 Sociograms | [.R](https://github.com/bhupendpatil/Practice/blob/master/R/2mode.R)
+Matrices Transformation | [project](https://github.com/bhupendpatil/Practice/tree/master/R/MatricesTrasnformations)
