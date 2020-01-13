@@ -49,5 +49,6 @@ O | Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree
 5 | R - K-Shingles | [project](https://github.com/bhupendpatil/Practice/blob/master/R/KShingles)
 6 A | Measuring Similarity Bar Color | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityBarColor)
 6 B | Measuring Similarity Euclidean | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityEuclidean)
+6 C | Min Hash and Jaccard | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MinHashJaccard)
 7 | Nth Moment | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NthMoment.java)
 8 | Alon-Matias-Szegedy Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/AMS.java)
