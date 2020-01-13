@@ -1,7 +1,4 @@
-import java.util.Scanner;
-import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 
 class AMS {
 	public static void main(String args[]) {
@@ -43,3 +40,10 @@ class AMS {
 		
 	}
 }
+
+// Output
+// abcbdacdabdcaab
+// 3
+// 3
+// 8
+// 13

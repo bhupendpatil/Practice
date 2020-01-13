@@ -45,3 +45,7 @@ class NthMoment {
 	
 	} 
 }
+
+// Output
+// abcbdacdabdcaab
+// 0
