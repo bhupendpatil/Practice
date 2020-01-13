@@ -10,7 +10,9 @@ Practical No | Program | Link
 1 | Location based messaging app | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LocationBasedMess)
 2 | Location based chat messaging app | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LocationBasedChat)
 3 | OpenGTS | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/OpenGTS.txt)
-4 | Human Computer Interaction Demo | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/CloseableSimpleWarning.java)
+4 a | Human Computer Interaction Demo (Window) | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/CloseableSimpleWarning.java)
+4 b | Human Computer Interaction Demo (Mouse) | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/DemoMouseEvent.java)
+4 c | Human Computer Interaction Demo (KeyBoard) | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/DemoKeyEvent.java)
 5 | Java Card Applet | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/JavaCardApplet.java)
 
 ___
