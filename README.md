@@ -238,6 +238,7 @@ Alon-Matias-Szegedy Algorithm | [.java](https://github.com/bhupendpatil/Practice
 Nth Moment | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/NthMoment.java)
 Java Card Applet | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/JavaCardApplet.java)
 Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
+Hadoop - MovieRating | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/movierating)
 
 ## Database
 Program | Link
