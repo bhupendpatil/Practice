@@ -239,6 +239,7 @@ Nth Moment | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/N
 Java Card Applet | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/JavaCardApplet.java)
 Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
 Hadoop - MovieRating | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/movierating)
+Hadoop - Algebric | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/Algebric)
 
 ## Database
 Program | Link
