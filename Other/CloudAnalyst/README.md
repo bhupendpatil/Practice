@@ -1,7 +1,7 @@
 # Cloud Analyst 
 
 Steps
-* Installation is just download cloudanalyst from [this link](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Other/CloudAnalyst/cloudanalyst.jar)
+* Installation is just download cloudanalyst from [this link](https://sourceforge.net/projects/cloudanalystnetbeans/) [or this link](https://raw.githubusercontent.com/bhupendpatil/Practice/master/Other/CloudAnalyst/cloud_analyst.zip)
 * In netbeans, go to File -> Open project -> Browse the unzipped folder
 * Expand cloudanalyst -> Expand source package folder -> Expand cloudsim.ext.gui -> Right click on the GuiMain.java -> Click Run File
 * cloudanalyst GUI will open
