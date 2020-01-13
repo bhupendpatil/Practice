@@ -47,6 +47,7 @@ Practical No | Program | Link
 4 | Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
 O | Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
 O | Hadoop - MovieRating | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/movierating)
+O | Hadoop - Algebric | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/Algebric)
 5 | R - K-Shingles | [project](https://github.com/bhupendpatil/Practice/blob/master/R/KShingles)
 6 A | Measuring Similarity Bar Color | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityBarColor)
 6 B | Measuring Similarity Euclidean | [project](https://github.com/bhupendpatil/Practice/blob/master/R/MeasuringSimilarityEuclidean)
