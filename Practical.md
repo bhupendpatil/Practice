@@ -12,11 +12,11 @@ ___
 ## Cloud Computing -III (Building Clouds and Services)
 Practical No | Program | Link
 -- | -- | --
-1 |
-2 | 
-3 | 
-4 | 
-6 |
+1 | Private cloud using open source technology |
+2 | Public cloud using open source technology |
+3 | Disk Offerings, Network Offerings and Templates |
+4 | Working VM : Lifecycle, Creating, Accessing, Assigning |
+6 | Working Storage : Primary, Secondary |
 
 ___
 ## Business Intelligence and Big Data Analytics (Intelligent Data Analysis)
