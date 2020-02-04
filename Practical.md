@@ -12,6 +12,11 @@ ___
 ## Cloud Computing -III (Building Clouds and Services)
 Practical No | Program | Link
 -- | -- | --
+1 |
+2 | 
+3 | 
+4 | 
+6 |
 
 ___
 ## Business Intelligence and Big Data Analytics (Intelligent Data Analysis)
