@@ -14,6 +14,6 @@ Practical No | Program | Link
 -- | -- | --
 
 ___
-##Business Intelligence and Big Data Analytics (Intelligent Data Analysis)
+## Business Intelligence and Big Data Analytics (Intelligent Data Analysis)
 Practical No | Program | Link
 -- | -- | --
