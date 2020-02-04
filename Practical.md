@@ -45,7 +45,7 @@ Practical No | Program | Link
 2 | Weka - Forecasting Model | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/weather.arff) [.txt](https://github.com/bhupendpatil/Practice/blob/master/Weka/ForecastingModel.txt)
 3 | Hadoop - CharCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/charcount)
 4 | Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/wordcountjob)
-O | Hadoop - WordCount | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
+O | Hadoop - Matrix Multiplication | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/matrixmulti)
 O | Hadoop - MovieRating | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/movierating)
 O | Hadoop - Algebric | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/Hadoop/Algebric)
 5 | R - K-Shingles | [project](https://github.com/bhupendpatil/Practice/blob/master/R/KShingles)
