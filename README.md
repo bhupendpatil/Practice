@@ -398,6 +398,7 @@ Dijkstra's Algorithm | [.md](https://github.com/bhupendpatil/Practice/blob/maste
 ## iOS
 Program | Link
 -- | --
+Swift Basics | [.swift](https://github.com/bhupendpatil/Practice/tree/master/iOS/basic.swift)
 Hello World | [project](https://github.com/bhupendpatil/Practice/tree/master/iOS/HelloWorld)
 Notification HelloEx | [project](https://github.com/bhupendpatil/Practice/tree/master/iOS/HelloEx)
 
