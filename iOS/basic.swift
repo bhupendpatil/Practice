@@ -141,3 +141,32 @@ if username == "bhupendpatil" {
 }
 
 print(isLoggedIn)
+
+// else if
+
+var bank_balance : Double = 200.00
+let purchase : Double = 49.99
+var message : String?
+
+if purchase > bank_balance {
+    message = "Not enouth money!"
+} else if purchase < bank_balance {
+    message = "Plenty of money, spend away!"
+}
+
+print(message)
+
+
+// eg. apples, bananas, oranges, pears, peaches
+
+let fruitILike : String = "orange"
+var fruitPicked : String = "apple"
+var message : String?
+
+if fruitILike == fruitPicked {
+    message = "Yumm!"
+} else {
+    message = "Yuck!"
+}
+
+print(message)
