@@ -170,3 +170,98 @@ if fruitILike == fruitPicked {
 }
 
 print(message)
+
+
+// Arrays
+
+var array_name : [Int] = [1,2,3,4,5]
+
+
+// boolean Arrays
+
+var bool_array = [Bool]()
+bool_array = [true,false,false]
+
+var bool_array2 : [Bool] = [true,true,false]
+
+var bool_arra2 = [true,(6==6),false]
+
+var answer_key : [Bool] = [true,true,false,true,false]
+
+var my_test : [Bool] = [true,true,true,false,false]
+
+
+// types of Arrays
+
+
+var int_array = [Int]()
+
+var int_array : [Int] = [1,2,3,4,5]
+
+var position_array : [Int] = [0,4,-2,10,5,8,0]
+
+var int1 : Int = 5
+
+var position_array1 : [Int] = [int1,4,-2,10,5,8,0]
+
+var list_of_transactions : [Double] = [500.00, -345.90, -27.50,678]
+
+var listOfFloats : [Float] = [5.5,6.6,7.7]
+
+var char_array = [Character]()
+
+char_array = ["a","b","c","🤗"]
+
+var string1 : String = "Hello"
+
+var race_positions : [String] = ["Bhupend", "Patil", string1,"Har","Pradeep"]
+
+// array elements
+
+var int_array : [Int] = [1,2,3,4]
+
+var first_elem : Int = int_array[0]
+
+first_elem = 5
+
+print(first_elem)
+
+int_array[0] = 10
+
+print(int_array[0])
+
+var string_array : [String] = ["lol", " awdnawd"]
+
+string_array[1] = "Hello"
+
+print(string_array)
+
+
+// adding elements to array
+
+var bool_array = Array(repeating : true, count : 10)
+
+print(bool_array)
+
+var int_array : [Int] = [1,2]
+int_array.append(3)
+int_array.append(2)
+int_array.append(5)
+
+int_array += [3,2,4]
+
+print(int_array)
+
+
+// insert and remove functions
+
+var greetings_array : [String] = ["Hi", "Hello", "Hey"]
+
+greetings_array.insert("Howdy", at:0)
+print(greetings_array)
+
+greetings_array.remove(at:1)
+greetings_array.remove(at:2)
+
+print(greetings_array)
+
