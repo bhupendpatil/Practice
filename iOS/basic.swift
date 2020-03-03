@@ -265,3 +265,85 @@ greetings_array.remove(at:2)
 
 print(greetings_array)
 
+// loop
+
+var count : Int = 0
+
+for i in 0...99 {
+    print(i)
+    count += 2
+}
+
+print(count)
+
+
+// index value
+
+var count : Int = 0
+
+for i in 0...5 {
+    count = i * 2
+    print(count)
+}
+
+
+// combining arrays
+
+var weekdays : [String] = ["Monday", "Tuesday","Wednesday","Thursday","Friday"]
+
+var combined_days : String = ""
+
+for i in 0...(weekdays.count - 1){
+    combined_days += " " + weekdays[i]
+}
+
+print(combined_days)
+
+
+// constructing arrays
+
+var int_array = [Int]()
+
+for i in 1...10{
+    int_array.append(i)
+}
+
+print(int_array)
+
+
+var string_array = [String]()
+
+for i in 1...10{
+    string_array.append("Hello")
+}
+
+print(string_array)
+
+
+
+// combining for in and if
+
+var int_array : [Int] = [7,5,332,54,87,91,90]
+
+for i in 0...(int_array.count-1){
+    if (int_array[i]%2==1){
+        print(int_array[i])
+    }
+}
+
+print(" ")
+
+for i in 0...(int_array.count-1){
+    if (i%2==1){
+        print(int_array[i])
+    }
+}
+
+print(" ")
+
+for i in 0...(int_array.count-1) {
+    if (i < 2){
+        print(int_array[i])
+    }
+}
+
