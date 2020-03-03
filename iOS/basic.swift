@@ -347,3 +347,96 @@ for i in 0...(int_array.count-1) {
     }
 }
 
+// function
+
+func print_something() {
+    print("Bhupend Patil")
+    print("Ohh")
+}
+
+
+func addCode(a:Int,b:Int) -> Int {
+    return a+b
+}
+
+print(addCode(a:3,b:5))
+
+
+print_something()
+print_something()
+
+
+// function with parameters
+
+func print_something(something:String){
+    print(something)
+}
+
+func double_number(numb:Int){
+    print(numb * 2)
+}
+
+func multi_numbers(num1:Int,num2:Int){
+    print(num1*num2)
+}
+
+
+print_something(something:"Hello")
+
+double_number(numb:63)
+
+multi_numbers(num1:4,num2:5)
+
+
+// function with return types
+
+func combine_strings(str1:String,str2:String) -> String {
+    return str1 + str2
+}
+
+var a = combine_strings(str1:"Bhupend ",str2:"Patil")
+
+var b = combine_strings(str1:"H",str2:"i!")
+
+print(b)
+print(a)
+
+
+// function with  multiple return types
+
+func double_and_toString(numb:Int)-> (doubled_int:Int,string_int:String){
+    let doubled = numb * 2
+    let doubled_to_string = String(doubled)
+    return (doubled,doubled_to_string)
+}
+
+
+print(double_and_toString(numb:190))
+
+
+// function with if condition
+
+func find_max(num1:Int,num2:Int) -> Int {
+    if(num1>num2){
+        return num1
+    } else {
+        return num2
+    }
+}
+
+print(find_max(num1:30,num2:100))
+
+
+// function with for loop
+
+func combine_strings(string_array : [String]) -> String {
+    var combine_string : String = ""
+    for i in 0...(string_array.count-1){
+        combine_string += string_array[i]
+    }
+    return combine_string
+}
+
+print(combine_strings(string_array : ["H","e","l","l","o"]))
+
+print(combine_strings(string_array : ["B","h","u","p","e","n","d"]))
