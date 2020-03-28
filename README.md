@@ -88,6 +88,7 @@ Control speed using switch case | [.py](https://github.com/bhupendpatil/Practice
 Simple Class | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsSimp.py)
 OOP init | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsInit.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsInit2.py)
 OOP inheritance | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsInheritance.py)
+OOP overriding and overloading | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsOver.py)
 
 ## Java
 Program | Link
