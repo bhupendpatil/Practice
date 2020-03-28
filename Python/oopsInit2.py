@@ -9,9 +9,14 @@ class Vehicles:
         print("Color: ",self.c)
         print("Category: ",self.ct)
         print("Worth: $",self.w)
+    def desc(self):
+        return ("{} is {} {} worth {}".format(self.n,self.c,self.ct,self.w))
 
-car1 = Vehicles("Fer","red","Convertible","70,000.00")
+car1 = Vehicles("Fer","red","convertible","70,000.00")
 car2 = Vehicles("Jump","blue","van","15,000.00")
 
 car1.description()
 car2.description()
+
+car1.desc()
+car2.desc()
