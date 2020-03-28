@@ -86,6 +86,7 @@ Doing Steps (for loop) | [.py](https://github.com/bhupendpatil/Practice/blob/mas
 Change direction based on condition | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/directionCondition.py)
 Control speed using switch case | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/controlSpeedSwitch.py)
 Simple Class | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsSimp.py)
+OOP init | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsInit.py)
 
 ## Java
 Program | Link
