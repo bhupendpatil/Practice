@@ -89,6 +89,8 @@ Simple Class | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python
 OOP init | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsInit.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsInit2.py)
 OOP inheritance | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsInheritance.py)
 OOP overriding and overloading | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsOver.py)
+OOP Encapsulation | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsEncapsulation.py)
+OOP Private | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsPrivate.py)
 
 ## Java
 Program | Link
