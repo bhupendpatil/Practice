@@ -85,6 +85,7 @@ Do a Square (while loop) | [.py](https://github.com/bhupendpatil/Practice/blob/m
 Doing Steps (for loop) | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/stepsFor.py)
 Change direction based on condition | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/directionCondition.py)
 Control speed using switch case | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/Robotics/controlSpeedSwitch.py)
+Simple Class | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsSimp.py)
 
 ## Java
 Program | Link
