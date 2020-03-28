@@ -91,6 +91,7 @@ OOP inheritance | [.py](https://github.com/bhupendpatil/Practice/blob/master/Pyt
 OOP overriding and overloading | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsOver.py)
 OOP Encapsulation | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsEncapsulation.py)
 OOP Private | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsPrivate.py)
+OOP Polymorphism | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsPolymorphism.py)
 
 ## Java
 Program | Link
