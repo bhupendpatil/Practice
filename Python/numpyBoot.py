@@ -183,3 +183,8 @@ arr.argmax()
 
 arr.argmin()
 
+
+# read and write csv file
+
+np.genfromtxt("https://raw.githubusercontent.com/selva86/datasets/master/Auto.csv",delimiter=",",skip_header=1)
+
