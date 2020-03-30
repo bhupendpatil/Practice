@@ -92,6 +92,7 @@ OOP overriding and overloading | [.py](https://github.com/bhupendpatil/Practice/
 OOP Encapsulation | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsEncapsulation.py)
 OOP Private | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsPrivate.py)
 OOP Polymorphism | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsPolymorphism.py)
+Numpy Array and List | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/numpyBoot.py)
 
 ## Java
 Program | Link
