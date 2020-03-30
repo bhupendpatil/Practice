@@ -186,5 +186,89 @@ arr.argmin()
 
 # read and write csv file
 
-np.genfromtxt("https://raw.githubusercontent.com/selva86/datasets/master/Auto.csv",delimiter=",",skip_header=1)
+data = np.genfromtxt("https://raw.githubusercontent.com/selva86/datasets/master/Auto.csv",delimiter=",",skip_header=1,filling_values=-1000,dtype="float")
+
+data.shape
+np.set_printoptions(suppress=True)
+data[:3]
+
+data2 = np.genfromtxt("https://raw.githubusercontent.com/selva86/datasets/master/Auto.csv", delimiter=",",skip_header=1,dtype=None)
+data2[:3]
+
+
+np.savetxt('data.csv',data,delimiter=',')
+np.save('data.npy',data)
+np.savez('data.npz',data,data2)
+
+
+d = np.load('data.npy')
+
+d2 = np.load('data.npz')
+
+d2.files
+
+d2['arr_1']
+
+# concat wih rows and col wise
+
+arr1 = np.zeros([4,4])
+arr2 = np.ones([4,4])
+
+# ver
+np.concatenate([arr1,arr2],axis=0)
+np.vstack([arr1,arr2])
+np.r_[arr1,arr2]
+
+#hor
+np.concatenate([arr1,arr2],axis=1)
+
+np.hstack([arr1,arr2])
+
+np.c_[arr1,arr2]
+
+
+# sort a numpy array
+
+arr = np.random.randint(1,10,size=[10,5])
+
+np.sort(arr,axis=0)
+
+sorted_index = arr[:,0].argsort()
+
+
+arr[sorted_index]
+
+
+# working with dates
+
+
+d = np.datetime64('2019-06-02 23:10:00')
+
+d
+
+d+1
+
+d+1000
+
+oneday = np.timedelta64(1,'D')
+
+oneminute = np.timedelta64(1,'m')
+
+dates = np.arange(np.datetime64('2019-06-02'),np.datetime64('2020-06-02'))
+
+
+# Advance function
+
+
+def foo(x):
+    if x%2==1:
+        return x**2
+    else:
+        return x/2
+    
+foo(10)
+
+foo_v = np.vectorize(foo,otypes=[float])
+
+foo_v(arr)
 
