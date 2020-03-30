@@ -95,7 +95,7 @@ arr2d.std()
 
 arr2d.var()
 
-arr2d.sqeeze()
+arr2d.squeeze()
 
 arr2d.cumsum()
 
@@ -113,3 +113,73 @@ a = arr2d.flatten()
 b = arr2d.ravel()
 
 b[0] = -1
+
+
+# sequence, repetitions and random numbers
+
+
+np.arange(1,5)
+
+np.arange(1,5, dtype='int')
+
+np.arange(2,50,2)
+
+np.linspace(1,50,100)
+
+np.logspace(1,50,10)
+
+np.zeros([2,2])
+
+np.ones([2,2])
+
+a = [1,2,3]
+
+np.tile(a,3)
+
+np.repeat(a,3)
+
+np.repeat(arr2d,3)
+
+
+# random number
+
+np.random.rand(1,3)
+
+np.random.randn(1,3)
+
+np.random.randint(0,10,[3,3])
+
+np.random.seed(0)
+np.random.randint(0,10,[3,3])
+
+np.unique(arr2d)
+
+
+uniques, counts = np.unique(arr2d,return_counts=True)
+
+uniques
+
+counts
+
+
+
+# more 
+
+
+arr = np.array([8,94,8,56,1,3,4,5,7])
+
+
+index_gt10 = np.where(arr>10)
+
+arr[index_gt10]
+
+arr[arr>10]
+
+arr>10
+
+np.where(arr>10,'gt10','lt5')
+
+arr.argmax()
+
+arr.argmin()
+
