@@ -96,3 +96,13 @@ df3.join(df4,how='outer')
 
 pd.concat([df3,df4])
 
+
+
+# importing and analyzing the Dataset
+import pandas as pd
+
+cars = pd.read_csv("mtcars.csv")
+cars
+
+type(cars)
+
