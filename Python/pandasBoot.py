@@ -106,3 +106,27 @@ cars
 
 type(cars)
 
+cars.head()
+cars.head(10)
+
+cars.tail()
+cars.tail(10)
+
+cars.shape
+
+cars.info(null_counts=True)
+
+cars.mean()
+
+cars.median()
+
+cars.std()
+
+cars.max()
+
+cars.min()
+
+cars.count()
+
+cars.describe()
+
