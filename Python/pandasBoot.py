@@ -130,3 +130,60 @@ cars.count()
 
 cars.describe()
 
+
+# cleaning dataset
+
+# filter
+cars = cars.rename(columns={'model1':'model'})
+
+cars.qsec = cars.qsec.fillna(cars.qsec.mean())
+
+cars = cars.drop(columns=['S.No'])
+
+df = cars[['mpg','cyl','disp','hp','drat','wt','qsec','vs','am','gear','carb']].corr()
+df
+
+cars.mpg = cars.mpg.astype(float)
+cars.info(null_counts=True)
+
+
+# manipluating
+
+cars.iloc[:,4]
+cars.iloc[0:5,4]
+
+cars.iloc[:,:]
+
+cars.iloc[4:,4:]
+
+cars.iloc[:,1]
+
+cars.loc[:,'mpg']
+cars.loc[6,'mpg']
+
+cars.loc[6,'mpg':'qsec']
+
+cars['am'] = 1
+
+f = lambda x : x*2
+cars['am'] = cars['am'].apply(f)
+cars
+
+cars.sort_values(by='cyl')
+
+cars.sort_values(by='cyl', ascending=False)
+
+cars['cyl'] > 6
+
+filt1 = cars['cyl'] > 6
+
+filt2 = cars[filt1]
+
+filt2
+
+
+filt3 = (cars['cyl'] > 6) & (cars['hp'] > 300)
+
+filt4 = cars[filt3]
+
+filt4
