@@ -95,6 +95,7 @@ OOP Polymorphism | [.py](https://github.com/bhupendpatil/Practice/blob/master/Py
 Numpy Array and List | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/numpyBoot.py)
 Matplotlib Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/matplotlibBoot.py)
 Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/pandasBoot.py)
+Seaborn Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/seabornBoot.py)
 
 
 ## Java
