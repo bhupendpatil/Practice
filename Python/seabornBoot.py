@@ -168,3 +168,18 @@ sns.catplot(x='total_bill',y='day',hue='sex',kind='violin',data=tips,split=True,
 g = sns.catplot(x='day',y='total_bill',kind='violin',inner=None,data=tips)
 sns.swarmplot(x='day',y='total_bill',color='k',size=3,data=tips,ax= g.ax)
 
+
+# barplot
+
+sns.catplot(x='sex',y='survived',hue='class',kind='bar',data=titanic)
+
+sns.catplot(x='deck',kind='count',palette='ch:0.25',data=titanic)
+
+sns.catplot(x='deck',kind='count',palette='ch:0.25',data=titanic,hue='class')
+
+
+
+# pointplot  
+
+sns.catplot(x='sex',y='survived',hue='class',kind='point',data=titanic)
+
