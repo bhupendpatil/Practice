@@ -139,3 +139,32 @@ sns.catplot(x='smoker',y='tip',data=tips)
 
 sns.catplot(x='smoker',y='tip',data=tips,order=['No','Yes'])
 
+
+# boxplot
+
+sns.catplot(x='day',y='total_bill',kind='box',data=tips)
+
+sns.catplot(x='day',y='total_bill',hue='time',kind='box',data=tips)
+
+sns.catplot(x='day',y='total_bill',hue='sex',kind='box',data=tips)
+
+sns.catplot(x='day',y='total_bill',hue='sex',kind='box',dodge=False,data=tips,)
+
+sns.catplot(x='color',y='price',kind='boxen',data=diamonds.sort_values('color'))
+
+sns.catplot(x='day',y='total_bill',hue='sex',kind='boxen',dodge=False,data=tips,)
+
+
+# violin
+
+sns.catplot(x='total_bill',y='day',hue='time',kind='violin',data=tips)
+
+sns.catplot(x='total_bill',y='day',hue='sex',kind='violin',data=tips)
+
+sns.catplot(x='total_bill',y='day',hue='sex',kind='violin',data=tips,split=True)
+
+sns.catplot(x='total_bill',y='day',hue='sex',kind='violin',data=tips,split=True,inner='stick')
+
+g = sns.catplot(x='day',y='total_bill',kind='violin',inner=None,data=tips)
+sns.swarmplot(x='day',y='total_bill',color='k',size=3,data=tips,ax= g.ax)
+
