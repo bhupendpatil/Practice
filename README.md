@@ -487,9 +487,10 @@ SVD and Factor Analysis | [.txt](https://github.com/bhupendpatil/Practice/tree/m
 2-mode Factions | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/2modeFactionsP10.txt)
 
 
-## Dart
+## Flutter
 Program | Link
 -- | --
-Hello World | [.dart](https://github.com/bhupendpatil/Practice/blob/master/Dart/HelloWorld/main.dart)
-External Package | [project](https://github.com/bhupendpatil/Practice/blob/master/Dart/ExternalPackage)
-Stateful Widget | [project](https://github.com/bhupendpatil/Practice/blob/master/Dart/StatefulWidget)
+Hello World | [.dart](https://github.com/bhupendpatil/Practice/blob/master/Flutter/HelloWorld/main.dart)
+External Package | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/ExternalPackage)
+Stateful Widget | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/StatefulWidget)
+I am Rich | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/i_am_rich)
