@@ -85,3 +85,57 @@ sns.relplot(x='timepoint',y='signal',hue='subject',col='region',row='event',heig
 
 sns.relplot(x='total_bill',y='tip',hue='smoker',col='size',data=tips,col_wrap=3,height=3)
 
+
+# lineplot
+
+fmri.head()
+
+sns.lineplot(x='timepoint',y='signal',data=fmri)
+
+sns.lineplot(x='timepoint',y='signal',hue='event',data=fmri)
+
+sns.lineplot(x='timepoint',y='signal',hue='region',data=fmri)
+
+sns.lineplot(x='timepoint',y='signal',style='event',hue='region',data=fmri)
+
+sns.lineplot(x='timepoint',y='signal',style='event',hue='region',data=fmri,markers=True,ci=68,err_style='bars')
+
+sns.lineplot(x='timepoint',y='signal',hue='event',units='subject',estimator=None,lw=1,data=fmri.query("region=='frontal'"))
+
+sns.lineplot(x='time',y='firing_rate',hue='coherence',style='choice',data=dots)
+
+
+
+# scatterplot
+
+sns.scatterplot(x='total_bill',y='tip',data=tips,hue='smoker',size='size',style='time')
+
+iris = sns.load_dataset('iris')
+
+iris.head()
+
+sns.scatterplot(x='sepal_length',y='petal_length',data=iris)
+
+sns.scatterplot(x=iris['sepal_length'],y=iris['petal_length'])
+
+
+# Categorical Data Plot
+
+# catplot
+
+titanic = sns.load_dataset('titanic')
+
+titanic.head()
+
+sns.catplot(x='day',y='total_bill',data=tips)
+
+sns.catplot(x='day',y='total_bill',data=tips,jitter=False)
+
+sns.catplot(x='day',y='total_bill',data=tips,kind='swarm')
+
+sns.catplot(x='day',y='total_bill',data=tips,kind='swarm',hue='sex')
+
+sns.catplot(x='smoker',y='tip',data=tips)
+
+sns.catplot(x='smoker',y='tip',data=tips,order=['No','Yes'])
+
