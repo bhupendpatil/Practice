@@ -497,3 +497,4 @@ I am Rich | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutt
 I am Poor | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/i_am_poor)
 Layout Challenge | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/mi_card_flutter(layoutChallenge))
 Mi Card | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/mi_card_flutter)
+Dice App | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/dicee-flutter)
