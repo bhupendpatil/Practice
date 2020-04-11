@@ -501,3 +501,4 @@ Dice App | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutte
 Magic 8-ball Challenge | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/magic-8-ball-flutter)
 Xylophone | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/xylophone-flutter)
 Quizzler | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/quizzler-flutter)
+Destini Challenge | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/destini-challenge-starting)
