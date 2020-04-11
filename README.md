@@ -500,3 +500,4 @@ Mi Card | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter
 Dice App | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/dicee-flutter)
 Magic 8-ball Challenge | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/magic-8-ball-flutter)
 Xylophone | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/xylophone-flutter)
+Quizzler | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/quizzler-flutter)
