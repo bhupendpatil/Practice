@@ -503,3 +503,4 @@ Xylophone | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutt
 Quizzler | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/quizzler-flutter)
 Destini Challenge | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/destini-challenge-starting)
 Navigator | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/Navigation-Flutter-Demo)
+BMI Calculator | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/bmi-calculator-flutter)
