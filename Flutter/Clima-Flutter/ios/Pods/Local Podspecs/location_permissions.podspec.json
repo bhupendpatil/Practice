@@ -1,0 +1,27 @@
+{
+  "name": "location_permissions",
+  "version": "2.0.5",
+  "summary": "Location permission plugin for Flutter.",
+  "description": "This plugin provides a cross-platform (iOS, Android) API to check and request access to the location services on the\ndevice.",
+  "homepage": "https://github.com/BaseflowIT/flutter-permission-plugins/tree/develop/packages/location_permissions",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Baseflow": "hello@baseflow.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "static_framework": true
+}
