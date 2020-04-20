@@ -505,3 +505,4 @@ Destini Challenge | [project](https://github.com/bhupendpatil/Practice/blob/mast
 Navigator | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/Navigation-Flutter-Demo)
 BMI Calculator | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/bmi-calculator-flutter)
 Weather App | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/Clima-Flutter)
+Coin Ticker App | [project(silver)](https://github.com/bhupendpatil/Practice/blob/master/Flutter/bitcoin-ticker-flutter(silver)) [project(gold)](https://github.com/bhupendpatil/Practice/blob/master/Flutter/bitcoin-ticker-flutter(gold))
