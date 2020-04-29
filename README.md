@@ -506,3 +506,4 @@ Navigator | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutt
 BMI Calculator | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/bmi-calculator-flutter)
 Weather App | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/Clima-Flutter)
 Coin Ticker App | [project(silver)](https://github.com/bhupendpatil/Practice/blob/master/Flutter/bitcoin-ticker-flutter(silver)) [project(gold)](https://github.com/bhupendpatil/Practice/blob/master/Flutter/bitcoin-flutter-gold-start)
+Flash Chat | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/flash-chat-flutter)
