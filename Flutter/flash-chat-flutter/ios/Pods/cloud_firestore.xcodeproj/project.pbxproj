@@ -1,0 +1,686 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3907447386100BD68D270610C7E18B7F /* cloud_firestore-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BDA969B4F7EA1FB9445BE3921EACFD87 /* cloud_firestore-dummy.m */; };
+		54E905FD9865BA7A56C21FDAFDA71AC1 /* FLTCloudFirestorePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = DB88A041BF999893C3C442269DC93972 /* FLTCloudFirestorePlugin.m */; };
+		BE63A75D5D5887B0EA78CDF9DC4B39AC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 524543B881F71E70DBB41795DF3F3078 /* Foundation.framework */; };
+		E4F78489262B9E493EE204241B25CC47 /* cloud_firestore-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 65E44BE216D8E8180E61E47C41128A1D /* cloud_firestore-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F063586E6C8CEA3789695EB304BE9CC6 /* FLTCloudFirestorePlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = EDCFE61BD991DC413DB9D233024B7042 /* FLTCloudFirestorePlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		33910567086E7C657AD63C747D1F8C7F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 87A9FFFE7893B56AC9A67ABCD4597558 /* Flutter.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = D40F1FD973363D8FE0BF347DCFCE2318;
+			remoteInfo = Flutter;
+		};
+		CEBCC97ACEF1D79B55E6561351AEAB12 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CF44EB61C2AA03FE2F38D55DAF3D69E0 /* Firebase.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 15B99218A87324F316F0E937B3DAAC8B;
+			remoteInfo = Firebase;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0548F5673F09420783E91A89AC9C10F6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.5/LICENSE"; sourceTree = "<group>"; };
+		14894B0F22599253E8C23CCC5203422A /* cloud_firestore.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = cloud_firestore.podspec; path = "../../../../../../../.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.5/ios/cloud_firestore.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		245A8F3360CB97D0DB15240D17D9A1F4 /* cloud_firestore.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = cloud_firestore.modulemap; sourceTree = "<group>"; };
+		4DB42DE87F5340BD2ABB49B31ED8C3AB /* cloud_firestore.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = cloud_firestore.release.xcconfig; sourceTree = "<group>"; };
+		524543B881F71E70DBB41795DF3F3078 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		654834AB039082D64398F5AD6367C5FC /* cloud_firestore.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = cloud_firestore.debug.xcconfig; sourceTree = "<group>"; };
+		65E44BE216D8E8180E61E47C41128A1D /* cloud_firestore-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "cloud_firestore-umbrella.h"; sourceTree = "<group>"; };
+		87A9FFFE7893B56AC9A67ABCD4597558 /* Flutter */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Flutter; path = Flutter.xcodeproj; sourceTree = "<group>"; };
+		8A4FFBDF9D89941177320697347B49E6 /* cloud_firestore-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "cloud_firestore-Info.plist"; sourceTree = "<group>"; };
+		98BE0124F3FD4D44605A9D36506E919F /* cloud_firestore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = cloud_firestore.framework; path = cloud_firestore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB1D7E6FE0F708691360C8862DF44802 /* cloud_firestore-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "cloud_firestore-prefix.pch"; sourceTree = "<group>"; };
+		BDA969B4F7EA1FB9445BE3921EACFD87 /* cloud_firestore-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "cloud_firestore-dummy.m"; sourceTree = "<group>"; };
+		CF44EB61C2AA03FE2F38D55DAF3D69E0 /* Firebase */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Firebase; path = Firebase.xcodeproj; sourceTree = "<group>"; };
+		DB88A041BF999893C3C442269DC93972 /* FLTCloudFirestorePlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FLTCloudFirestorePlugin.m; path = "../../../../../../../../.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.5/ios/Classes/FLTCloudFirestorePlugin.m"; sourceTree = "<group>"; };
+		EDCFE61BD991DC413DB9D233024B7042 /* FLTCloudFirestorePlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FLTCloudFirestorePlugin.h; path = "../../../../../../../../.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.5/ios/Classes/FLTCloudFirestorePlugin.h"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		935B0E0044B54D3DA3439D56388DDED4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE63A75D5D5887B0EA78CDF9DC4B39AC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00EA37D58AEC0FDFBCF9E53A3839731D /* .symlinks */ = {
+			isa = PBXGroup;
+			children = (
+				E533EEA323536B389F934FAADC98ED71 /* plugins */,
+			);
+			name = .symlinks;
+			path = .symlinks;
+			sourceTree = "<group>";
+		};
+		00ED64C3590C7B0977FE15E004DE5518 = {
+			isa = PBXGroup;
+			children = (
+				6123916D2B684DFDEAA64E1F10A57936 /* cloud_firestore */,
+				DE1F3B1F7847EEDA3B6898A4A8C063B0 /* Dependencies */,
+				6F8D3D9220C310F7168DC0CD0F2628FA /* Frameworks */,
+				93B71F71D64DBA3D27C5ABA8FFC7D487 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		098EC9C59151BB4A8FA89BCF423892FD /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				752B1D2EF368E822598B67A8D28D0886 /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		402CD893E4D2CF6446C22C636E69F69D /* AndroidStudioProjects */ = {
+			isa = PBXGroup;
+			children = (
+				F7F9CDC8F6342F2088DD6360B9D82FB1 /* flash-chat-flutter */,
+			);
+			name = AndroidStudioProjects;
+			path = AndroidStudioProjects;
+			sourceTree = "<group>";
+		};
+		514D920881B3970CD61BB188EBF62F5E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				EDCFE61BD991DC413DB9D233024B7042 /* FLTCloudFirestorePlugin.h */,
+				DB88A041BF999893C3C442269DC93972 /* FLTCloudFirestorePlugin.m */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		54DF91E475E7D4C534E39B5E9E0DEE65 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				14894B0F22599253E8C23CCC5203422A /* cloud_firestore.podspec */,
+				0548F5673F09420783E91A89AC9C10F6 /* LICENSE */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		6123916D2B684DFDEAA64E1F10A57936 /* cloud_firestore */ = {
+			isa = PBXGroup;
+			children = (
+				EFA3A75E00A6F48C3CE2DAB682110163 /* .. */,
+				54DF91E475E7D4C534E39B5E9E0DEE65 /* Pod */,
+				E4AD7DA24E171024E656355911B69528 /* Support Files */,
+			);
+			name = cloud_firestore;
+			path = ../.symlinks/plugins/cloud_firestore/ios;
+			sourceTree = "<group>";
+		};
+		6F8D3D9220C310F7168DC0CD0F2628FA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C7C70BE6F1DA3E9A7373CE6488526EA6 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		752B1D2EF368E822598B67A8D28D0886 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				75C93235BAD39C5F54DEE2D987EB75D4 /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		75A51CDF58DDC2A9FF7A46F882BDDF80 /* cloud_firestore */ = {
+			isa = PBXGroup;
+			children = (
+				8EF757CB500B77D39BFE8141546A36A7 /* ios */,
+			);
+			name = cloud_firestore;
+			path = cloud_firestore;
+			sourceTree = "<group>";
+		};
+		75C93235BAD39C5F54DEE2D987EB75D4 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				BDED19226DB4ABDB162D3AA52CAAADE6 /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		8EF757CB500B77D39BFE8141546A36A7 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				514D920881B3970CD61BB188EBF62F5E /* Classes */,
+			);
+			name = ios;
+			path = ios;
+			sourceTree = "<group>";
+		};
+		901F4D072672B87D8EE57BF47DFD11EA /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				098EC9C59151BB4A8FA89BCF423892FD /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		93B71F71D64DBA3D27C5ABA8FFC7D487 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				98BE0124F3FD4D44605A9D36506E919F /* cloud_firestore.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BDED19226DB4ABDB162D3AA52CAAADE6 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				402CD893E4D2CF6446C22C636E69F69D /* AndroidStudioProjects */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		C7C70BE6F1DA3E9A7373CE6488526EA6 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				524543B881F71E70DBB41795DF3F3078 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		DE1F3B1F7847EEDA3B6898A4A8C063B0 /* Dependencies */ = {
+			isa = PBXGroup;
+			children = (
+				CF44EB61C2AA03FE2F38D55DAF3D69E0 /* Firebase */,
+				87A9FFFE7893B56AC9A67ABCD4597558 /* Flutter */,
+			);
+			name = Dependencies;
+			sourceTree = "<group>";
+		};
+		E4AD7DA24E171024E656355911B69528 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				245A8F3360CB97D0DB15240D17D9A1F4 /* cloud_firestore.modulemap */,
+				BDA969B4F7EA1FB9445BE3921EACFD87 /* cloud_firestore-dummy.m */,
+				8A4FFBDF9D89941177320697347B49E6 /* cloud_firestore-Info.plist */,
+				BB1D7E6FE0F708691360C8862DF44802 /* cloud_firestore-prefix.pch */,
+				65E44BE216D8E8180E61E47C41128A1D /* cloud_firestore-umbrella.h */,
+				654834AB039082D64398F5AD6367C5FC /* cloud_firestore.debug.xcconfig */,
+				4DB42DE87F5340BD2ABB49B31ED8C3AB /* cloud_firestore.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../../../Pods/Target Support Files/cloud_firestore";
+			sourceTree = "<group>";
+		};
+		E533EEA323536B389F934FAADC98ED71 /* plugins */ = {
+			isa = PBXGroup;
+			children = (
+				75A51CDF58DDC2A9FF7A46F882BDDF80 /* cloud_firestore */,
+			);
+			name = plugins;
+			path = plugins;
+			sourceTree = "<group>";
+		};
+		EFA3A75E00A6F48C3CE2DAB682110163 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				901F4D072672B87D8EE57BF47DFD11EA /* .. */,
+			);
+			name = ..;
+			path = "../../../../../../../.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.5/ios";
+			sourceTree = "<group>";
+		};
+		F39D4DCEA4EB2AD2C31291A5B81EB722 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				00EA37D58AEC0FDFBCF9E53A3839731D /* .symlinks */,
+			);
+			name = ios;
+			path = ios;
+			sourceTree = "<group>";
+		};
+		F7F9CDC8F6342F2088DD6360B9D82FB1 /* flash-chat-flutter */ = {
+			isa = PBXGroup;
+			children = (
+				F39D4DCEA4EB2AD2C31291A5B81EB722 /* ios */,
+			);
+			name = "flash-chat-flutter";
+			path = "flash-chat-flutter";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D37089C2ADF477998074912F99F9391E /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4F78489262B9E493EE204241B25CC47 /* cloud_firestore-umbrella.h in Headers */,
+				F063586E6C8CEA3789695EB304BE9CC6 /* FLTCloudFirestorePlugin.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		C31D58B7725B39337EFC978D34A37368 /* cloud_firestore */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 82187A1900BEBD608357CC185EE51108 /* Build configuration list for PBXNativeTarget "cloud_firestore" */;
+			buildPhases = (
+				D37089C2ADF477998074912F99F9391E /* Headers */,
+				98F88C71E425A33B6D31D9BCB98A9D5F /* Sources */,
+				935B0E0044B54D3DA3439D56388DDED4 /* Frameworks */,
+				2E7B5F94DB70C4FC3AB2AF92FD5572B2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D28BE8B42D7E177BDF94E28EC527793C /* PBXTargetDependency */,
+				FE6E1605032E2EF7A23A91245D6E77FA /* PBXTargetDependency */,
+			);
+			name = cloud_firestore;
+			productName = cloud_firestore;
+			productReference = 98BE0124F3FD4D44605A9D36506E919F /* cloud_firestore.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8201049D04A8113237CF4FC51CC951CF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = 7B17C689C8093F4A97DC232D4875A515 /* Build configuration list for PBXProject "cloud_firestore" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 00ED64C3590C7B0977FE15E004DE5518;
+			productRefGroup = 93B71F71D64DBA3D27C5ABA8FFC7D487 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProjectRef = 87A9FFFE7893B56AC9A67ABCD4597558 /* Flutter */;
+				},
+				{
+					ProjectRef = CF44EB61C2AA03FE2F38D55DAF3D69E0 /* Firebase */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				C31D58B7725B39337EFC978D34A37368 /* cloud_firestore */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2E7B5F94DB70C4FC3AB2AF92FD5572B2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		98F88C71E425A33B6D31D9BCB98A9D5F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3907447386100BD68D270610C7E18B7F /* cloud_firestore-dummy.m in Sources */,
+				54E905FD9865BA7A56C21FDAFDA71AC1 /* FLTCloudFirestorePlugin.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D28BE8B42D7E177BDF94E28EC527793C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Firebase;
+			targetProxy = CEBCC97ACEF1D79B55E6561351AEAB12 /* PBXContainerItemProxy */;
+		};
+		FE6E1605032E2EF7A23A91245D6E77FA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			targetProxy = 33910567086E7C657AD63C747D1F8C7F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2A493311A6B0E2EB1001CCDB914478C3 /* Profile */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4DB42DE87F5340BD2ABB49B31ED8C3AB /* cloud_firestore.release.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/cloud_firestore/cloud_firestore-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/cloud_firestore/cloud_firestore-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/cloud_firestore/cloud_firestore.modulemap";
+				PRODUCT_MODULE_NAME = cloud_firestore;
+				PRODUCT_NAME = cloud_firestore;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Profile;
+		};
+		505799974EA429A053325030A8B5315B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		5D7D7A3B2BED33D11646AC5DD768D16A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 654834AB039082D64398F5AD6367C5FC /* cloud_firestore.debug.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/cloud_firestore/cloud_firestore-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/cloud_firestore/cloud_firestore-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/cloud_firestore/cloud_firestore.modulemap";
+				PRODUCT_MODULE_NAME = cloud_firestore;
+				PRODUCT_NAME = cloud_firestore;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		948372FD1251580FA275C78456662CE4 /* Profile */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_PROFILE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Profile;
+		};
+		9DCF6E0A1E109A5A28DB7BCE0C6B37D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		BB6AFC57471EA11C754BA2F97D0BCB8C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4DB42DE87F5340BD2ABB49B31ED8C3AB /* cloud_firestore.release.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/cloud_firestore/cloud_firestore-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/cloud_firestore/cloud_firestore-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/cloud_firestore/cloud_firestore.modulemap";
+				PRODUCT_MODULE_NAME = cloud_firestore;
+				PRODUCT_NAME = cloud_firestore;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7B17C689C8093F4A97DC232D4875A515 /* Build configuration list for PBXProject "cloud_firestore" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DCF6E0A1E109A5A28DB7BCE0C6B37D4 /* Debug */,
+				948372FD1251580FA275C78456662CE4 /* Profile */,
+				505799974EA429A053325030A8B5315B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		82187A1900BEBD608357CC185EE51108 /* Build configuration list for PBXNativeTarget "cloud_firestore" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5D7D7A3B2BED33D11646AC5DD768D16A /* Debug */,
+				2A493311A6B0E2EB1001CCDB914478C3 /* Profile */,
+				BB6AFC57471EA11C754BA2F97D0BCB8C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8201049D04A8113237CF4FC51CC951CF /* Project object */;
+}
