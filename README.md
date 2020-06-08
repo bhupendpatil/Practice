@@ -94,7 +94,7 @@ OOP Private | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/
 OOP Polymorphism | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/oopsPolymorphism.py)
 Numpy Array and List | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/numpyBoot.py)
 Matplotlib Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/matplotlibBoot.py)
-Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/pandasBoot.py)
+Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/pandasBoot.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/introduction-to-pandas.py)
 Seaborn Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/seabornBoot.py)
 
 
