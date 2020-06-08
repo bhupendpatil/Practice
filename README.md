@@ -509,6 +509,11 @@ Coin Ticker App | [project(silver)](https://github.com/bhupendpatil/Practice/blo
 Flash Chat | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/flash-chat-flutter)
 Todo App | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/todoey_flutter)
 
+## Machine Learning
+Program | Link
+-- | --
+Pandas | [.py](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/introduction-to-pandas.py) [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/introduction-to-pandas.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/ML/Pandas)
+
 
 ## React
 Program | Link
