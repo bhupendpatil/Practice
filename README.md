@@ -520,6 +520,7 @@ JSX Conditionals | [project](https://github.com/bhupendpatil/Practice/blob/maste
 JSX App Layout | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXAppLayout)
 JSX Props | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXProps)
 Slot Machine Exercise JSX | [project](https://github.com/bhupendpatil/Practice/blob/master/React/SlotMachineExerciseJSX)
+JSX Looping| [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXLooping)
 
 
 
