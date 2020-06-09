@@ -1,0 +1,13 @@
+.MachineText {
+    border: 2px solid black;
+    background: lightblue;
+    text-align: center;
+}
+
+.win {
+    color: green;
+}
+
+.lose {
+    color: red;
+}
