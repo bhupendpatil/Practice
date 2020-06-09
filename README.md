@@ -518,6 +518,9 @@ JSX Basic | [project](https://github.com/bhupendpatil/Practice/blob/master/React
 JSX Javascript | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXJavascript)
 JSX Conditionals | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXConditionals)
 JSX App Layout | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXAppLayout)
+JSX Props | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXProps)
+Slot Machine Exercise JSX | [project](https://github.com/bhupendpatil/Practice/blob/master/React/SlotMachineExerciseJSX)
+
 
 
 ## Machine Learning
