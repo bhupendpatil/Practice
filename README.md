@@ -523,7 +523,7 @@ Slot Machine Exercise JSX | [project](https://github.com/bhupendpatil/Practice/b
 JSX Looping | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXLooping)
 Modules First React Exercise | [project](https://github.com/bhupendpatil/Practice/blob/master/React/modules-exercise/src)
 Default App from Function to Class | [project](https://github.com/bhupendpatil/Practice/tree/master/React/DefaultAppFunctionToClass/src)
-
+Promise | [.js](https://github.com/bhupendpatil/Practice/tree/master/React/PromiseExample.js)
 
 ## Machine Learning
 Program | Link
