@@ -521,7 +521,8 @@ JSX App Layout | [project](https://github.com/bhupendpatil/Practice/blob/master/
 JSX Props | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXProps)
 Slot Machine Exercise JSX | [project](https://github.com/bhupendpatil/Practice/blob/master/React/SlotMachineExerciseJSX)
 JSX Looping | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXLooping)
-Modules First React Exercise | [project](https://github.com/bhupendpatil/Practice/blob/master/React/modules-exercise)
+Modules First React Exercise | [project](https://github.com/bhupendpatil/Practice/blob/master/React/modules-exercise/src)
+Default App from Function to Class | [project](https://github.com/bhupendpatil/Practice/tree/master/React/DefaultAppFunctionToClass/src)
 
 
 ## Machine Learning
