@@ -240,7 +240,7 @@ Simple Program Analyzer And Interpreter | [project](https://github.com/bhupendpa
 Generate DAG | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/DAG.java)
 Loop Unrolling | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopUnrolling.java)
 Loop Jamming | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/LoopJamming.java)
-Multiplication By Strassen's Algorithm | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultiByStrassensAlgo)
+Multiplication By Strassens Algorithm | [project](https://github.com/bhupendpatil/Practice/tree/master/Java/MultiByStrassensAlgo)
 CRUD operations using REST | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Java/WsCrud.txt)
 Human Computer Interaction Demo | [.java](https://github.com/bhupendpatil/Practice/tree/master/Java/CloseableSimpleWarning.java)
 CloudSim Existing Algorithm | [.java](https://github.com/bhupendpatil/Practice/blob/master/Java/CloudSimExistingAlgo.java)
@@ -405,7 +405,7 @@ Program | Link
 -- | --
 Depth First Search | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/DeptFirstSearch.md)
 Hill Climbing | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/HillClimbing.md)
-Dijkstra's Algorithm | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/Dijkstra.md)
+Dijkstras Algorithm | [.md](https://github.com/bhupendpatil/Practice/blob/master/PseudoCode/Dijkstra.md)
 
 ## iOS
 Program | Link
