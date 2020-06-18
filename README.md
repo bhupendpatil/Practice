@@ -525,6 +525,7 @@ Modules First React Exercise | [project](https://github.com/bhupendpatil/Practic
 Default App from Function to Class | [project](https://github.com/bhupendpatil/Practice/tree/master/React/DefaultAppFunctionToClass/src)
 Promise | [.js](https://github.com/bhupendpatil/Practice/tree/master/React/PromiseExample.js)
 Monster Rolodex | [project](https://github.com/bhupendpatil/Practice/tree/master/React/monsters-rolodex)
+Pokedex Game (Exercise) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/pokedex)
 
 ## Machine Learning
 Program | Link
