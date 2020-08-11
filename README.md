@@ -533,7 +533,7 @@ Program | Link
 Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/introduction-to-pandas.py) [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/introduction-to-pandas.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/ML/Pandas)
 Pandas Exercise | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/pandas-exercises.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/ML/Pandas)
 
-## Machine Learning
+## Node.js
 Program | Link
 -- | --
 Hello Node | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/hello.js)
