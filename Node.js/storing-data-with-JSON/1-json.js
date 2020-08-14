@@ -1,13 +1,16 @@
 const fs = require('fs')
 
+// book data
 // const book = {
 //     title: 'Bhupends guide',
 //     author: 'Bhupend Patil'
 // }
 
+// to JSON data
 // const bookJSON = JSON.stringify(book)
 // fs.writeFileSync('1-json.json',bookJSON)
 
+// parse
 // const dataBuffer = fs.readFileSync('1-json.json')
 // const dataJSON = dataBuffer.toString()
 // const data = JSON.parse(dataJSON)
