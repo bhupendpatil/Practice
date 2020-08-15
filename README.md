@@ -545,3 +545,4 @@ Printing in Color | [project](https://github.com/bhupendpatil/Practice/tree/mast
 Getting Input from Users | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/getting-input-from-users)
 Argument Parsing with Yargs | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/argument-parsing-with-yargs)
 Storing Data with JSON | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/storing-data-with-JSON)
+Notes-app | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/notes-app)
