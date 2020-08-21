@@ -546,4 +546,4 @@ Getting Input from Users | [project](https://github.com/bhupendpatil/Practice/tr
 Argument Parsing with Yargs | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/argument-parsing-with-yargs)
 Storing Data with JSON | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/storing-data-with-JSON)
 Notes-app | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/notes-app)
-Arrow Function | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/arrow-function.js)
+Arrow Function | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/arrow-function.js) [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/arrow-challenge.js)
