@@ -1,6 +1,6 @@
 const yargs = require('yargs')
 const notes = require('./notes.js')
-const { string } = require('yargs')
+const { string, argv } = require('yargs')
 
 // Customize yargs version
 yargs.version('1.1.0')
@@ -62,8 +62,8 @@ yargs.command({
             type: 'string'
         }
     },
-    handler(){
-        console.log('Reading a note')
+    handler(argv){
+        notes.readNote(argv.title)
     }
 })
 
