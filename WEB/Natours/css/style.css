@@ -7,7 +7,9 @@ Dark green: #28b485
 
 */
 
-* {
+*,
+*::after,
+*::before {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -20,10 +22,12 @@ html {
 body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
-    font-size: 1.6rem;
+    /* font-size: 1.6rem; */
     line-height: 1.7;
     color: #777;
     padding: 3rem;
+
+    box-sizing: border-box;
 }
 
 .header {
