@@ -9,10 +9,3 @@ setTimeout(()=>{
 })
 
 console.log('Stopping')
-
-
-// Output
-// Starting
-// Stopping
-// 0 sec Timer
-// 2 Sec Timer
