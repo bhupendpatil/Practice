@@ -1,4 +1,3 @@
-//
 // Goal: Create method to get incomplete tasks
 //
 // 1. Define getTasksToDo method
