@@ -548,3 +548,5 @@ Storing Data with JSON | [project](https://github.com/bhupendpatil/Practice/tree
 Notes-app | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/notes-app)
 Arrow Function | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/arrow-function.js) [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/arrow-challenge.js)
 Asynchronous | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/asynchronous.js)
+Weather App | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/weather-app)
+HTTP Request | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/httpReqs.js)
