@@ -527,6 +527,7 @@ Default App from Function to Class | [project](https://github.com/bhupendpatil/P
 Promise | [.js](https://github.com/bhupendpatil/Practice/tree/master/React/PromiseExample.js)
 Monster Rolodex | [project](https://github.com/bhupendpatil/Practice/tree/master/React/monsters-rolodex)
 Pokedex Game (Exercise) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/pokedex)
+Mouse Move | [project](https://github.com/bhupendpatil/Practice/tree/master/React/mouseMove)
 
 ## Machine Learning
 Program | Link
