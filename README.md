@@ -515,7 +515,7 @@ Todo App | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutte
 Program | Link
 -- | --
 First Component | [project](https://github.com/bhupendpatil/Practice/blob/master/React/FirstComponent)
-JSX Basic | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXBasic)
+JSX Basic | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXBasic) [.js](https://github.com/bhupendpatil/Practice/blob/master/React/JSXDisplayingContentwithFunctionalComponents.js)
 JSX Javascript | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXJavascript)
 JSX Conditionals | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXConditionals)
 JSX App Layout | [project](https://github.com/bhupendpatil/Practice/blob/master/React/JSXAppLayout)
