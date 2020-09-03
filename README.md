@@ -528,6 +528,7 @@ Promise | [.js](https://github.com/bhupendpatil/Practice/tree/master/React/Promi
 Monster Rolodex | [project](https://github.com/bhupendpatil/Practice/tree/master/React/monsters-rolodex)
 Pokedex Game (Exercise) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/pokedex)
 Mouse Move | [project](https://github.com/bhupendpatil/Practice/tree/master/React/mouseMove)
+Components | [project](https://github.com/bhupendpatil/Practice/tree/master/React/components)
 
 ## Machine Learning
 Program | Link
