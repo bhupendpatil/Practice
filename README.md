@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Practice
 
 ## Python
@@ -96,7 +97,6 @@ Numpy Array and List | [.py](https://github.com/bhupendpatil/Practice/blob/maste
 Matplotlib Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/matplotlibBoot.py)
 Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/pandasBoot.py) [.py](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/introduction-to-pandas.py)
 Seaborn Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/Python/seabornBoot.py)
-
 
 ## Java
 Program | Link
@@ -337,7 +337,6 @@ SQLite Database | [project](https://github.com/bhupendpatil/Practice/tree/master
 Location based messaging app | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LocationBasedMess)
 Location based chat messaging app | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LocationBasedChat)
 
-
 ## C#
 Program | Link
 -- | --
@@ -352,7 +351,6 @@ LinQ Join | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/Linq
 LinQ OfType | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/LinqOfType.cs)
 LinQ Select | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/LinqSelect.cs)
 LinQ Where | [.cs](https://github.com/bhupendpatil/Practice/blob/master/C%23/LinqWhere.cs)
-
 
 ## Web
 Program | Link
@@ -487,7 +485,6 @@ SVD and Factor Analysis | [.txt](https://github.com/bhupendpatil/Practice/tree/m
 2-mode CorePeriphery | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/2modeCorePeripheryP9.txt)
 2-mode Factions | [.txt](https://github.com/bhupendpatil/Practice/tree/master/Other/2modeFactionsP10.txt)
 
-
 ## Flutter
 Program | Link
 -- | --
@@ -510,7 +507,6 @@ Coin Ticker App | [project(silver)](https://github.com/bhupendpatil/Practice/blo
 Flash Chat | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/flash-chat-flutter)
 Todo App | [project](https://github.com/bhupendpatil/Practice/blob/master/Flutter/todoey_flutter)
 
-
 ## React
 Program | Link
 -- | --
@@ -529,6 +525,7 @@ Monster Rolodex | [project](https://github.com/bhupendpatil/Practice/tree/master
 Pokedex Game (Exercise) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/pokedex)
 Mouse Move | [project](https://github.com/bhupendpatil/Practice/tree/master/React/mouseMove)
 Components | [project](https://github.com/bhupendpatil/Practice/tree/master/React/components)
+Seasons (Class Based Components) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/seasons)
 
 ## Machine Learning
 Program | Link
@@ -552,3 +549,5 @@ Arrow Function | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node
 Asynchronous | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/asynchronous.js)
 Weather App | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/weather-app)
 HTTP Request | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/httpReqs.js)
+
+<!-- prettier-ignore-end -->
