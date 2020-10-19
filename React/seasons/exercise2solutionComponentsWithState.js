@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-class Clock extends React.Component {
+class Clockk extends React.Component {
   state = { time: new Date().toLocaleTimeString() };
   componentDidMount() {
     setInterval(() => {
@@ -14,4 +14,4 @@ class Clock extends React.Component {
   }
 }
 
-ReactDOM.render(<Clock />, document.querySelector("#root"));
+ReactDOM.render(<Clockk />, document.querySelector("#root"));
