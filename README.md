@@ -526,6 +526,7 @@ Pokedex Game (Exercise) | [project](https://github.com/bhupendpatil/Practice/tre
 Mouse Move | [project](https://github.com/bhupendpatil/Practice/tree/master/React/mouseMove)
 Components | [project](https://github.com/bhupendpatil/Practice/tree/master/React/components)
 Seasons (Class Based Components) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/seasons)
+Pics (User Input with Forms and Events) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/pics)
 
 ## Machine Learning
 Program | Link
