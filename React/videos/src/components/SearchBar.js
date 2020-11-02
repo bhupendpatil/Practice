@@ -3,7 +3,13 @@ import React from "react";
 class SearchBar extends React.Component {
   state = { term: "" };
 
-  onInputChange = () => {};
+  onInputChange = (event) => {
+    this.setState({ term: event.target.value });
+  };
+
+  onFormSubmit = (event) => {
+    event.preventDefault();
+  };
 
   render() {
     return (
@@ -13,7 +19,7 @@ class SearchBar extends React.Component {
           <input
             type="text"
             value={this.state.term}
-            onChange={this.onInputChange()}
+            onChange={this.onInputChange}
           />
         </form>
       </div>
