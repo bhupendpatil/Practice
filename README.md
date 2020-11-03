@@ -527,7 +527,6 @@ Mouse Move | [project](https://github.com/bhupendpatil/Practice/tree/master/Reac
 Components | [project](https://github.com/bhupendpatil/Practice/tree/master/React/components)
 Seasons (Class Based Components) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/seasons)
 Pics (User Input with Forms and Events) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/pics)
-Videos (YouTube Api) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/videos)
 
 ## Machine Learning
 Program | Link
