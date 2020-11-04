@@ -528,6 +528,7 @@ Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Reac
 Seasons (Class Based Components) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/seasons)
 Pics (User Input with Forms and Events) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/pics)
 Insurance (Redux) | [.js](https://github.com/bhupendpatil/Practice/blob/master/React/InsuranceRedux.js)
+Songs (Redux) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/songs)
 
 ## Machine Learning
 Program | Link
