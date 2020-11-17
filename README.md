@@ -531,6 +531,7 @@ Insurance (Redux) | [.js](https://github.com/bhupendpatil/Practice/blob/master/R
 Songs (Redux) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/songs)
 Blog (Redux) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/blog)
 Streams | [project](https://github.com/bhupendpatil/Practice/tree/master/React/streams)
+Client (Streams) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/streams/client)
 
 ## Machine Learning
 Program | Link
