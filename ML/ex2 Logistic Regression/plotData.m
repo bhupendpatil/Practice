@@ -14,8 +14,10 @@ figure; hold on;
 
 
 
-
-
+one = find(y==1);
+zero = find(y==0);
+plot(X(one,1),X(one,2),"k+","LineWidth",2,"MarkerSize",7);
+plot(X(zero,1),X(zero,2),"ko","MarkerFaceColor","y","MarkerSize",7);
 
 
 
