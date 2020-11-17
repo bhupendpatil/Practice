@@ -530,6 +530,7 @@ Pics (User Input with Forms and Events) | [project](https://github.com/bhupendpa
 Insurance (Redux) | [.js](https://github.com/bhupendpatil/Practice/blob/master/React/InsuranceRedux.js)
 Songs (Redux) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/songs)
 Blog (Redux) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/blog)
+Streams | [project](https://github.com/bhupendpatil/Practice/tree/master/React/streams)
 
 ## Machine Learning
 Program | Link
