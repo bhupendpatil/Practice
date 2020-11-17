@@ -538,6 +538,7 @@ Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/ML/Pand
 Pandas Exercise | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/pandas-exercises.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/ML/Pandas)
 Linear Regression | [ex1](https://github.com/bhupendpatil/Practice/tree/master/ML/ex1%20Linear%20Regression)
 Logistic Regression cost function | [.m](https://github.com/bhupendpatil/Practice/blob/master/ML/costFunctionLogisticRegression.m)
+Logistic Regression | [ex2](https://github.com/bhupendpatil/Practice/tree/master/ML/ex2%20Logistic%20Regression)
 
 ## Node.js
 Program | Link
