@@ -541,6 +541,7 @@ Pandas Exercise | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/
 Linear Regression | [ex1](https://github.com/bhupendpatil/Practice/tree/master/ML/ex1%20Linear%20Regression)
 Logistic Regression cost function | [.m](https://github.com/bhupendpatil/Practice/blob/master/ML/costFunctionLogisticRegression.m)
 Logistic Regression | [ex2](https://github.com/bhupendpatil/Practice/tree/master/ML/ex2%20Logistic%20Regression)
+Multi-class Classification and Neural Networks | [ex3](https://github.com/bhupendpatil/Practice/tree/master/ML/ex3%20Multi-class%20Classification%20and%20Neural%20Networks)
 
 ## Node.js
 Program | Link
