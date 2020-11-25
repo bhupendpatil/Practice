@@ -543,6 +543,7 @@ Logistic Regression cost function | [.m](https://github.com/bhupendpatil/Practic
 Logistic Regression | [ex2](https://github.com/bhupendpatil/Practice/tree/master/ML/ex2%20Logistic%20Regression)
 Multi-class Classification and Neural Networks | [ex3](https://github.com/bhupendpatil/Practice/tree/master/ML/ex3%20Multi-class%20Classification%20and%20Neural%20Networks)
 Neural Network Learning | [ex4](https://github.com/bhupendpatil/Practice/tree/master/ML/ex4%20Neural%20Network%20Learning)
+Regularized Linear Regression and Bias vs Variance | [ex5](https://github.com/bhupendpatil/Practice/tree/master/ML/ex5%20Regularized%20Linear%20Regression%20and%20Bias%20vs%20Variance)
 
 ## Node.js
 Program | Link
