@@ -24,7 +24,19 @@ sigma = 0.3;
 %
 
 
-
+minError = inf;
+for iC = [0.01, 0.03, 0.1, 0.3, 1, 3, 10, 30]
+    for iSigma = [0.01, 0.03, 0.1, 0.3, 1, 3, 10, 30]
+        model = svmTrain(X,y,iC,@(x1,x2) gaussianKernel(x1,x2,iSigma));
+        predictions = svmPredict(model,Xval);
+        error = mean(double(predictions ~= yval));
+        if error < minError
+            minError = error;
+            C = iC;
+            sigma = iSigma;
+        end
+    end
+end
 
 
 
