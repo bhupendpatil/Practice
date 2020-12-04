@@ -546,6 +546,7 @@ Neural Network Learning | [ex4](https://github.com/bhupendpatil/Practice/tree/ma
 Regularized Linear Regression and Bias vs Variance | [ex5](https://github.com/bhupendpatil/Practice/tree/master/ML/ex5%20Regularized%20Linear%20Regression%20and%20Bias%20vs%20Variance)
 Support Vector Machines | [ex6](https://github.com/bhupendpatil/Practice/tree/master/ML/ex6%20Support%20Vector%20Machines)
 K-Means Clustering and PCA | [ex7](https://github.com/bhupendpatil/Practice/tree/master/ML/ex7%20K-Means%20Clustering%20and%20PCA)
+Anomaly Detection and Recommender Systems | [ex8](https://github.com/bhupendpatil/Practice/tree/master/ML/ex8%20Anomaly%20Detection%20and%20Recommender%20Systems)
 
 ## Node.js
 Program | Link
