@@ -533,7 +533,7 @@ Blog (Redux) | [project](https://github.com/bhupendpatil/Practice/tree/master/Re
 Streams | [project](https://github.com/bhupendpatil/Practice/tree/master/React/streams)
 Client (Streams) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/streams/client)
 
-## ML / DL / AI
+## Machine Learning / Deep Learning / Artificial Intelligence
 Program | Link
 -- | --
 Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/introduction-to-pandas.py) [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Pandas/introduction-to-pandas.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/ML/Pandas)
