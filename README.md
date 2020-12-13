@@ -536,8 +536,7 @@ Client (Streams) | [project](https://github.com/bhupendpatil/Practice/tree/maste
 ## Machine Learning | Deep Learning | Artificial Intelligence
 Program | Link
 -- | --
-Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas/introduction-to-pandas.py) [.ipynb](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas/introduction-to-pandas.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas)
-Pandas Exercise | [.ipynb](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas/pandas-exercises.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas)
+Pandas Boot | [.py](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas/introduction-to-pandas.py) [.ipynb](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas/introduction-to-pandas.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas/pandas-exercises.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/Pandas)
 Linear Regression | [ex1](https://github.com/bhupendpatil/Practice/tree/master/ML/ex1%20Linear%20Regression)
 Logistic Regression cost function | [.m](https://github.com/bhupendpatil/Practice/blob/master/ML/costFunctionLogisticRegression.m)
 Logistic Regression | [ex2](https://github.com/bhupendpatil/Practice/tree/master/ML/ex2%20Logistic%20Regression)
@@ -549,7 +548,7 @@ K-Means Clustering and PCA | [ex7](https://github.com/bhupendpatil/Practice/tree
 Anomaly Detection and Recommender Systems | [ex8](https://github.com/bhupendpatil/Practice/tree/master/ML/ex8%20Anomaly%20Detection%20and%20Recommender%20Systems)
 Data Analysis Process | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/DataAnalysisProcess/L1_Starter_Code.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/DataAnalysisProcess)
 NumPy and Pandas for 1D Data | [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/NumPyandPandasfor1DData)
-NumPy Boot | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/NumPy/introduction-to-numpy.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/NumPy)
+NumPy Boot | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/NumPy/introduction-to-numpy.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/NumPy/numpy-exercises.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/NumPy)
 
 ## Node.js
 Program | Link
