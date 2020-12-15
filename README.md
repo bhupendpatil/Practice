@@ -550,6 +550,7 @@ Data Analysis Process | [.ipynb](https://github.com/bhupendpatil/Practice/blob/m
 NumPy and Pandas for 1D Data | [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/NumPyandPandasfor1DData)
 NumPy Boot | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/NumPy/introduction-to-numpy.ipynb) [ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/NumPy/Matrix-Math-and-NumPy-Refresher.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/NumPy/NumPyTest.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/NumPy/numpy-exercises.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Data%20Analysis/NumPy)
 Intro to Neural Networks | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks)
+Perceptron Algorithm | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/Preceptron%20Algorithm/perceptron.py) [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/Preceptron%20Algorithm/perceptron.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/Preceptron%20Algorithm)
 
 ## Node.js
 Program | Link
