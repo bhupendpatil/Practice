@@ -552,6 +552,7 @@ NumPy Boot | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%
 Intro to Neural Networks | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks)
 Perceptron | [algorithm.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/Preceptron%20Algorithm/perceptron.py) [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/perceptrons.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/Preceptron%20Algorithm)
 Softmax Function | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/softmax.py)
+Cross Entropy | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/cross-entropy.py)
 
 ## Node.js
 Program | Link
