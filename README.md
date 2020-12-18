@@ -554,6 +554,7 @@ Perceptron | [algorithm.py](https://github.com/bhupendpatil/Practice/blob/master
 Softmax Function | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/softmax.py)
 Cross Entropy | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/cross-entropy.py)
 Gradient Descent | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/gradient-descent/GradientDescent.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/gradient-descent)
+Analyzing Student Data | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/student-admissions/StudentAdmissions.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/student-admissions)
 
 ## Node.js
 Program | Link
