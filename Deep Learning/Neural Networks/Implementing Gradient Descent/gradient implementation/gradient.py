@@ -1,7 +1,6 @@
 import numpy as np
 from data_prep import features, targets, features_test, targets_test
 
-
 def sigmoid(x):
     """
     Calculate sigmoid
@@ -36,20 +35,20 @@ for e in range(epochs):
         #       the h together with the output
 
         # TODO: Calculate the output
-        output = None
+        output = sigmoid(np.dot(x,weights))
 
         # TODO: Calculate the error
-        error = None
+        error = y - output
 
         # TODO: Calculate the error term
-        error_term = None
+        error_term = error * output * (1-output)
 
         # TODO: Calculate the change in weights for this sample
         #       and add it to the total weight change
-        del_w += 0
+        del_w += error_term * x
 
     # TODO: Update weights using the learning rate and the average change in weights
-    weights += 0
+    weights += learnrate * del_w /n_records
 
     # Printing out the mean square error on the training set
     if e % (epochs / 10) == 0:
@@ -67,3 +66,18 @@ tes_out = sigmoid(np.dot(features_test, weights))
 predictions = tes_out > 0.5
 accuracy = np.mean(predictions == targets_test)
 print("Prediction accuracy: {:.3f}".format(accuracy))
+
+"""
+Output:
+Train loss:  0.26276093849966364
+Train loss:  0.20928619409324895
+Train loss:  0.20084292908073417
+Train loss:  0.1986215647552789
+Train loss:  0.19779851396686018
+Train loss:  0.19742577912189863
+Train loss:  0.19723507746241065
+Train loss:  0.19712945625092465
+Train loss:  0.19706766341315074
+Train loss:  0.19703005801777368
+Prediction accuracy: 0.725
+"""
