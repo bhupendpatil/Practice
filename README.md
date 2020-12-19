@@ -555,7 +555,7 @@ Softmax Function | [.py](https://github.com/bhupendpatil/Practice/blob/master/De
 Cross Entropy | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/cross-entropy.py)
 Gradient Descent | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Implementing%20Gradient%20Descent/gradient.py) [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/gradient-descent/GradientDescent.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/gradient-descent)
 Analyzing Student Data | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/student-admissions/StudentAdmissions.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Intro%20to%20Neural%20Networks/student-admissions)
-Implementing Gradient Descent | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Implementing%20Gradient%20Descent/gradient%20implementation)
+Implementing Gradient Descent | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Implementing%20Gradient%20Descent/gradient%20implementation/gradient.py) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Implementing%20Gradient%20Descent/gradient%20implementation)
 
 ## Node.js
 Program | Link
