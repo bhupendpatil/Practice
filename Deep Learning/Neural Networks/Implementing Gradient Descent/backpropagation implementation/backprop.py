@@ -29,32 +29,32 @@ for e in range(epochs):
     for x, y in zip(features.values, targets):
         ## Forward pass ##
         # TODO: Calculate the output
-        hidden_input = None
-        hidden_output = None
-        output = None
+        hidden_input = np.dot(x,weights_input_hidden)
+        hidden_output = sigmoid(hidden_input)
+        output = sigmoid(np.dot(hidden_output,weights_hidden_output))
 
         ## Backward pass ##
         # TODO: Calculate the network's prediction error
-        error = None
+        error = y - output
 
         # TODO: Calculate error term for the output unit
-        output_error_term = None
+        output_error_term = error * output * (1 - output)
 
         ## propagate errors to hidden layer
 
         # TODO: Calculate the hidden layer's contribution to the error
-        hidden_error = None
+        hidden_error = np.dot(output_error_term,weights_hidden_output)
         
         # TODO: Calculate the error term for the hidden layer
-        hidden_error_term = None
+        hidden_error_term = hidden_error * hidden_output * (1- hidden_output)
         
         # TODO: Update the change in weights
-        del_w_hidden_output += 0
-        del_w_input_hidden += 0
+        del_w_hidden_output += hidden_output * output_error_term
+        del_w_input_hidden += hidden_error_term * x[:,None]
 
     # TODO: Update weights  (don't forget to division by n_records or number of samples)
-    weights_input_hidden += 0
-    weights_hidden_output += 0
+    weights_input_hidden += learnrate * del_w_input_hidden / n_records
+    weights_hidden_output += learnrate * del_w_hidden_output / n_records
 
     # Printing out the mean square error on the training set
     if e % (epochs / 10) == 0:
@@ -75,3 +75,18 @@ out = sigmoid(np.dot(hidden, weights_hidden_output))
 predictions = out > 0.5
 accuracy = np.mean(predictions == targets_test)
 print("Prediction accuracy: {:.3f}".format(accuracy))
+
+"""
+Output:
+Train loss:  0.25135725242598617
+Train loss:  0.24996540718842886
+Train loss:  0.24862005218904654
+Train loss:  0.24731993217179746
+Train loss:  0.24606380465584848
+Train loss:  0.24485044179257162
+Train loss:  0.2436786320186832
+Train loss:  0.24254718151769536
+Train loss:  0.24145491550165465
+Train loss:  0.24040067932493367
+Prediction accuracy: 0.725
+"""
