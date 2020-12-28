@@ -567,6 +567,7 @@ Student Admissions in Keras (Mini Project) | [.ipynb](https://github.com/bhupend
 IMDB Data in Keras (Mini Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/Keras/IMDB-keras/IMDB_In_Keras.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/Keras/IMDB-keras)
 TensorFlow Linear Function | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/TensorFlow/TensorFlow%20Linear%20Function)
 TensorFlow Softmax | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/softmaxTensor.py)
+TensorFlow Cross Entropy | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/crossEntropy.py)
 
 ## Node.js
 Program | Link
