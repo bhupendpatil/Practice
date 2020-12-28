@@ -38,7 +38,7 @@ accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 
 
 # TODO: Set batch size
-batch_size = None
+batch_size = 128
 assert batch_size is not None, 'You must set the batch size'
 
 init = tf.global_variables_initializer()
@@ -47,8 +47,8 @@ with tf.Session() as sess:
     sess.run(init)
     
     # TODO: Train optimizer on all batches
-    # for batch_features, batch_labels in ______
-    sess.run(optimizer, feed_dict={features: batch_features, labels: batch_labels})
+    for batch_features, batch_labels in batches(batch_size,train_features,train_labels):
+        sess.run(optimizer, feed_dict={features: batch_features, labels: batch_labels})
 
     # Calculate accuracy for test dataset
     test_accuracy = sess.run(
@@ -56,3 +56,13 @@ with tf.Session() as sess:
         feed_dict={features: test_features, labels: test_labels})
 
 print('Test Accuracy: {}'.format(test_accuracy))
+
+
+"""
+Output:
+Extracting /datasets/ud730/mnist\train-images-idx3-ubyte.gz
+Extracting /datasets/ud730/mnist\train-labels-idx1-ubyte.gz
+Extracting /datasets/ud730/mnist\t10k-images-idx3-ubyte.gz
+Extracting /datasets/ud730/mnist\t10k-labels-idx1-ubyte.gz
+Test Accuracy: 0.10920000076293945
+"""
