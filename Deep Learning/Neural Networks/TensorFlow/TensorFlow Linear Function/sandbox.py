@@ -46,6 +46,7 @@ train_features, train_labels = mnist_features_labels(n_labels)
 
 with tf.Session() as session:
     # TODO: Initialize session variables
+    session.run(tf.global_variables_initializer())
     
     # Softmax
     prediction = tf.nn.softmax(logits)
@@ -75,3 +76,13 @@ with tf.Session() as session:
 
 # Print loss
 print('Loss: {}'.format(l))
+
+
+"""
+Output:
+Extracting /datasets/ud730/mnist\train-images-idx3-ubyte.gz
+Extracting /datasets/ud730/mnist\train-labels-idx1-ubyte.gz
+Extracting /datasets/ud730/mnist\t10k-images-idx3-ubyte.gz
+Extracting /datasets/ud730/mnist\t10k-labels-idx1-ubyte.gz
+Loss: 7.23102331161499
+"""
