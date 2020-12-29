@@ -569,6 +569,7 @@ TensorFlow Linear Function | [project](https://github.com/bhupendpatil/Practice/
 TensorFlow Softmax | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/softmaxTensor.py)
 TensorFlow Cross Entropy | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/crossEntropy.py)
 TensorFlow Mini-batch | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/Mini-batch/batches/batchess.py) [project1](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/TensorFlow/Mini-batch/batches) [project2](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/TensorFlow/Mini-batch/mnist-batches)
+NotMNIST in TensorFlow | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/TensorFlow/intro-to-tensorflow)
 
 
 ## Node.js
