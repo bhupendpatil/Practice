@@ -570,7 +570,7 @@ TensorFlow Softmax | [.py](https://github.com/bhupendpatil/Practice/blob/master/
 TensorFlow Cross Entropy | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/crossEntropy.py)
 TensorFlow Mini-batch | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/Mini-batch/batches/batchess.py) [project1](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/TensorFlow/Mini-batch/batches) [project2](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/TensorFlow/Mini-batch/mnist-batches)
 NotMNIST in TensorFlow | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/intro-to-tensorflow/intro_to_tensorflow.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Neural%20Networks/TensorFlow/intro-to-tensorflow)
-
+TensorFlow ReLUs | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/tensorReLUs.py)
 
 ## Node.js
 Program | Link
