@@ -574,6 +574,7 @@ TensorFlow ReLUs | [.py](https://github.com/bhupendpatil/Practice/blob/master/De
 Save and Restore TensorFlow Models | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/saveRestore.ipynb)
 TensorFlow Dropout | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Neural%20Networks/TensorFlow/tensorDropout.py)
 Training an MLP on MNIST (Mini Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/mnist-mlp/mnist_mlp.ipynb)
+CNN Layers | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/layersKeras.ipynb)
 
 ## Node.js
 Program | Link
