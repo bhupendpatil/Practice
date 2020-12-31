@@ -576,6 +576,7 @@ TensorFlow Dropout | [.py](https://github.com/bhupendpatil/Practice/blob/master/
 Training an MLP on MNIST (Mini Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/mnist-mlp/mnist_mlp.ipynb)
 CNN Layers | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/layersKeras.ipynb)
 CNNs for Image Classification | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/imgClassification.py)
+CNNs in Keras (Mini Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/cifar10-classification/cifar10_cnn.ipynb)
 
 ## Node.js
 Program | Link
