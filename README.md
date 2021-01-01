@@ -578,6 +578,8 @@ CNN Layers | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%
 CNNs for Image Classification | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/imgClassification.py)
 CNNs in Keras (Mini Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/cifar10-classification/cifar10_cnn.ipynb)
 Image Augmentation in Keras (Mini Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/cifar10-augmentation/cifar10_augmentation.ipynb)
+Bottleneck Features | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/transfer-learning/bottleneck_features.ipynb)
+Transfer Learning in Keras | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Convolutional%20Neural%20Networks/transfer-learning/transfer_learning.ipynb)
 
 ## Node.js
 Program | Link
