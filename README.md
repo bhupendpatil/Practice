@@ -584,6 +584,7 @@ Tensorflow Convolutional Layers | [.py](https://github.com/bhupendpatil/Practice
 Tensorflow Max Pooling Layers | [.py](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/CNNs%20in%20TensorFlow/poolingTensor.py)
 CNNs in TensorFlow | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/CNNs%20in%20TensorFlow/cnnsTensor.ipynb)
 Weight Initialization | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Weight%20Initialization/weight_initialization.ipynb)
+A Simple Autoencoder | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Autoencoders/Simple_Autoencoder.ipynb)
 
 ## Node.js
 Program | Link
