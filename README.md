@@ -586,7 +586,7 @@ CNNs in TensorFlow | [.ipynb](https://github.com/bhupendpatil/Practice/blob/mast
 Weight Initialization | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Weight%20Initialization/weight_initialization.ipynb)
 A Simple Autoencoder | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Autoencoders/Simple_Autoencoder.ipynb)
 Convolutional Autoencoders | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Autoencoders/Convolutional_Autoencoder.ipynb)
-Matplotlib Boot | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/Matplotlib/introduction-to-matplotlib.ipynb)
+Matplotlib Boot | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/Matplotlib/introduction-to-matplotlib.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/Matplotlib/matplotlib-exercises.ipynb)
 
 ## Node.js
 Program | Link
