@@ -589,6 +589,7 @@ Convolutional Autoencoders | [.ipynb](https://github.com/bhupendpatil/Practice/b
 Matplotlib Boot | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/Matplotlib/introduction-to-matplotlib.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/Matplotlib/matplotlib-exercises.ipynb)
 Transfer Learning in TensorFlow | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Transfer%20Learning%20in%20TensorFlow/Transfer_Learning.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Convolutional%20Networks/Transfer%20Learning%20in%20TensorFlow)
 Dog Breed Classifier (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Dog%20Breed%20Classifier/dog_app.ipynb) [project](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Dog%20Breed%20Classifier)
+Dermatologist AI (Mini Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Convolutional%20Networks/Dermatologist%20AI)
 
 ## Node.js
 Program | Link
