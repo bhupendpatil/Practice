@@ -591,6 +591,7 @@ Transfer Learning in TensorFlow | [.ipynb](https://github.com/bhupendpatil/Pract
 Dog Breed Classifier (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Dog%20Breed%20Classifier/dog_app.ipynb) [project](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Dog%20Breed%20Classifier)
 Dermatologist AI (Mini Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Convolutional%20Networks/Dermatologist%20AI)
 Implementation of RNN and LSTM | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Implementation%20of%20RNN%20and%20LSTM/Anna_KaRNNa.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Implementation%20of%20RNN%20and%20LSTM)
+Embeddings and Word2vec | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Embeddings%20and%20Word2vec)
 
 ## Node.js
 Program | Link
