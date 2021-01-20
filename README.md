@@ -592,6 +592,7 @@ Dog Breed Classifier (Project) | [.ipynb](https://github.com/bhupendpatil/Practi
 Dermatologist AI (Mini Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Convolutional%20Networks/Dermatologist%20AI)
 Implementation of RNN and LSTM | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Implementation%20of%20RNN%20and%20LSTM/Anna_KaRNNa.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Implementation%20of%20RNN%20and%20LSTM)
 Embeddings and Word2vec | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Embeddings%20and%20Word2vec/Skip-Gram_word2vec.ipynb)[project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Embeddings%20and%20Word2vec)
+Sentiment Prediction RNN | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Sentiment%20Prediction%20RNN)
 
 ## Node.js
 Program | Link
