@@ -587,12 +587,12 @@ Weight Initialization | [.ipynb](https://github.com/bhupendpatil/Practice/blob/m
 A Simple Autoencoder | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Autoencoders/Simple_Autoencoder.ipynb)
 Convolutional Autoencoders | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Autoencoders/Convolutional_Autoencoder.ipynb)
 Matplotlib Boot | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/Matplotlib/introduction-to-matplotlib.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Data%20Analysis/Matplotlib/matplotlib-exercises.ipynb)
-Transfer Learning in TensorFlow | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Transfer%20Learning%20in%20TensorFlow/Transfer_Learning.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Convolutional%20Networks/Transfer%20Learning%20in%20TensorFlow)
-Dog Breed Classifier (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Dog%20Breed%20Classifier/dog_app.ipynb) [project](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Dog%20Breed%20Classifier)
+Transfer Learning in TensorFlow | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Transfer%20Learning%20in%20TensorFlow/Transfer_Learning.ipynb)
+Dog Breed Classifier (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Convolutional%20Networks/Dog%20Breed%20Classifier/dog_app.ipynb)
 Dermatologist AI (Mini Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Convolutional%20Networks/Dermatologist%20AI)
-Implementation of RNN and LSTM | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Implementation%20of%20RNN%20and%20LSTM/Anna_KaRNNa.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Implementation%20of%20RNN%20and%20LSTM)
-Embeddings and Word2vec | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Embeddings%20and%20Word2vec/Skip-Gram_word2vec.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Embeddings%20and%20Word2vec)
-Sentiment Prediction RNN | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Sentiment%20Prediction%20RNN/Sentiment_RNN.ipynb) [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Sentiment%20Prediction%20RNN)
+Implementation of RNN and LSTM | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Implementation%20of%20RNN%20and%20LSTM/Anna_KaRNNa.ipynb)
+Embeddings and Word2vec | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Embeddings%20and%20Word2vec/Skip-Gram_word2vec.ipynb)
+Sentiment Prediction RNN | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Sentiment%20Prediction%20RNN/Sentiment_RNN.ipynb)
 
 ## Node.js
 Program | Link
