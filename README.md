@@ -594,6 +594,7 @@ Implementation of RNN and LSTM | [.ipynb](https://github.com/bhupendpatil/Practi
 Embeddings and Word2vec | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Embeddings%20and%20Word2vec/Skip-Gram_word2vec.ipynb)
 Sentiment Prediction RNN | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Sentiment%20Prediction%20RNN/Sentiment_RNN.ipynb)
 Generate TV Scripts (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Generate%20TV%20Scripts/dlnd_tv_script_generation.ipynb)
+Intro to GANs | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Generative%20Adversarial%20Networks/Intro%20to%20GANs)
 
 ## Node.js
 Program | Link
