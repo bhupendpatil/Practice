@@ -593,7 +593,7 @@ Dermatologist AI (Mini Project) | [project](https://github.com/bhupendpatil/Prac
 Implementation of RNN and LSTM | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Implementation%20of%20RNN%20and%20LSTM/Anna_KaRNNa.ipynb)
 Embeddings and Word2vec | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Embeddings%20and%20Word2vec/Skip-Gram_word2vec.ipynb)
 Sentiment Prediction RNN | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Sentiment%20Prediction%20RNN/Sentiment_RNN.ipynb)
-Generate TV Scripts (Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Recurrent%20Networks/Generate%20TV%20Scripts)
+Generate TV Scripts (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Generate%20TV%20Scripts/dlnd_tv_script_generation.ipynb)
 
 ## Node.js
 Program | Link
