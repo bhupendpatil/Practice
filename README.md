@@ -457,6 +457,7 @@ Name | Link
 -- | -- 
 house | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/house.arff)
 weather | [.arff](https://github.com/bhupendpatil/Practice/blob/master/DataSet/weather.arff)
+mnist | [.zip](https://github.com/bhupendpatil/Practice/raw/master/DataSet/mnist.zip)
 
 ## Weka
 Name | Link
