@@ -596,6 +596,7 @@ Embeddings and Word2vec | [.ipynb](https://github.com/bhupendpatil/Practice/blob
 Sentiment Prediction RNN | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Sentiment%20Prediction%20RNN/Sentiment_RNN.ipynb)
 Generate TV Scripts (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Recurrent%20Networks/Generate%20TV%20Scripts/dlnd_tv_script_generation.ipynb)
 Intro to GANs | [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Intro%20to%20GANs/Intro_to_GANs_Exercises.ipynb)
+Batch Normalization | [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Deep%20Convolutional%20GANs/Batch_Normalization_Exercises.ipynb)
 
 ## Node.js
 Program | Link
