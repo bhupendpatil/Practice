@@ -598,6 +598,7 @@ Generate TV Scripts (Project) | [.ipynb](https://github.com/bhupendpatil/Practic
 Intro to GANs | [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Intro%20to%20GANs/Intro_to_GANs_Exercises.ipynb)
 Batch Normalization | [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Deep%20Convolutional%20GANs/Batch_Normalization_Exercises.ipynb)
 Deep Convolutional GANs | [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Deep%20Convolutional%20GANs/DCGAN%20Implementation/DCGAN_Exercises.ipynb)
+Generate Faces (Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Deep%20Learning/Generative%20Adversarial%20Networks/Generate%20Faces)
 
 ## Node.js
 Program | Link
