@@ -599,6 +599,7 @@ Intro to GANs | [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/
 Batch Normalization | [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Deep%20Convolutional%20GANs/Batch_Normalization_Exercises.ipynb)
 Deep Convolutional GANs | [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Deep%20Convolutional%20GANs/DCGAN%20Implementation/DCGAN_Exercises.ipynb)
 Generate Faces (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Generate%20Faces/dlnd_face_generation.ipynb)
+Semi-Supervised Learning GANs | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Semi-Supervised%20Learning/semi-supervised_learning_2.ipynb)
 
 ## Node.js
 Program | Link
