@@ -601,6 +601,7 @@ Deep Convolutional GANs | [ex.ipynb](https://github.com/bhupendpatil/Practice/bl
 Generate Faces (Project) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Generate%20Faces/dlnd_face_generation.ipynb)
 Semi-Supervised Learning GANs | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Generative%20Adversarial%20Networks/Semi-Supervised%20Learning/semi-supervised_learning_2.ipynb)
 Dynamic Programming | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Deep%20Reinforcement%20Learning/Dynamic%20Programming/Dynamic_Programming.ipynb)
+Solving Sudoku with AI (Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Artificial%20Intelligence/Solving%20Sudoku%20with%20AI)
 
 ## Node.js
 Program | Link
