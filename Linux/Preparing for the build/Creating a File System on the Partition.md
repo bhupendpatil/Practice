@@ -1,4 +1,4 @@
-## Creating a File System on the Partition\
+## Creating a File System on the Partition
 
 * Execute following command to start-off with root level access
 ```console
