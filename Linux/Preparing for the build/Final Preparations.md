@@ -54,14 +54,16 @@ su - lfs
 ### Setting Up the Environment
 
 * Create two new startup files for the bash shell
-    ** .bash_profile
+  
+    * .bash_profile
     ```console
     cat > ~/.bash_profile << "EOF"
     exec env -i HOME=$HOME TERM=$TERM PS1='\u:\w\$ ' /bin/bash
     EOF
 
     ```
-    ** .bashrc
+
+    * .bashrc
     ```console
     cat > ~/.bashrc << "EOF"
     set +h
@@ -74,5 +76,5 @@ su - lfs
     PATH=$LFS/tools/bin:$PATH
     export LFS LC_ALL LFS_TGT PATH
     EOF
-    
+
     ```
