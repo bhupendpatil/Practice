@@ -78,3 +78,24 @@ su - lfs
     EOF
 
     ```
+
+* Source the just-created user profile
+```console
+source ~/.bash_profile
+```
+
+* Edit .bashrc to add export MAKEFLAGS='-j4'
+```console
+vi .bashrc
+```
+then add the line `export MAKEFLAGS='-j4'` at the end and save you can use any text editor
+
+* Source the just-created user profile
+```console
+source ~/.bash_profile
+```
+
+* Test MAKEFLAGS
+```console
+echo $MAKEFLAGS
+```
