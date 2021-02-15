@@ -1,0 +1,9 @@
+<!-- prettier-ignore-start -->
+# Preparing for the build
+
+Content | Link
+-- | --
+Host System Requirements | [.md](https://github.com/bhupendpatil/Practice/blob/master/Linux/Preparing%20for%20the%20build/Host%20System%20Requirements.md)
+Creating a File System on the Partition | [.md](https://github.com/bhupendpatil/Practice/blob/master/Linux/Preparing%20for%20the%20build/Creating%20a%20File%20System%20on%20the%20Partition.md)
+
+<!-- prettier-ignore-end -->
