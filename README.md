@@ -621,4 +621,9 @@ Asynchronous | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.j
 Weather App | [project](https://github.com/bhupendpatil/Practice/tree/master/Node.js/weather-app)
 HTTP Request | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.js/httpReqs.js)
 
+## Linux
+Content | Link
+-- | --
+Preparing for the build | [project](https://github.com/bhupendpatil/Practice/tree/master/Linux/Preparing%20for%20the%20build)
+
 <!-- prettier-ignore-end -->
