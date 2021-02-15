@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Linux
 
-Referring [Linux From Scratch](http://www.linuxfromscratch.org/)
+Reference [Linux From Scratch](http://www.linuxfromscratch.org/)
 
 ## Preparing for the build
 \# | Content | Link
