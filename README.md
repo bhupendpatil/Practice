@@ -625,5 +625,6 @@ HTTP Request | [.js](https://github.com/bhupendpatil/Practice/blob/master/Node.j
 Content | Link
 -- | --
 Preparing for the build | [project](https://github.com/bhupendpatil/Practice/tree/master/Linux/Preparing%20for%20the%20build)
+Building the LFS Cross Toolchain and Temporary Tools | [project](https://github.com/bhupendpatil/Practice/tree/master/Linux/Building%20the%20LFS%20Cross%20Toolchain%20and%20Temporary%20Tools)
 
 <!-- prettier-ignore-end -->
