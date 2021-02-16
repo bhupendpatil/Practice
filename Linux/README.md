@@ -13,4 +13,8 @@ Reference [Linux From Scratch](http://www.linuxfromscratch.org/)
 5 | Packages and Patches | [.md](https://github.com/bhupendpatil/Practice/blob/master/Linux/Preparing%20for%20the%20build/Packages%20and%20Patches.md)
 6 | Final Preparations | [.md](https://github.com/bhupendpatil/Practice/blob/master/Linux/Preparing%20for%20the%20build/Final%20Preparations.md)
 
+## Building the LFS Cross Toolchain and Temporary Tools
+\# | Content | Link
+-- | -- | --
+
 <!-- prettier-ignore-end -->
