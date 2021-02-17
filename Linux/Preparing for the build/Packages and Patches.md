@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/bhupendpatil/Practice/master/Linux/Prepar
 
 * Download all packages and patches
 ```console
-wget --input-file=wget-list --no-check-certificate --directory-prefix=$LFS/sources
+wget --input-file=$LFS/sources/wget-list --no-check-certificate --directory-prefix=$LFS/sources
 ```
 
 * Remove downloaded `wget-list`
