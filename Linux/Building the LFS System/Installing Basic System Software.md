@@ -17,7 +17,7 @@ rm -Rf man-pages-5.08
 * Install Tcl
 ```console
 tar -xvf tcl8.6.10-src.tar.gz
-cd tcl8.6.10-src
+cd tcl8.6.10
 tar -xf ../tcl8.6.10-html.tar.gz --strip-components=1
 SRCDIR=$(pwd)
 cd unix
@@ -33,7 +33,7 @@ chmod -v u+w /usr/lib/libtcl8.6.so
 make install-private-headers
 ln -sfv tclsh8.6 /usr/bin/tclsh
 cd ..
-rm -Rf tcl8.6.10-src
+rm -Rf tcl8.6.10
 ```
 
 * Install Expect
@@ -298,7 +298,12 @@ rm -Rf flex-2.6.4
 tar -xvf binutils-2.35.tar.xz
 cd binutils-2.35
 expect -c "spawn ls"
-
+sed -i '/@\tincremental_copy/d' gold/testsuite/Makefile.in
+mkdir -v build
+cd build
+../configure --prefix=/usr --enable-gold --enable-ld=default --enable-plugins --enable-shared --disable-werror --enable-64-bit-bfd --with-system-zlib
+make tooldir=/usr
+make tooldir=/usr install
 cd ..
 rm -Rf binutils-2.35
 ```
