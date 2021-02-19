@@ -7,13 +7,14 @@ echo $LFS
 
 * Changing `$LFS/sources` to read only
   * change to root
-    ```console
-    exit
-    ```
-    or
-    ```console
-    su -
-    ```
+    * if in lfs
+      ```console
+      exit
+      ```
+    * or if in your default userview
+      ```console
+      su -
+      ```
   * then add the following commands
     ```console
     export LFS=/mnt/lfs
