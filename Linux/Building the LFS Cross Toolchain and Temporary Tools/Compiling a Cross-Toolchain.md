@@ -8,6 +8,10 @@ echo $LFS
 * Changing `$LFS/sources` to read only
   * change to root
     ```console
+    exit
+    ```
+    or
+    ```console
     su -
     ```
   * then add the following commands
