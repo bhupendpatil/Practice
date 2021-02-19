@@ -4,10 +4,13 @@
 ```console
 mkfs.ext4 /dev/sdb2
 ```
-
-* Create the mount point and mount the LFS file system by running I'll use `/dev/sdb2`
+* Create mount point
 ```console
 mkdir -pv $LFS
+```
+
+* Mount the LFS file system by running I'll use `/dev/sdb2`
+```console
 mount -v -t ext4 /dev/sdb2 $LFS
 ```
 
