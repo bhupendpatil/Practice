@@ -308,6 +308,14 @@ cd ..
 rm -Rf binutils-2.35
 ```
 
+* Install GMP
+```console
+tar -xvf 
+cd 
+cd ..
+rm -Rf 
+```
+
 
 ```console
 tar -xvf 
