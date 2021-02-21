@@ -801,7 +801,13 @@ rm -Rf libffi-3.3
 ```console
 tar -xvf openssl-1.1.1g.tar.gz
 cd openssl-1.1.1g
-
+./config --prefix=/usr --openssldir=/etc/ssl --libdir=lib shared zlib-dynamic
+make
+make test
+sed -i '/INSTALL_LIBS/s/libcrypto.a libssl.a//' Makefile
+make MANSUFFIX=ssl install
+mv -v /usr/share/doc/openssl /usr/share/doc/openssl-1.1.1g
+cp -vfr doc/* /usr/share/doc/openssl-1.1.1g
 cd ..
 rm -Rf openssl-1.1.1g
 ```
@@ -810,7 +816,14 @@ rm -Rf openssl-1.1.1g
 ```console
 tar -xvf Python-3.8.5.tar.xz
 cd Python-3.8.5
-
+./configure --prefix=/usr --enable-shared --with-system-expat --with-system-ffi --with-ensurepip=yes
+make
+make install
+chmod -v 755 /usr/lib/libpython3.8.so
+chmod -v 755 /usr/lib/libpython3.so
+ln -sfv pip3.8 /usr/bin/pip3
+install -v -dm755 /usr/share/doc/python-3.8.5/html
+tar --strip-components=1 --no-same-owner --no-same-permissions -C /usr/share/doc/python-3.8.5/html -xvf ../python-3.8.5-docs-html.tar.bz2
 cd ..
 rm -Rf Python-3.8.5
 ```
@@ -819,7 +832,19 @@ rm -Rf Python-3.8.5
 ```console
 tar -xvf ninja-1.10.0.tar.gz
 cd ninja-1.10.0
-
+export NINJAJOBS=4
+sed -i '/int Guess/a \
+int j = 0;\
+char* jobs = getenv( "NINJAJOBS" );\
+if ( jobs != NULL ) j = atoi( jobs );\
+if ( j > 0 ) return j;\
+' src/ninja.cc
+python3 configure.py --bootstrap
+./ninja ninja_test
+./ninja_test --gtest_filter=-SubprocessTest.SetWithLots
+install -vm755 ninja /usr/bin/
+install -vDm644 misc/bash-completion /usr/share/bash-completion/completions/ninja
+install -vDm644 misc/zsh-completion /usr/share/zsh/site-functions/_ninja
 cd ..
 rm -Rf ninja-1.10.0
 ```
@@ -828,7 +853,9 @@ rm -Rf ninja-1.10.0
 ```console
 tar -xvf meson-0.55.0.tar.gz
 cd meson-0.55.0
-
+python3 setup.py build
+python3 setup.py install --root=dest
+cp -rv dest/* /
 cd ..
 rm -Rf meson-0.55.0
 ```
@@ -837,7 +864,24 @@ rm -Rf meson-0.55.0
 ```console
 tar -xvf coreutils-8.32.tar.xz
 cd coreutils-8.32
-
+patch -Np1 -i ../coreutils-8.32-i18n-1.patch
+sed -i '/test.lock/s/^/#/' gnulib-tests/gnulib.mk
+autoreconf -fiv
+FORCE_UNSAFE_CONFIGURE=1 ./configure --prefix=/usr --enable-no-install-program=kill,uptime
+make
+make NON_ROOT_USERNAME=tester check-root
+echo "dummy:x:102:tester" >> /etc/group
+chown -Rv tester .
+su tester -c "PATH=$PATH make RUN_EXPENSIVE_TESTS=yes check"
+sed -i '/dummy/d' /etc/group
+make install
+mv -v /usr/bin/{cat,chgrp,chmod,chown,cp,date,dd,df,echo} /bin
+mv -v /usr/bin/{false,ln,ls,mkdir,mknod,mv,pwd,rm} /bin
+mv -v /usr/bin/{rmdir,stty,sync,true,uname} /bin
+mv -v /usr/bin/chroot /usr/sbin
+mv -v /usr/share/man/man1/chroot.1 /usr/share/man/man8/chroot.8
+sed -i 's/"1"/"8"/' /usr/share/man/man8/chroot.8
+mv -v /usr/bin/{head,nice,sleep,touch} /bin
 cd ..
 rm -Rf coreutils-8.32
 ```
@@ -846,7 +890,10 @@ rm -Rf coreutils-8.32
 ```console
 tar -xvf check-0.15.2.tar.gz
 cd check-0.15.2
-
+./configure --prefix=/usr --disable-static
+make
+make check
+make docdir=/usr/share/doc/check-0.15.2 install
 cd ..
 rm -Rf check-0.15.2
 ```
@@ -855,7 +902,10 @@ rm -Rf check-0.15.2
 ```console
 tar -xvf diffutils-3.7.tar.xz
 cd diffutils-3.7
-
+./configure --prefix=/usr
+make
+make check
+make install
 cd ..
 rm -Rf diffutils-3.7
 ```
@@ -864,7 +914,13 @@ rm -Rf diffutils-3.7
 ```console
 tar -xvf gawk-5.1.0.tar.xz
 cd gawk-5.1.0
-
+sed -i 's/extras//' Makefile.in
+./configure --prefix=/usr
+make
+make check
+make install
+mkdir -v /usr/share/doc/gawk-5.1.0
+cp -v doc/{awkforai.txt,*.{eps,pdf,jpg}} /usr/share/doc/gawk-5.1.0
 cd ..
 rm -Rf gawk-5.1.0
 ```
@@ -873,7 +929,13 @@ rm -Rf gawk-5.1.0
 ```console
 tar -xvf findutils-4.7.0.tar.xz
 cd findutils-4.7.0
-
+./configure --prefix=/usr --localstatedir=/var/lib/locate
+make
+chown -Rv tester .
+su tester -c "PATH=$PATH make check"
+make install
+mv -v /usr/bin/find /bin
+sed -i 's|find:=${BINDIR}|find:=/bin|' /usr/bin/updatedb
 cd ..
 rm -Rf findutils-4.7.0
 ```
@@ -882,7 +944,9 @@ rm -Rf findutils-4.7.0
 ```console
 tar -xvf groff-1.22.4.tar.gz
 cd groff-1.22.4
-
+PAGE=A4 ./configure --prefix=/usr
+make -j1
+make install
 cd ..
 rm -Rf groff-1.22.4
 ```
@@ -891,7 +955,10 @@ rm -Rf groff-1.22.4
 ```console
 tar -xvf grub-2.04.tar.xz
 cd grub-2.04
-
+./configure --prefix=/usr --sbindir=/sbin --sysconfdir=/etc --disable-efiemu --disable-werror
+make
+make install
+mv -v /etc/bash_completion.d/grub /usr/share/bash-completion/completions
 cd ..
 rm -Rf grub-2.04
 ```
@@ -900,7 +967,9 @@ rm -Rf grub-2.04
 ```console
 tar -xvf less-551.tar.gz
 cd less-551
-
+./configure --prefix=/usr --sysconfdir=/etc
+make
+make install
 cd ..
 rm -Rf less-551
 ```
@@ -909,7 +978,11 @@ rm -Rf less-551
 ```console
 tar -xvf gzip-1.10.tar.xz
 cd gzip-1.10
-
+./configure --prefix=/usr
+make
+make check
+make install
+mv -v /usr/bin/gzip /bin
 cd ..
 rm -Rf gzip-1.10
 ```
@@ -918,7 +991,11 @@ rm -Rf gzip-1.10
 ```console
 tar -xvf iproute2-5.8.0.tar.xz
 cd iproute2-5.8.0
-
+sed -i /ARPD/d Makefile
+rm -fv man/man8/arpd.8
+sed -i 's/.m_ipt.o//' tc/Makefile
+make
+make DOCDIR=/usr/share/doc/iproute2-5.8.0 install
 cd ..
 rm -Rf iproute2-5.8.0
 ```
@@ -927,7 +1004,16 @@ rm -Rf iproute2-5.8.0
 ```console
 tar -xvf kbd-2.3.0.tar.xz
 cd kbd-2.3.0
-
+patch -Np1 -i ../kbd-2.3.0-backspace-1.patch
+sed -i '/RESIZECONS_PROGS=/s/yes/no/' configure
+sed -i 's/resizecons.8 //' docs/man/man8/Makefile.in
+./configure --prefix=/usr --disable-vlock
+make
+make check
+make install
+rm -v /usr/lib/libtswrap.{a,la,so*}
+mkdir -v /usr/share/doc/kbd-2.3.0
+cp -R -v docs/doc/* /usr/share/doc/kbd-2.3.0
 cd ..
 rm -Rf kbd-2.3.0
 ```
@@ -936,7 +1022,10 @@ rm -Rf kbd-2.3.0
 ```console
 tar -xvf libpipeline-1.5.3.tar.gz
 cd libpipeline-1.5.3
-
+./configure --prefix=/usr
+make
+make check
+make install
 cd ..
 rm -Rf libpipeline-1.5.3
 ```
@@ -945,7 +1034,10 @@ rm -Rf libpipeline-1.5.3
 ```console
 tar -xvf make-4.3.tar.gz
 cd make-4.3
-
+./configure --prefix=/usr
+make
+make check
+make install
 cd ..
 rm -Rf make-4.3
 ```
@@ -954,7 +1046,10 @@ rm -Rf make-4.3
 ```console
 tar -xvf patch-2.7.6.tar.xz
 cd patch-2.7.6
-
+./configure --prefix=/usr
+make
+make check
+make install
 cd ..
 rm -Rf patch-2.7.6
 ```
@@ -963,7 +1058,10 @@ rm -Rf patch-2.7.6
 ```console
 tar -xvf man-db-2.9.3.tar.xz
 cd man-db-2.9.3
-
+./configure --prefix=/usr --docdir=/usr/share/doc/man-db-2.9.3 --sysconfdir=/etc --disable-setuid --enable-cache-owner=bin --with-browser=/usr/bin/lynx --with-vgrind=/usr/bin/vgrind --with-grap=/usr/bin/grap --with-systemdtmpfilesdir= --with-systemdsystemunitdir=
+make
+make check
+make install
 cd ..
 rm -Rf man-db-2.9.3
 ```
@@ -972,7 +1070,11 @@ rm -Rf man-db-2.9.3
 ```console
 tar -xvf tar-1.32.tar.xz
 cd tar-1.32
-
+FORCE_UNSAFE_CONFIGURE=1 ./configure --prefix=/usr --bindir=/bin
+make
+make check
+make install
+make -C doc install-html docdir=/usr/share/doc/tar-1.32
 cd ..
 rm -Rf tar-1.32
 ```
@@ -981,7 +1083,17 @@ rm -Rf tar-1.32
 ```console
 tar -xvf texinfo-6.7.tar.xz
 cd texinfo-6.7
-
+./configure --prefix=/usr --disable-static
+make
+make check
+make install
+make TEXMF=/usr/share/texmf install-tex
+pushd /usr/share/info
+    rm -v dir
+    for f in *
+        do install-info $f dir 2>/dev/null
+    done
+popd
 cd ..
 rm -Rf texinfo-6.7
 ```
@@ -990,7 +1102,31 @@ rm -Rf texinfo-6.7
 ```console
 tar -xvf vim-8.2.1361.tar.gz
 cd vim-8.2.1361
-
+echo '#define SYS_VIMRC_FILE "/etc/vimrc"' >> src/feature.h
+./configure --prefix=/usr
+make
+chown -Rv tester .
+su tester -c "LANG=en_US.UTF-8 make -j1 test" &> vim-test.log
+make install
+ln -sv vim /usr/bin/vi
+for L in /usr/share/man/{,*/}man1/vim.1; do
+    ln -sv vim.1 $(dirname $L)/vi.1
+done
+ln -sv ../vim/vim82/doc /usr/share/doc/vim-8.2.1361
+cat > /etc/vimrc << "EOF"
+" Begin /etc/vimrc
+" Ensure defaults are set before customizing settings, not after
+source $VIMRUNTIME/defaults.vim
+let skip_defaults_vim=1
+set nocompatible
+set backspace=2
+set mouse=
+syntax on
+if (&term == "xterm") || (&term == "putty")
+    set background=dark
+endif
+" End /etc/vimrc
+EOF
 cd ..
 rm -Rf vim-8.2.1361
 ```
@@ -999,7 +1135,15 @@ rm -Rf vim-8.2.1361
 ```console
 tar -xvf eudev-3.2.9.tar.gz
 cd eudev-3.2.9
-
+./configure --prefix=/usr --bindir=/sbin --sbindir=/sbin --libdir=/usr/lib --sysconfdir=/etc --libexecdir=/lib --with-rootprefix= --with-rootlibdir=/lib --enable-manpages --disable-static
+make
+mkdir -pv /lib/udev/rules.d
+mkdir -pv /etc/udev/rules.d
+make check
+make install
+tar -xvf ../udev-lfs-20171102.tar.xz
+make -f udev-lfs-20171102/Makefile.lfs install
+udevadm hwdb --update
 cd ..
 rm -Rf eudev-3.2.9
 ```
@@ -1008,7 +1152,12 @@ rm -Rf eudev-3.2.9
 ```console
 tar -xvf procps-ng-3.3.16.tar.xz
 cd procps-ng-3.3.16
-
+./configure --prefix=/usr --exec-prefix= --libdir=/usr/lib --docdir=/usr/share/doc/procps-ng-3.3.16 --disable-static --disable-kill
+make
+make check
+make install
+mv -v /usr/lib/libprocps.so.* /lib
+ln -sfv ../../lib/$(readlink /usr/lib/libprocps.so) /usr/lib/libprocps.so
 cd ..
 rm -Rf procps-ng-3.3.16
 ```
@@ -1017,7 +1166,12 @@ rm -Rf procps-ng-3.3.16
 ```console
 tar -xvf util-linux-2.36.tar.xz
 cd util-linux-2.36
-
+mkdir -pv /var/lib/hwclock
+./configure ADJTIME_PATH=/var/lib/hwclock/adjtime --docdir=/usr/share/doc/util-linux-2.36 --disable-chfn-chsh --disable-login --disable-nologin --disable-su --disable-setpriv --disable-runuser --disable-pylibmount --disable-static --without-python --without-systemd --without-systemdsystemunitdir
+make
+chown -Rv tester .
+su tester -c "make -k check"
+make install
 cd ..
 rm -Rf util-linux-2.36
 ```
@@ -1026,8 +1180,19 @@ rm -Rf util-linux-2.36
 ```console
 tar -xvf e2fsprogs-1.45.6.tar.gz
 cd e2fsprogs-1.45.6
-
-cd ..
+mkdir -v build
+cd build
+../configure --prefix=/usr --bindir=/bin --with-root-prefix="" --enable-elf-shlibs --disable-libblkid --disable-libuuid --disable-uuidd --disable-fsck
+cd ../..
+make
+make check
+make install
+chmod -v u+w /usr/lib/{libcom_err,libe2p,libext2fs,libss}.a
+gunzip -v /usr/share/info/libext2fs.info.gz
+install-info --dir-file=/usr/share/info/dir /usr/share/info/libext2fs.info
+makeinfo -o doc/com_err.info ../lib/et/com_err.texinfo
+install -v -m644 doc/com_err.info /usr/share/info
+install-info --dir-file=/usr/share/info/dir /usr/share/info/com_err.info
 rm -Rf e2fsprogs-1.45.6
 ```
 
@@ -1035,7 +1200,21 @@ rm -Rf e2fsprogs-1.45.6
 ```console
 tar -xvf sysklogd-1.5.1.tar.gz
 cd sysklogd-1.5.1
-
+sed -i '/Error loading kernel symbols/{n;n;d}' ksym_mod.c
+sed -i 's/union wait/int/' syslogd.c
+make
+make BINDIR=/sbin install
+cat > /etc/syslog.conf << "EOF"
+# Begin /etc/syslog.conf
+auth,authpriv.* -/var/log/auth.log
+*.*;auth,authpriv.none -/var/log/sys.log
+daemon.* -/var/log/daemon.log
+kern.* -/var/log/kern.log
+mail.* -/var/log/mail.log
+user.* -/var/log/user.log
+*.emerg *
+# End /etc/syslog.conf
+EOF
 cd ..
 rm -Rf sysklogd-1.5.1
 ```
@@ -1044,7 +1223,9 @@ rm -Rf sysklogd-1.5.1
 ```console
 tar -xvf sysvinit-2.97.tar.xz
 cd sysvinit-2.97
-
+patch -Np1 -i ../sysvinit-2.97-consolidated-1.patch
+make
+make install
 cd ..
 rm -Rf sysvinit-2.97
 ```
