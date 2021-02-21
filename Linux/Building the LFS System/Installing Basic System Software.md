@@ -1263,7 +1263,7 @@ find /{bin,sbin} /usr/{bin,sbin,libexec} -type f \
 ```console
 rm -rf /tmp/*
 logout
-chroot "$LFS" /usr/bin/env -i HOME=/root TERM="$TERM" PS1='(lfs chroot) \u:\w\$ ' PATH=/bin:/usr/bin:/sbin:/usr/sbin /bin/bash --login
+chroot "$LFS" /usr/bin/env -i HOME=/root TERM="$TERM" PS1='(lfs chroot) \u:\w\$ ' PATH=/bin:/usr/bin:/sbin:/usr/sbin MAKEFLAGS="-j4" /bin/bash --login
 rm -f /usr/lib/lib{bfd,opcodes}.a
 rm -f /usr/lib/libctf{,-nobfd}.a
 rm -f /usr/lib/libbz2.a
