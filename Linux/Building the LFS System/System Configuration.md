@@ -86,4 +86,5 @@ EOF
 cd /etc/
 cp /etc/inputrc $LFS/etc
 cp /etc/shells $LFS/etc
+
 ```
