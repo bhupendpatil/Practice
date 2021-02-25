@@ -605,6 +605,7 @@ Solving Sudoku with AI (Project) | [project](https://github.com/bhupendpatil/Pra
 Introduction to Game Playing | [project](https://github.com/bhupendpatil/Practice/tree/master/Artificial%20Intelligence/Search%20and%20Optimization/Introduction%20to%20Game%20Playing)
 Gradient descent | [.ipnb](https://github.com/bhupendpatil/Practice/blob/master/ML/Mimimizing_Loss.ipynb)
 First Neural Network | [.ipyb](https://github.com/bhupendpatil/Practice/blob/master/ML/FirstNeuralNetwork.ipynb)
+TinyML Assignment-2-1-13 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_1_13_question.ipynb)
 
 ## Node.js
 Program | Link
