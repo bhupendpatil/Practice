@@ -604,6 +604,7 @@ Dynamic Programming | [.ipynb](https://github.com/bhupendpatil/Practice/blob/mas
 Solving Sudoku with AI (Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Artificial%20Intelligence/Solving%20Sudoku%20with%20AI)
 Introduction to Game Playing | [project](https://github.com/bhupendpatil/Practice/tree/master/Artificial%20Intelligence/Search%20and%20Optimization/Introduction%20to%20Game%20Playing)
 Gradient descent | [.ipnb](https://github.com/bhupendpatil/Practice/blob/master/ML/Mimimizing_Loss.ipynb)
+First Neural Network | [.ipyb](https://github.com/bhupendpatil/Practice/blob/master/ML/FirstNeuralNetwork.ipynb)
 
 ## Node.js
 Program | Link
