@@ -603,6 +603,7 @@ Semi-Supervised Learning GANs | [.ipynb](https://github.com/bhupendpatil/Practic
 Dynamic Programming | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/Deep%20Learning/Deep%20Reinforcement%20Learning/Dynamic%20Programming/Dynamic_Programming.ipynb)
 Solving Sudoku with AI (Project) | [project](https://github.com/bhupendpatil/Practice/tree/master/Artificial%20Intelligence/Solving%20Sudoku%20with%20AI)
 Introduction to Game Playing | [project](https://github.com/bhupendpatil/Practice/tree/master/Artificial%20Intelligence/Search%20and%20Optimization/Introduction%20to%20Game%20Playing)
+Gradient descent | [.ipnb](https://github.com/bhupendpatil/Practice/blob/master/ML/Mimimizing_Loss.ipynb)
 
 ## Node.js
 Program | Link
