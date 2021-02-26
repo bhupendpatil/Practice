@@ -607,6 +607,7 @@ Gradient descent | [.ipnb](https://github.com/bhupendpatil/Practice/blob/master/
 First Neural Network | [.ipyb](https://github.com/bhupendpatil/Practice/blob/master/ML/FirstNeuralNetwork.ipynb)
 TinyML Assignment-2-1-13 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_1_13_question.ipynb)
 Multi-layer neural network | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Multi_layer_neural_network.ipynb)
+Exploring Categorical (DNN) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Exploring_Categorical.ipynb)
 
 ## Node.js
 Program | Link
