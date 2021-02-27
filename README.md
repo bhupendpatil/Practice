@@ -612,6 +612,7 @@ TinyML-Assignment-2-2 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/m
 Exploring Convolutions | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Exploring_Convolutions.ipynb)
 Fashion-MNIST Convolutions | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Fashion_MNIST_Convolutions.ipynb)
 Fashion-MNIST Convolutions Visualizations | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Fashion_MNIST_Convolutions_Visualizations.ipynb)
+TinyML-Assignment-2-3-9 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_3_9_Question.ipynb)
 
 ## Node.js
 Program | Link
