@@ -609,6 +609,7 @@ TinyML Assignment-2-1-13 | [.ipynb](https://github.com/bhupendpatil/Practice/blo
 Multi-layer neural network | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Multi_layer_neural_network.ipynb)
 Exploring Categorical (DNN) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Exploring_Categorical.ipynb)
 TinyML-Assignment-2-2 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_2_12_Exercise.ipynb)
+Exploring Convolutions | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Exploring_Convolutions.ipynb)
 
 ## Node.js
 Program | Link
