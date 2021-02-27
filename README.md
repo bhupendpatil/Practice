@@ -610,6 +610,7 @@ Multi-layer neural network | [.ipynb](https://github.com/bhupendpatil/Practice/b
 Exploring Categorical (DNN) | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Exploring_Categorical.ipynb)
 TinyML-Assignment-2-2 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_2_12_Exercise.ipynb)
 Exploring Convolutions | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Exploring_Convolutions.ipynb)
+Fashion-MNIST Convolutions | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Fashion_MNIST_Convolutions.ipynb)
 
 ## Node.js
 Program | Link
