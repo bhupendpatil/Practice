@@ -611,6 +611,7 @@ Exploring Categorical (DNN) | [.ipynb](https://github.com/bhupendpatil/Practice/
 TinyML-Assignment-2-2 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_2_12_Exercise.ipynb)
 Exploring Convolutions | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Exploring_Convolutions.ipynb)
 Fashion-MNIST Convolutions | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Fashion_MNIST_Convolutions.ipynb)
+Fashion-MNIST Convolutions Visualizations | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Fashion_MNIST_Convolutions_Visualizations.ipynb)
 
 ## Node.js
 Program | Link
