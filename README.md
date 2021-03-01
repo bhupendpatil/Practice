@@ -615,6 +615,7 @@ Fashion-MNIST Convolutions Visualizations | [.ipynb](https://github.com/bhupendp
 TinyML-Assignment-2-3-9 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_3_9_Question.ipynb)
 Complex Images | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Horse_or_Human_Small.ipynb)
 Image Augmentation | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Horse_or_Human_WithAugmentation.ipynb)
+TinyML-Assignment-2-4-11 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_4_11_Question.ipynb)
 
 ## Node.js
 Program | Link
