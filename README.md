@@ -533,6 +533,7 @@ Songs (Redux) | [project](https://github.com/bhupendpatil/Practice/tree/master/R
 Blog (Redux) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/blog)
 Streams | [project](https://github.com/bhupendpatil/Practice/tree/master/React/streams)
 Client (Streams) | [project](https://github.com/bhupendpatil/Practice/tree/master/React/streams/client)
+Arc Development | [project](https://github.com/bhupendpatil/Practice/blob/master/React/arcdevelopment)
 
 ## Machine Learning | Deep Learning | Artificial Intelligence
 Program | Link
