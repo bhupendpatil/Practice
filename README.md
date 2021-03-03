@@ -617,6 +617,7 @@ Complex Images | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/M
 Image Augmentation | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/Horse_or_Human_WithAugmentation.ipynb)
 TinyML-Assignment-2-4-11 | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/ML/TinyML_Assignment_2_4_11_Question.ipynb)
 Tensorflow 2.0 Basic | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/TensorFlow_2_0_Introduction.ipynb)
+Artificial Neural Networks | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/Building_an_Artificial_Neural_Network.ipynb)
 
 ## Node.js
 Program | Link
