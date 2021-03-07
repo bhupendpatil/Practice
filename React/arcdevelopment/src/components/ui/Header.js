@@ -22,7 +22,7 @@ export default function Header(props) {
     <ElevationScroll>
       <AppBar position="fixed">
         <Toolbar>
-          <Typography variant="h3">Arc Development</Typography>
+          <Typography variant="h3">ArcDevelopment</Typography>
         </Toolbar>
       </AppBar>
     </ElevationScroll>
