@@ -7,7 +7,7 @@ export default function App() {
       <Button
         color="orange"
         title="Click me"
-        onPress={() => console.log("Button Pressed")}
+        onPress={() => alert("Button Pressed")}
       />
     </SafeAreaView>
   );
