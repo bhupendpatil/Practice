@@ -1,17 +1,19 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
-import { SafeAreaView, StyleSheet, Text, View } from "react-native";
+import { SafeAreaView, StyleSheet, Text, Image } from "react-native";
 
 export default function App() {
-  const handelPress = () => console.log("Handel Pressed");
-
   return (
     <SafeAreaView style={styles.container}>
-      <Text numberOfLines={1} onPress={handelPress}>
-        Hello duehuehudhe hdu ueh due huheu eu ue ueueu ue ue ueueu eu ue ue hue
-        ueueu uehudpeojeofp
-      </Text>
-      <StatusBar style="auto" />
+      <Text>Hello Bhupend!</Text>
+      <Image
+        blurRadius={1}
+        source={{
+          width: 200,
+          height: 300,
+          uri: "https://picsum.photos/200/300",
+        }}
+      />
     </SafeAreaView>
   );
 }
@@ -20,5 +22,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#fff",
+    justifyContent: "center",
+    alignItems: "center",
   },
 });
