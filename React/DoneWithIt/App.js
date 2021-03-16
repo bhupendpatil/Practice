@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, SafeAreaView, StyleSheet } from "react-native";
+import { Button, SafeAreaView, Alert, StyleSheet } from "react-native";
 
 export default function App() {
   return (
@@ -7,7 +7,12 @@ export default function App() {
       <Button
         color="orange"
         title="Click me"
-        onPress={() => alert("Button Pressed")}
+        onPress={() =>
+          Alert.alert("My title", "My message", [
+            { text: "Yes", onPress: () => console.log("Yes") },
+            { text: "No", onPress: () => console.log("No") },
+          ])
+        }
       />
     </SafeAreaView>
   );
