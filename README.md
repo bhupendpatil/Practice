@@ -646,4 +646,9 @@ Preparing for the build | [project](https://github.com/bhupendpatil/Practice/tre
 Building the LFS Cross Toolchain and Temporary Tools | [project](https://github.com/bhupendpatil/Practice/tree/master/Linux/Building%20the%20LFS%20Cross%20Toolchain%20and%20Temporary%20Tools)
 Building the LFS System | [project](https://github.com/bhupendpatil/Practice/tree/master/Linux/Building%20the%20LFS%20System)
 
+## Rust
+Program | Link
+-- | --
+Hello World | [.rs](https://github.com/bhupendpatil/Practice/blob/master/Rust/hello_world/main.rs)
+
 <!-- prettier-ignore-end -->
