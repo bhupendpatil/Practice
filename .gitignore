@@ -10,4 +10,5 @@ yarn-error.log*
 /coverage
 /node_modules
 /.pnp
+/target
 .pnp.js
