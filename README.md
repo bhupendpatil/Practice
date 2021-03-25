@@ -650,5 +650,6 @@ Building the LFS System | [project](https://github.com/bhupendpatil/Practice/tre
 Program | Link
 -- | --
 Hello World | [.rs](https://github.com/bhupendpatil/Practice/blob/master/Rust/hello_world/main.rs)
+Hello Cargo | [project](https://github.com/bhupendpatil/Practice/tree/master/Rust/hello_cargo)
 
 <!-- prettier-ignore-end -->
