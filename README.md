@@ -653,5 +653,6 @@ Program | Link
 Hello World | [.rs](https://github.com/bhupendpatil/Practice/blob/master/Rust/hello_world/main.rs)
 Hello Cargo | [project](https://github.com/bhupendpatil/Practice/tree/master/Rust/hello_cargo)
 A guessing game | [project](https://github.com/bhupendpatil/Practice/tree/master/Rust/guessing_game)
+Variables | [.rs](https://github.com/bhupendpatil/Practice/blob/master/Rust/variables/src/main.rs)
 
 <!-- prettier-ignore-end -->
