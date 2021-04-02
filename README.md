@@ -621,7 +621,7 @@ TinyML-Assignment-2-4-11 | [.ipynb](https://github.com/bhupendpatil/Practice/blo
 Tensorflow 2.0 Basic | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/TensorFlow_2_0_Introduction.ipynb)
 Artificial Neural Networks | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/Building_an_Artificial_Neural_Network.ipynb)
 Convolutional Neural Network | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/Building_a_Convolutional_Neural_Network.ipynb)
-TensorFlow fundamentals | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/00_tensorflow_fundamentals.ipynb)
+TensorFlow fundamentals | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/00_tensorflow_fundamentals.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/00_tensorflow_fundamentals_exercise.ipynb)
 
 ## Node.js
 Program | Link
