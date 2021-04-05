@@ -660,5 +660,6 @@ Variables | [.rs](https://github.com/bhupendpatil/Practice/blob/master/Rust/vari
 Program | Link
 -- | --
 Starting Project | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/starting-project)
+Basic | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/basics)
 
 <!-- prettier-ignore-end -->
