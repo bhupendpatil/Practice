@@ -623,6 +623,7 @@ Artificial Neural Networks | [.ipynb](https://github.com/bhupendpatil/Practice/b
 Convolutional Neural Network | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/Building_a_Convolutional_Neural_Network.ipynb)
 TensorFlow fundamentals | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/00_tensorflow_fundamentals.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/00_tensorflow_fundamentals_exercise.ipynb)
 Neural Network Regression | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/01_neural_network_regression_with_tensorflow.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/01_neural_network_regression_with_tensorflow_exercise.ipynb)
+Neural Network Classification | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/02_neural_network_classification_with_tensorflow.ipynb)
 
 ## Node.js
 Program | Link
