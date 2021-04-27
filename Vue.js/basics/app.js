@@ -3,14 +3,32 @@ const app = Vue.createApp({
     return {
       counter: 0,
       name: "",
+      lastName: "",
+      //fullName: "",
     };
   },
   computed: {
-    fullName() {
-      if (this.name === "") {
-        return "";
+    // fullName() {
+    //   if (this.name === "") {
+    //     return "";
+    //   } else {
+    //     return this.name + " " + "Patil";
+    //   }
+    // },
+  },
+  watch: {
+    name(value) {
+      if (value === "") {
+        this.fullName = "";
       } else {
-        return this.name + " " + "Patil";
+        this.fullName = value + " " + "Patil";
+      }
+    },
+    lastName(value) {
+      if (value === "") {
+        this.fullName = "";
+      } else {
+        this.fullName = "Bhupend" + " " + value;
       }
     },
   },
