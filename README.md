@@ -662,5 +662,6 @@ Program | Link
 -- | --
 Starting Project | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/starting-project)
 Basic | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/basics)
+Rendering Conditional Content & Lists | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/rendering-conditional-content-and-lists)
 
 <!-- prettier-ignore-end -->
