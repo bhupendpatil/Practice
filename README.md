@@ -663,5 +663,6 @@ Program | Link
 Starting Project | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/starting-project)
 Basic | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/basics)
 Rendering Conditional Content & Lists | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/rendering-conditional-content-and-lists)
+The Monster Slayer Game | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/monster-slayer-game)
 
 <!-- prettier-ignore-end -->
