@@ -624,7 +624,7 @@ Convolutional Neural Network | [.ipynb](https://github.com/bhupendpatil/Practice
 TensorFlow fundamentals | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/00_tensorflow_fundamentals.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/00_tensorflow_fundamentals_exercise.ipynb)
 Neural Network Regression | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/01_neural_network_regression_with_tensorflow.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/01_neural_network_regression_with_tensorflow_exercise.ipynb)
 Neural Network Classification | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/02_neural_network_classification_with_tensorflow.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/02_neural_network_classification_with_tensorflow_exercise.ipynb)
-Computer Vision and Convolutional Neural Networks | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/03-convolutional-neural-networks-in-tensorflow.ipynb)
+Computer Vision and Convolutional Neural Networks | [.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/03-convolutional-neural-networks-in-tensorflow.ipynb) [ex.ipynb](https://github.com/bhupendpatil/Practice/blob/master/TensorFlow/03-convolutional-neural-networks-exercise.ipynb)
 
 ## Node.js
 Program | Link
