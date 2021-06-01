@@ -661,9 +661,6 @@ Variables | [.rs](https://github.com/bhupendpatil/Practice/blob/master/Rust/vari
 ## Vue.js
 Program | Link
 -- | --
-Starting Project | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/starting-project)
-Basic | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/basics)
-Rendering Conditional Content & Lists | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/rendering-conditional-content-and-lists)
-The Monster Slayer Game | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/monster-slayer-game)
+Fundamentals | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals)
 
 <!-- prettier-ignore-end -->
