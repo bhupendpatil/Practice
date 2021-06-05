@@ -16,14 +16,16 @@
       <input type="text" v-model="firstName"/>
 
       <label>Last Name</label>
-      <input type="text" :value="lastName" @input="updateLastName"/>
+      <input type="text" :value="lastName" @input="updateLastName('Last name event triggered!',$event)"/>
 
       <button type="button" @click="increment">Increment</button>
       <button type="button" @click="age--">Decrement</button>
     </div>
+
     <!-- <div id="app1">
       <p>{{firstName}} {{lastName}}</p>
     </div> -->
+
     <script src="https://unpkg.com/vue@next"></script>
     <script src="app.js"></script>
   </body>
