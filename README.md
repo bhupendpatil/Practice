@@ -661,6 +661,7 @@ Variables | [.rs](https://github.com/bhupendpatil/Practice/blob/master/Rust/vari
 ## Vue.js
 Program | Link
 -- | --
-Fundamentals | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals)
+Fundamentals - I | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals1)
+Fundamentals - II | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals2)
 
 <!-- prettier-ignore-end -->
