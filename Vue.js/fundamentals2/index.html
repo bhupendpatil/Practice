@@ -18,7 +18,14 @@
       <option value="text-orange">Orange</option>
     </select>
 
-    <div class="circle" :class="[selectedColor, circle_classes]">
+    <input type="number" v-model="size"/>
+
+    <div class="circle" :class="[selectedColor, circle_classes]"
+        :style="[{width:size+'px',
+                height:size+'px', 
+                lineHeight:size+'px'},
+                {transform: 'rotate(30deg)'}]"
+    >
       Hi!
     </div>
   </div>
