@@ -1,0 +1,16 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.100:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.100:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.100:5000/ (Press CTRL+C to quit)
+INFO:app:Main requested!
+INFO:werkzeug:192.168.0.100 - - [11/Jun/2021 02:19:59] "GET / HTTP/1.1" 200 -
+INFO:app:Status requested!
+INFO:werkzeug:192.168.0.100 - - [11/Jun/2021 02:20:05] "GET /status HTTP/1.1" 200 -
+INFO:app:Metrics requested!
+INFO:werkzeug:192.168.0.100 - - [11/Jun/2021 02:20:12] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.100 - - [11/Jun/2021 02:20:16] "[33mGET /bhupend HTTP/1.1[0m" 404 -
