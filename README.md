@@ -667,6 +667,6 @@ Fundamentals - II | [project](https://github.com/bhupendpatil/Practice/tree/mast
 ## Cloud
 Program | Link
 -- | --
-
+Endpoints for Application Status | [app.py](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Endpoints%20for%20Application%20Status/app.py)
 
 <!-- prettier-ignore-end -->
