@@ -9,10 +9,16 @@
 <body>
   <div id="app">
     <label>
-      <input type="checkbox" /> Purple
+      <input type="checkbox" v-model="isPurple"/> Purple
     </label>
 
-    <div class="circle">
+    <select v-model="selectedColor">
+      <option>White</option>
+      <option value="text-black">Black</option>
+      <option value="text-orange">Orange</option>
+    </select>
+
+    <div class="circle" :class="[selectedColor, circle_classes]">
       Hi!
     </div>
   </div>
