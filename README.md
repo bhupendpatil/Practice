@@ -669,6 +669,7 @@ Program | Link
 -- | --
 Endpoints for Application Status | [app.py](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Endpoints%20for%20Application%20Status/app.py)
 Application Logging | [app.py](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Application%20Logging/app.log) [app.log](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Application%20Logging/app.log) [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Application%20Logging)
-Docker Walkthrough | [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Docker%20Walkthrough)
+Docker Walkthrough | [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Docker%20Walkthrough)
+Docker for Application Packaging | [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Docker%20for%20Application%20Packaging)
 
 <!-- prettier-ignore-end -->
