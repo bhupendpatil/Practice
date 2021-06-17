@@ -671,5 +671,6 @@ Endpoints for Application Status | [app.py](https://github.com/bhupendpatil/Prac
 Application Logging | [app.py](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Application%20Logging/app.py) [app.log](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Application%20Logging/app.log) [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Architecture%20Consideration%20for%20Cloud%20Native%20Application/Application%20Logging)
 Docker Walkthrough | [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Docker%20Walkthrough)
 Docker for Application Packaging | [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Docker%20for%20Application%20Packaging)
+Deploy Your First Kubernetes Cluster | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Deploy%20Your%20First%20Kubernetes%20Cluster/commands.txt) [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Deploy%20Your%20First%20Kubernetes%20Cluster)
 
 <!-- prettier-ignore-end -->
