@@ -99,3 +99,16 @@ kubectl get po
 kubectl port-forward po/[name-in-po] 6112:6112
 
 eg. kubectl port-forward po/go-helloworld-7bbdd8f8cb-5jkh7 6112:6112
+
+# Application Reachability
+
+kubectl get deploy
+
+kubectl get po
+
+kubectl get svc
+
+kubectl expose deploy go-helloworld --port=6112 --target-port=6112
+
+kubectl get svc
+
