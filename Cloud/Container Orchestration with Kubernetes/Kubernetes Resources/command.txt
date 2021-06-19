@@ -112,3 +112,6 @@ kubectl expose deploy go-helloworld --port=6112 --target-port=6112
 
 kubectl get svc
 
+kubectl run test$RANDOM --namespace=default --rm -it --image=alpine -- sh
+
+wget -qO 10.10.96.194.124:6112
