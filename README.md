@@ -672,6 +672,6 @@ Application Logging | [app.py](https://github.com/bhupendpatil/Practice/blob/mas
 Docker Walkthrough | [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Docker%20Walkthrough)
 Docker for Application Packaging | [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Docker%20for%20Application%20Packaging)
 Deploy Your First Kubernetes Cluster | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Deploy%20Your%20First%20Kubernetes%20Cluster/commands.txt) [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Deploy%20Your%20First%20Kubernetes%20Cluster)
-Kubernetes Resources Part 1 | [.txt]() [project]()
+Kubernetes Resources Part 1 | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Kubernetes%20Resources%20Part%201/command.txt) [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Kubernetes%20Resources%20Part%201)
 
 <!-- prettier-ignore-end -->
