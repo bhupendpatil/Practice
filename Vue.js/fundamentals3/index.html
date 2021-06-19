@@ -7,7 +7,20 @@
 </head>
 
 <body>
-  <div id="app"></div>
+  <div id="app">
+    <p v-if="mode==1">Showing v-if directive content</p>
+    <template v-else-if="mode==2">
+      <p>Bonus content</p>
+      <h3>v-else-if</h3>
+    </template>
+    <p v-else>v-else</p>
+
+    <select v-model="mode">
+      <option value="1">v-if</option>
+      <option value="2">v-else-if</option>
+      <option value="3">v-else</option>
+    </select>
+  </div>
 
   <script src="https://unpkg.com/vue@next"></script>
   <script src="app.js"></script>
