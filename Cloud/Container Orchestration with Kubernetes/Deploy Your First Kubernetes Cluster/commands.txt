@@ -9,3 +9,24 @@ kubectl get nodes
 kubectl get nodes -o wide
 
 kubectl describe node localhost
+
+# Application Configuration
+
+kubectl get cm
+
+kubectl create cm test-cm --from-literal=color=blue
+
+kubectl get cm
+
+kubectl describe cm test-cm
+
+kubectl get secrets
+
+kubectl create secret generic test-sec --from-literal=color=red
+
+kubectl get secrets
+
+kubectl describe secrets test-sec
+
+kubectl get secrets test-sec -o yaml
+
