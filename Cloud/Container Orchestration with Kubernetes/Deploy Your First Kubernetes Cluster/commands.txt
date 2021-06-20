@@ -30,3 +30,10 @@ kubectl describe secrets test-sec
 
 kubectl get secrets test-sec -o yaml
 
+# Application Context
+
+kubectl get ns
+
+kubectl create ns test-udacity
+
+kubectl get ns
