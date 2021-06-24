@@ -1,0 +1,39 @@
+Declarative Kubernetes Manifests
+
+a namespace:
+    name: demo
+    label: tier: test
+
+a deployment:
+    image: nginx:alpine
+    name:nginx-apline
+    namespace: demo
+    replicas: 3
+    labels: app: nginx, tag: alpine
+
+a service:
+    expose the above deployment on port 8111
+    namespace: demo
+
+a configmap:
+    name: nginx-version
+    containing key-value pair: version=alpine
+    namespace: demo
+
+
+kubectl create ns demo
+
+
+kubectl label ns demo tier=test
+
+
+kubectl apply -f deployment.yaml
+
+
+kubectl apply -f service.yaml
+
+
+kubectl apply -f configmap.yaml
+
+
+kubectl get all -n demo
