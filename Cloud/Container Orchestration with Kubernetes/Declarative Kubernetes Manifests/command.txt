@@ -1,0 +1,19 @@
+kubectl get ns
+
+kubectl create ns demo --dry-run=client -o yaml
+
+kubectl create ns demo --dry-run=client -o yaml > namespace.yaml
+
+kubectl apply -f namespace.yaml
+
+kubectl get ns
+
+kubectl create deploy busybox --image=busybox -r=5 -n demo --dry-run=client -o yaml
+
+kubectl create deploy busybox --image=busybox -r=5 -n demo --dry-run=client -o yaml > deploy.yaml
+
+kubectl apply -f deploy.yaml
+
+kubectl get deploy -n demo
+
+kubectl get po -n demo
