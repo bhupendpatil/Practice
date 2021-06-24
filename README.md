@@ -674,5 +674,6 @@ Docker Walkthrough | [project](https://github.com/bhupendpatil/Practice/tree/mas
 Docker for Application Packaging | [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Docker%20for%20Application%20Packaging)
 Deploy Your First Kubernetes Cluster | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Deploy%20Your%20First%20Kubernetes%20Cluster/commands.txt) [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Deploy%20Your%20First%20Kubernetes%20Cluster)
 Kubernetes Resources | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Kubernetes%20Resources/command.txt) [exercise.txt](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Kubernetes%20Resources/commandExercise.txt) [project](https://github.com/bhupendpatil/Practice/tree/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Kubernetes%20Resources)
+Declarative Kubernetes Manifests | [.txt](https://github.com/bhupendpatil/Practice/blob/master/Cloud/Container%20Orchestration%20with%20Kubernetes/Declarative%20Kubernetes%20Manifests/command.txt)
 
 <!-- prettier-ignore-end -->
