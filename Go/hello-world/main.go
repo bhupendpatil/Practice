@@ -19,4 +19,4 @@ func foo() {
 	fmt.Println("I'm foo")
 }
 
-// hello world & tour of control flow
+// hello world & tour
