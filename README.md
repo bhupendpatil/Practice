@@ -667,6 +667,7 @@ Fundamentals - III | [project](https://github.com/bhupendpatil/Practice/tree/mas
 Fundamentals - IV | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals4)
 Project 1 : Perspective Playground | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/Project1PerspectivePlayground)
 Beyond the Fundamentals | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/beyondTheFundamentals)
+Vue Developer Environment | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/vueDeveloperEnvironment)
 
 ## Cloud
 Program | Link
