@@ -684,6 +684,6 @@ Declarative Kubernetes Manifests | [.txt](https://github.com/bhupendpatil/Practi
 Program | Link
 -- | --
 Hello world | [.go](https://github.com/bhupendpatil/Practice/blob/master/Go/hello-world/main.go)
-Shorthand Variable | [.go](https://github.com/bhupendpatil/Practice/blob/master/Go/shorthand-variables/main.go)
+Shorthand Variable | [.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/main.go)
 
 <!-- prettier-ignore-end -->
