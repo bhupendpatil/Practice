@@ -5,4 +5,13 @@ module.exports = {
     path: __dirname + "/dist",
   },
   mode: "development",
+  module: {
+    rules: [
+      {
+        test: /\.js%/,
+        exclude: /(node_modules)/,
+        use: "babel-loader",
+      },
+    ],
+  },
 };
