@@ -24,3 +24,12 @@ func main() {
 	fmt.Println(c)
 
 }
+
+// Output
+// 42
+// 99
+// 199
+// Bhupend Patil
+// 22
+// 32
+// 0
