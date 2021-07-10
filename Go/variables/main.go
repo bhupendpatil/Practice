@@ -8,6 +8,8 @@ var c int
 var z string = "this is z"
 var s = "this is s"
 
+var d string
+
 func main() {
 	// Short hand
 	x := 42
@@ -32,6 +34,13 @@ func main() {
 	fmt.Printf("%T\n", s)
 	fmt.Printf("%T\n", z)
 
+	// Zero value
+	fmt.Println("Printing value of d", d, "ending")
+	fmt.Printf("%T\n", d)
+
+	d = "Dog"
+	fmt.Println("This is", d)
+
 }
 
 // Output
@@ -42,3 +51,10 @@ func main() {
 // 22
 // 32
 // 0
+// int
+// string
+// string
+// string
+// Printing value of d  ending
+// string
+// This is Dog
