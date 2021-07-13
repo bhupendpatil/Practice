@@ -41,6 +41,18 @@ func main() {
 	d = "Dog"
 	fmt.Println("This is", d)
 
+	// fmt package
+	fmt.Println(b)
+	fmt.Printf("%T\n", b)
+	fmt.Printf("%b\n", b)
+	fmt.Printf("%x\n", b)
+	b = 911
+	fmt.Printf("%#x\n", b)
+	fmt.Printf("%#x\t%b\t%x\n", b, b, b)
+
+	s := fmt.Sprintf("%#x\t%b\t%x\n", b, b, b)
+	fmt.Println(s)
+	fmt.Printf("%v", b)
 }
 
 // Output
@@ -58,3 +70,12 @@ func main() {
 // Printing value of d  ending
 // string
 // This is Dog
+// 32
+// int
+// 100000
+// 20
+// 0x38f
+// 0x38f   1110001111      38f
+// 0x38f   1110001111      38f
+
+// 911
