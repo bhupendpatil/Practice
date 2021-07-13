@@ -63,6 +63,11 @@ func main() {
 	var ra fu
 	fmt.Printf("%T\n", e)
 	fmt.Printf("%T\n", ra)
+
+	// conversion
+	var q int
+	q = int(ra)
+	fmt.Println(q)
 }
 
 // Output
