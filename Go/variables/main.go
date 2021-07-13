@@ -10,6 +10,10 @@ var s = "this is s"
 
 var d string
 
+type hotdog int
+
+var e hotdog
+
 func main() {
 	// Short hand
 	x := 42
@@ -52,7 +56,13 @@ func main() {
 
 	s := fmt.Sprintf("%#x\t%b\t%x\n", b, b, b)
 	fmt.Println(s)
-	fmt.Printf("%v", b)
+	fmt.Printf("%v\n", b)
+
+	// own type
+	type fu int
+	var ra fu
+	fmt.Printf("%T\n", e)
+	fmt.Printf("%T\n", ra)
 }
 
 // Output
@@ -79,3 +89,5 @@ func main() {
 // 0x38f   1110001111      38f
 
 // 911
+// main.hotdog
+// main.fu
