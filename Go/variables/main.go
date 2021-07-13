@@ -96,3 +96,4 @@ func main() {
 // 911
 // main.hotdog
 // main.fu
+// 0
