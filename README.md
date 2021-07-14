@@ -685,6 +685,6 @@ Program | Link
 -- | --
 Hello world | [.go](https://github.com/bhupendpatil/Practice/blob/master/Go/hello-world/main.go)
 Variables | [.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/main.go)
-Variables Exercises | [ex1.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex1.go) [ex2.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex2.go) [ex3.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex3.go) [ex4.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex4.go) [ex5.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex5.go) [ex6.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex6.go)
+Variables Exercises | [ex1.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex1.go) [ex2.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex2.go) [ex3.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex3.go) [ex4.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex4.go) [ex5.go](https://github.com/bhupendpatil/Practice/blob/master/Go/variables/exercises/ex5.go)
 
 <!-- prettier-ignore-end -->
