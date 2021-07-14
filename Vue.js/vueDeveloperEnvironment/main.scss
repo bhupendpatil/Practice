@@ -1,3 +1,13 @@
+@import "variables";
+
 h1 {
-  color: red;
+  color: $red;
+
+  span {
+    color: blue;
+  }
+
+  &:hover {
+    color: darken($color: $red, $amount: 25%);
+  }
 }

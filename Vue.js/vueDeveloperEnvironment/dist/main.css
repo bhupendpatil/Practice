@@ -2,5 +2,9 @@
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./main.scss ***!
   \****************************************************************************************************/
 h1 {
-  color: red; }
+  color: #cc3244; }
+  h1 span {
+    color: blue; }
+  h1:hover {
+    color: #661922; }
 
