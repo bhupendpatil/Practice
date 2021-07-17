@@ -13,8 +13,10 @@ export default {
 };
 </script>
 
-<style scoped>
+
+<style lang="scss" scoped>
+$color: red;
 p {
-    color: red;
+    color : $color;
 }
 </style>
