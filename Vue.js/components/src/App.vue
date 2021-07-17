@@ -1,4 +1,5 @@
 <template>
+<p>Hey!</p>
 <greeting />
 </template>
 
