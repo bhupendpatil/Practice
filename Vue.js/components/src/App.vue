@@ -20,7 +20,7 @@ export default {
         }
     },
     methods: {
-        updateAge(num){
+        updateAge(num) {
             this.age += num
         }
     }

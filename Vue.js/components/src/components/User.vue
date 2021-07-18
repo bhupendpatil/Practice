@@ -7,7 +7,17 @@
 <script>
 export default {
     name: "User",
-    props: ["age"],
+    props: {
+        age: {
+            type: Number,
+            //required: true,
+            //default:20,
+            validator(value) {
+                //this.onClickAge()
+                return value < 130
+            },
+        }
+    },
     emits: ["age-change"],
     computed: {
         ageDoubled() {
