@@ -669,6 +669,7 @@ Project 1 : Perspective Playground | [project](https://github.com/bhupendpatil/P
 Beyond the Fundamentals | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/beyondTheFundamentals)
 Vue Developer Environment | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/vueDeveloperEnvironment)
 Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/components)
+Slots | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/slots)
 
 ## Cloud
 Program | Link
