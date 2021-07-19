@@ -670,6 +670,7 @@ Beyond the Fundamentals | [project](https://github.com/bhupendpatil/Practice/tre
 Vue Developer Environment | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/vueDeveloperEnvironment)
 Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/components)
 Slots | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/slots)
+Dynamic Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/dynamic-components)
 
 ## Cloud
 Program | Link
