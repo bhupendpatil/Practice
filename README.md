@@ -671,6 +671,7 @@ Vue Developer Environment | [project](https://github.com/bhupendpatil/Practice/t
 Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/components)
 Slots | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/slots)
 Dynamic Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/dynamic-components)
+Animations | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/animations)
 
 ## Cloud
 Program | Link
