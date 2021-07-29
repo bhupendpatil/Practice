@@ -673,6 +673,7 @@ Slots | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/sl
 Dynamic Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/dynamic-components)
 Animations | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/animations)
 Quiz App | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/quiz)
+Music App | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/music)
 
 ## Cloud
 Program | Link
