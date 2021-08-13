@@ -13,4 +13,10 @@ void loop() {
   digitalWrite(led,LOW);
   digitalWrite(ledbuiltin, HIGH);
   delay(100);
+  digitalWrite(led, HIGH);
+  digitalWrite(ledbuiltin,LOW);
+  delay(1000);
+  digitalWrite(led,LOW);
+  digitalWrite(ledbuiltin, HIGH);
+  delay(1000);
 }
