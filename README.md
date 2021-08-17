@@ -698,5 +698,6 @@ Programming Fundamentals | [.go](https://github.com/bhupendpatil/Practice/blob/m
 ## CSS
 Program | Link
 -- | --
+Transition | [project](https://github.com/bhupendpatil/Practice/tree/master/CSS/transition)
 
 <!-- prettier-ignore-end -->
