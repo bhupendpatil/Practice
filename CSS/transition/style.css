@@ -8,6 +8,7 @@ button {
   transition-property: background-color;
   transition-duration: 3s;
 }
+
 button:hover {
   background-color: chartreuse;
 }
