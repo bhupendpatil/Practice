@@ -659,22 +659,22 @@ Hello Cargo | [project](https://github.com/bhupendpatil/Practice/tree/master/Rus
 A guessing game | [project](https://github.com/bhupendpatil/Practice/tree/master/Rust/guessing_game)
 Variables | [.rs](https://github.com/bhupendpatil/Practice/blob/master/Rust/variables/src/main.rs)
 
-## Vue.js
+## Vue
 Program | Link
 -- | --
-Fundamentals - I | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals1)
-Fundamentals - II | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals2)
-Fundamentals - III | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals3)
-Fundamentals - IV | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/fundamentals4)
-Project 1 : Perspective Playground | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/Project1PerspectivePlayground)
-Beyond the Fundamentals | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/beyondTheFundamentals)
-Vue Developer Environment | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/vueDeveloperEnvironment)
-Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/components)
-Slots | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/slots)
-Dynamic Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/dynamic-components)
-Animations | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/animations)
-Quiz App | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/quiz)
-Music App | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue.js/music)
+Fundamentals - I | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/fundamentals1)
+Fundamentals - II | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/fundamentals2)
+Fundamentals - III | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/fundamentals3)
+Fundamentals - IV | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/fundamentals4)
+Project 1 : Perspective Playground | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/Project1PerspectivePlayground)
+Beyond the Fundamentals | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/beyondTheFundamentals)
+Vue Developer Environment | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/vueDeveloperEnvironment)
+Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/components)
+Slots | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/slots)
+Dynamic Components | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/dynamic-components)
+Animations | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/animations)
+Quiz App | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/quiz)
+Music App | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/music)
 
 ## Cloud
 Program | Link
