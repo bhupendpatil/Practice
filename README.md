@@ -703,5 +703,6 @@ Transition | [project](https://github.com/bhupendpatil/Practice/tree/master/CSS/
 ## TypeScript
 Program | Link
 -- | --
+Using TypeScript | [project](https://github.com/bhupendpatil/Practice/tree/master/TypeScript/first-project)
 
 <!-- prettier-ignore-end -->
