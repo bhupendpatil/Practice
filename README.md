@@ -704,5 +704,6 @@ Transition | [project](https://github.com/bhupendpatil/Practice/tree/master/CSS/
 Program | Link
 -- | --
 Using TypeScript | [project](https://github.com/bhupendpatil/Practice/tree/master/TypeScript/first-project)
+Understanding TS | [project](https://github.com/bhupendpatil/Practice/tree/master/TypeScript/understanding-TS)
 
 <!-- prettier-ignore-end -->
