@@ -700,4 +700,8 @@ Program | Link
 -- | --
 Transition | [project](https://github.com/bhupendpatil/Practice/tree/master/CSS/transition)
 
+## TypeScript
+Program | Link
+-- | --
+
 <!-- prettier-ignore-end -->
