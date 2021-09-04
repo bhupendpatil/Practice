@@ -118,6 +118,9 @@ import { mapMutations, mapState } from 'vuex';
 export default {
   name: 'Auth',
   computed: {
+    // ...mapState({
+    //   modal: 'authModalShow',
+    // }),
     ...mapState(['authModalShow']),
   },
   methods: {
