@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+    <slot :user="user" :favorites="favorites"></slot>
+  </div>
 </template>
 
 <script>
@@ -8,10 +10,10 @@ export default {
   data() {
     return {
       user: {
-        name: "John",
+        name: "Bhupend Patil",
         age: 25,
       },
-      favorites: ["Pizza", "Marbles", "Birds"],
+      favorites: ["Pizza", "Codes", "Machines"],
     };
   },
 };
