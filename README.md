@@ -675,6 +675,7 @@ Dynamic Components | [project](https://github.com/bhupendpatil/Practice/tree/mas
 Animations | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/animations)
 Quiz App | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/quiz)
 Music App | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/music)
+Slot Props | [project](https://github.com/bhupendpatil/Practice/tree/master/Vue/slot-props)
 
 ## Cloud
 Program | Link
