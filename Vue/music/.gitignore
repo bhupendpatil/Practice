@@ -2,7 +2,7 @@
 node_modules
 /dist
 
-# manual backup needed for firebase.js
+# manual backup needed for firebase.js file
 /src/includes/firebase.js
 
 /tests/e2e/videos/
