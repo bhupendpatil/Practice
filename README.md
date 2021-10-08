@@ -452,6 +452,7 @@ Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/MyBl
 Different Color | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DiffColorLED/DiffColorLED.ino)
 Digital Input | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DigiInputs/DigiInputs.ino)
 2 Led Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/2LEDBlink.ino)
+Basics | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basics/basics.ino)
 
 ## DataSet
 Name | Link
