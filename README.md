@@ -452,10 +452,7 @@ Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/MyBl
 Different Color | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DiffColorLED/DiffColorLED.ino)
 Digital Input | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DigiInputs/DigiInputs.ino)
 2 Led Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/2LEDBlink.ino)
-Basic 1 | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic1/basic1.ino)
-Basic 2 | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic2/basic2.ino)
-Basic 3 | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic3/basic3.ino)
-Basic 4 | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic4/basic4.ino)
+Basics | [basic1.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic1/basic1.ino) [basic2.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic2/basic2.ino) [basic3.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic3/basic3.ino) [basic4.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic4/basic4.ino) [basic5.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic5/basic5.ino)
 
 ## DataSet
 Name | Link
