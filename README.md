@@ -454,6 +454,7 @@ Digital Input | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Ardu
 2 Led Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/2LEDBlink.ino)
 Basics 1 | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basics1/basics1.ino)
 Basics 2 | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basics2/basics2.ino)
+Basics 3 | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basics3/basics3.ino)
 
 ## DataSet
 Name | Link
