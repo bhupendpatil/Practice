@@ -453,6 +453,7 @@ Different Color | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Ar
 Digital Input | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DigiInputs/DigiInputs.ino)
 2 Led Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/2LEDBlink.ino)
 Basics | [basic1.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic1/basic1.ino) [basic2.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic2/basic2.ino) [basic3.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic3/basic3.ino) [basic4.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic4/basic4.ino) [basic5.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/basic5/basic5.ino)
+LED Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/LEDBlink/LEDBlink.ino) [morseCodeExercise.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/morseCodeLED/morseCodeLED.ino)
 
 ## DataSet
 Name | Link
