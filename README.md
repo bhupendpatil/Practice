@@ -458,6 +458,8 @@ Morse Code | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino
 Digital Input button | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/digitalInputButton/digitalInputButton.ino) [ex.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/digitalInputButtonAndOutputLED/digitalInputButtonAndOutputLED.ino)
 Digital I/O button/led | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/digitalInputButtonAndOutputLED/digitalInputButtonAndOutputLED.ino)
 Read state of Potentiometer | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/readStateOfPotentiometer/readStateOfPotentiometer.ino)
+LED control using potentio meter | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/potentiometedLEDFade/potentiometedLEDFade.ino)
+
 
 ## DataSet
 Name | Link
