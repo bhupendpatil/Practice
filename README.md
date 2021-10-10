@@ -457,6 +457,7 @@ LED Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/
 Morse Code | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/morseCodeLED/morseCodeLED.ino)
 Digital Input button | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/digitalInputButton/digitalInputButton.ino) [ex.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/digitalInputButtonAndOutputLED/digitalInputButtonAndOutputLED.ino)
 Digital I/O button/led | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/digitalInputButtonAndOutputLED/digitalInputButtonAndOutputLED.ino)
+Read state of Potentiometer | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/readStateOfPotentiometer/readStateOfPotentiometer.ino)
 
 ## DataSet
 Name | Link
