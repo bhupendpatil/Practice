@@ -459,6 +459,7 @@ Digital Input button | [.ino](https://github.com/bhupendpatil/Practice/blob/mast
 Digital I/O button/led | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/digitalInputButtonAndOutputLED/digitalInputButtonAndOutputLED.ino)
 Read state of Potentiometer | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/readStateOfPotentiometer/readStateOfPotentiometer.ino)
 LED control using potentiometer | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/potentiometedLEDFade/potentiometedLEDFade.ino)
+RGB Led | [1.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/RGBLEDBlink/RGBLEDBlink.ino) [2.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/colorRGBLED/colorRGBLED.ino) [usingLibrary.ino]()
 
 
 ## DataSet
