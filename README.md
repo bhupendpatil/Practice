@@ -461,6 +461,7 @@ Read state of Potentiometer | [.ino](https://github.com/bhupendpatil/Practice/bl
 LED control using potentiometer | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/potentiometedLEDFade/potentiometedLEDFade.ino)
 RGB Led | [1.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/RGBLEDBlink/RGBLEDBlink.ino) [2.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/colorRGBLED/colorRGBLED.ino) [usingLibrary.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/SimpleRgbLed/SimpleRgbLed.ino)
 Arrays | [arrays](https://github.com/bhupendpatil/Practice/tree/master/Arduino/arrays)
+Blink LED using array | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/arrayBLINK/arrayBLINK.ino)
 
 
 ## DataSet
