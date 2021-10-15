@@ -462,7 +462,8 @@ LED control using potentiometer | [.ino](https://github.com/bhupendpatil/Practic
 RGB Led | [1.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/RGBLEDBlink/RGBLEDBlink.ino) [2.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/colorRGBLED/colorRGBLED.ino) [usingLibrary.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/SimpleRgbLed/SimpleRgbLed.ino)
 Arrays | [arrays](https://github.com/bhupendpatil/Practice/tree/master/Arduino/arrays)
 Blink LED using array | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/arrayBLINK/arrayBLINK.ino)
-Photoresistor print sensor value | [.ino](https://github.com/bhupendpatil/Practice/tree/master/Arduino/PhotoresistorSimple)
+Photoresistor print sensor value | [.ino](https://github.com/bhupendpatil/Practice/tree/master/Arduino/PhotoresistorSimple/PhotoresistorSimple.ino)
+UV light sensor | [.ino](https://github.com/bhupendpatil/Practice/tree/master/Arduino/uvSensor/uvSensor.ino)
 
 
 ## DataSet
