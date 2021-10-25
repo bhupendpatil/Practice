@@ -465,6 +465,7 @@ Blink LED using array | [.ino](https://github.com/bhupendpatil/Practice/blob/mas
 Photoresistor print sensor value | [.ino](https://github.com/bhupendpatil/Practice/tree/master/Arduino/PhotoresistorSimple/PhotoresistorSimple.ino)
 UV light sensor | [.ino](https://github.com/bhupendpatil/Practice/tree/master/Arduino/uvSensor/uvSensor.ino)
 RGB light sensor | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/RGBLightSensor/RGBLightSensor.ino)
+RGB color sensor and light output | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/rgbSensorAndLEDOutput/rgbSensorAndLEDOutput.ino)
 
 
 ## DataSet
