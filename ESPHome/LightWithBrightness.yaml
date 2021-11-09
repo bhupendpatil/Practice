@@ -1,0 +1,9 @@
+light:
+  - platform: monochromatic
+    name: "Desk Lamp"
+    output: light_output
+
+output:
+  - id: light_output
+    platform: esp8266_pwm
+    pin: D8
