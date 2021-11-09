@@ -726,5 +726,6 @@ Understanding TS | [project](https://github.com/bhupendpatil/Practice/tree/maste
 ## ESPHome
 Program | Link
 -- | --
+Light with Brightness Switch | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/LightWithBrightness.yaml)
 
 <!-- prettier-ignore-end -->
