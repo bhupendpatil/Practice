@@ -727,5 +727,6 @@ Understanding TS | [project](https://github.com/bhupendpatil/Practice/tree/maste
 Program | Link
 -- | --
 Light with Brightness Switch | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/LightWithBrightness.yaml)
+Two Switch Relay | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/2SwitchRelay.yaml)
 
 <!-- prettier-ignore-end -->
