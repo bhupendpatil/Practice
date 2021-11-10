@@ -1,0 +1,10 @@
+switch:
+  - platform: gpio
+    name: "Relay1"
+    pin: D7
+    inverted: true
+    
+  - platform: gpio
+    name: "Relay2"
+    pin: D8
+    inverted: true
