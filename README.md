@@ -466,6 +466,7 @@ Photoresistor print sensor value | [.ino](https://github.com/bhupendpatil/Practi
 UV light sensor | [.ino](https://github.com/bhupendpatil/Practice/tree/master/Arduino/uvSensor/uvSensor.ino)
 RGB light sensor | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/RGBLightSensor/RGBLightSensor.ino)
 RGB color sensor and light output | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/rgbSensorAndLEDOutput/rgbSensorAndLEDOutput.ino)
+Temperature and Humidity (DHT11) | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/HumidityAndTemperature/HumidityAndTemperature.ino)
 
 
 ## DataSet
