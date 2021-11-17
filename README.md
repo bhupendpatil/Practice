@@ -467,6 +467,7 @@ UV light sensor | [.ino](https://github.com/bhupendpatil/Practice/tree/master/Ar
 RGB light sensor | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/RGBLightSensor/RGBLightSensor.ino)
 RGB color sensor and light output | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/rgbSensorAndLEDOutput/rgbSensorAndLEDOutput.ino)
 Temperature and Humidity (DHT11) | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/HumidityAndTemperature/HumidityAndTemperature.ino)
+Temperature, Heat Index and Humidity (DHT11/DHT21/DHT22) | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/HumidityTemperatureAndHeatIndex/HumidityTemperatureAndHeatIndex.ino)
 
 
 ## DataSet
