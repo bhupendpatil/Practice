@@ -735,5 +735,6 @@ Two Switch Relay | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/
 Program | Link
 -- | --
 Basics | [.json](https://github.com/bhupendpatil/Practice/blob/master/Node-RED/basics.json)
+2 Relay Switch | [.json](https://github.com/bhupendpatil/Practice/blob/master/Node-RED/2relay.json)
 
 <!-- prettier-ignore-end -->
