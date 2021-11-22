@@ -449,6 +449,7 @@ Loop Splitting | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2
 Program | Link
 -- | --
 Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/MyBlink/MyBlink.ino)
+Fade | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/NanoFade/NanoFade.ino)
 Different Color | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DiffColorLED/DiffColorLED.ino)
 Digital Input | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/DigiInputs/DigiInputs.ino)
 2 Led Blink | [.ino](https://github.com/bhupendpatil/Practice/blob/master/Arduino/2LEDBlink.ino)
