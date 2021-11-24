@@ -1,0 +1,6 @@
+remote_receiver:
+  pin: 
+    number: D5
+    inverted: True
+    mode: INPUT_PULLUP
+  dump: all
