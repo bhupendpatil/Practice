@@ -1,0 +1,21 @@
+remote_transmitter:
+  pin: D1
+  carrier_duty_percent: 50%
+            
+switch:
+  - name: TV
+    platform: template
+    turn_on_action:
+      - remote_transmitter.transmit_sony:
+          data: 0x00000A90
+          nbits: 12
+          repeat:
+            times: 4
+            wait_time: 10ms
+    turn_off_action:
+      - remote_transmitter.transmit_sony:
+          data: 0x00000A90
+          nbits: 12
+          repeat:
+            times: 4
+            wait_time: 10ms
