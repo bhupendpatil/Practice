@@ -726,7 +726,7 @@ Using TypeScript | [project](https://github.com/bhupendpatil/Practice/tree/maste
 Understanding TS | [project](https://github.com/bhupendpatil/Practice/tree/master/TypeScript/understanding-TS)
 
 
-## ESPHome <!-- Node MCU -->
+## ESPHome
 Program | Link
 -- | --
 Light with Brightness Switch | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/LightWithBrightness.yaml)
