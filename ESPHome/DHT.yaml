@@ -1,0 +1,9 @@
+sensor:
+  - platform: dht
+    pin: D0
+    model: DHT11
+    temperature:
+      name: "Room Temperature"
+    humidity:
+      name: "Room Humidity"
+    update_interval: 60s
