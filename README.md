@@ -734,6 +734,7 @@ Two Switch Relay | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/
 IR Remote Receiver Dump | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/IRRemoteReceiverDump.yaml)
 IR Remote Transmitter | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/IRRemoteTransmitter.yaml)
 Temperature and Humidity | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/DHT.yaml)
+Motion Detection | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/PIR.yaml)
 
 ## Node-RED
 Program | Link
