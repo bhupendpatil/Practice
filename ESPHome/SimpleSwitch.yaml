@@ -1,0 +1,4 @@
+switch:
+  - platform: gpio
+    name: "Lamp"
+    pin: D1
