@@ -1,0 +1,30 @@
+triggers:
+  - id: "1"
+    configuration:
+      itemName: GenericMQTTThing_Dimmer
+      state: "0"
+    type: core.ItemStateUpdateTrigger
+  - id: "3"
+    configuration:
+      itemName: GenericMQTTThing_Dimmer
+      command: DOWN
+    type: core.ItemCommandTrigger
+  - id: "4"
+    configuration:
+      itemName: GenericMQTTThing_Dimmer
+      state: "0"
+      previousState: ""
+    type: core.ItemStateChangeTrigger
+  - id: "5"
+    configuration:
+      itemName: GenericMQTTThing_Dimmer
+      command: OFF
+    type: core.ItemCommandTrigger
+conditions: []
+actions:
+  - inputs: {}
+    id: "2"
+    configuration:
+      itemName: GenericMQTTThing_ONOFF
+      command: OFF
+    type: core.ItemCommandAction
