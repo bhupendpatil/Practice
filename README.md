@@ -724,6 +724,7 @@ Program | Link
 -- | --
 Using TypeScript | [project](https://github.com/bhupendpatil/Practice/tree/master/TypeScript/first-project)
 Understanding TS | [project](https://github.com/bhupendpatil/Practice/tree/master/TypeScript/understanding-TS)
+Crash TS | [project](https://github.com/bhupendpatil/Practice/tree/master/TypeScript/TS-CRASH)
 
 
 ## ESPHome
