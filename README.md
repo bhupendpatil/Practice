@@ -337,6 +337,43 @@ SQLite Database | [project](https://github.com/bhupendpatil/Practice/tree/master
 Location based messaging app | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LocationBasedMess)
 Location based chat messaging app | [project](https://github.com/bhupendpatil/Practice/tree/master/Android/LocationBasedChat)
 
+## C
+Program | Link
+-- | --
+Hello World | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/firstprog.c)
+
+## C++
+Program | Link
+-- | --
+Hello World | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/helloWorld.cpp)
+Variable & Constant | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/varConsDemo.cpp)
+Array | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/arrayDemo.cpp)
+Struct | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/structDemo.cpp)
+Union | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/unionDemo.cpp)
+Enum | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/enumDemo.cpp)
+If-else | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/ifElseDemo.cpp)
+Switch | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/switchDemo.cpp)
+For Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/forDemo.cpp)
+While Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/whileDemo.cpp)
+Do While Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/doDemo.cpp)
+Nested Loops |  [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/nestedLoopDemo.cpp)
+Function | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/functionDemo.cpp)
+Inline Function | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/inlineFuncDemo.cpp)
+Class | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/classDemo.cpp)
+Encapsulation | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/encapsulationDemo1.cpp) [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/encapsulationDemo2.cpp)
+Pointers | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/pointerDemo.cpp)
+References | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/referenceDemo.cpp)
+Memory Allocation & Deallocation | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/memoryAllocationAndDeallocationDemo.cpp)
+Splitting Classes | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/classMultiFiles) [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SplittingClasses)
+Class Constructor | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/ClassConstructor)
+Encapsulation | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/EncapsulationDemo)
+Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
+Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp)
+Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp)
+Generate OPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/opm.cpp)
+Generate DAG | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/DAG.cpp)
+Loop Splitting | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/LoopSplitting.cpp)
+
 ## C#
 Program | Link
 -- | --
@@ -412,38 +449,6 @@ Program | Link
 Swift Basics | [.swift](https://github.com/bhupendpatil/Practice/tree/master/iOS/basic.swift)
 Hello World | [project](https://github.com/bhupendpatil/Practice/tree/master/iOS/HelloWorld)
 Notification HelloEx | [project](https://github.com/bhupendpatil/Practice/tree/master/iOS/HelloEx)
-
-## C++
-Program | Link
--- | --
-Hello World | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/helloWorld.cpp)
-Variable & Constant | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/varConsDemo.cpp)
-Array | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/arrayDemo.cpp)
-Struct | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/structDemo.cpp)
-Union | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/unionDemo.cpp)
-Enum | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/enumDemo.cpp)
-If-else | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/ifElseDemo.cpp)
-Switch | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/switchDemo.cpp)
-For Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/forDemo.cpp)
-While Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/whileDemo.cpp)
-Do While Loop | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/doDemo.cpp)
-Nested Loops |  [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/nestedLoopDemo.cpp)
-Function | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/functionDemo.cpp)
-Inline Function | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/inlineFuncDemo.cpp)
-Class | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/classDemo.cpp)
-Encapsulation | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/encapsulationDemo1.cpp) [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/encapsulationDemo2.cpp)
-Pointers | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/pointerDemo.cpp)
-References | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/referenceDemo.cpp)
-Memory Allocation & Deallocation | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/memoryAllocationAndDeallocationDemo.cpp)
-Splitting Classes | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/classMultiFiles) [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SplittingClasses)
-Class Constructor | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/ClassConstructor)
-Encapsulation | [project](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/EncapsulationDemo)
-Convert NFA to DFA | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/NDtoD2.cpp)
-Convert Right Linear Grammar to Left Linear Grammar | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/R2L.cpp)
-Generate SPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/SPM.cpp)
-Generate OPM | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/opm.cpp)
-Generate DAG | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/DAG.cpp)
-Loop Splitting | [.cpp](https://github.com/bhupendpatil/Practice/blob/master/C%2B%2B/LoopSplitting.cpp)
 
 ## Arduino
 Program | Link
