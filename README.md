@@ -341,6 +341,7 @@ Location based chat messaging app | [project](https://github.com/bhupendpatil/Pr
 Program | Link
 -- | --
 Hello World | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/firstprog.c)
+Strings | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/char_array.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/char_array2.c)
 
 ## C++
 Program | Link
