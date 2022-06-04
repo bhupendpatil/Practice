@@ -342,6 +342,7 @@ Program | Link
 -- | --
 First Program | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/firstprog.c)
 Strings | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/char_array.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/char_array2.c)
+Datatype Sizes | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/datatype_sizes.c)
 
 ## C++
 Program | Link
