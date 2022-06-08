@@ -343,7 +343,8 @@ Program | Link
 First Program | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/firstprog.c)
 Strings | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/char_array.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/char_array2.c)
 Datatype Sizes | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/datatype_sizes.c)
-Pointers | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/addressof.c)
+Pointers | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/addressof.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/addressof2.c)
+Format Strings | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/fmt_strings.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/input.c)
 
 ## C++
 Program | Link
