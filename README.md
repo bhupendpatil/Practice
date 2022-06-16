@@ -345,6 +345,7 @@ Strings | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/char_array
 Datatype Sizes | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/datatype_sizes.c)
 Pointers | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/addressof.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/addressof2.c)
 Format Strings | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/fmt_strings.c) [.c](https://github.com/bhupendpatil/Practice/blob/master/C/input.c)
+Typecasting | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/typecasting.c) [1.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types.c) [2.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types2.c) [3.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types3.c) [4.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types4.c) [5.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types5.c)
 
 ## C++
 Program | Link
