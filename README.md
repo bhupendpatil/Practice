@@ -348,6 +348,9 @@ Format Strings | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/fmt
 Typecasting | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/typecasting.c) [1.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types.c) [2.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types2.c) [3.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types3.c) [4.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types4.c) [5.c](https://github.com/bhupendpatil/Practice/blob/master/C/pointer_types5.c)
 Command-Line Arguments | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/commandline.c) [1.c](https://github.com/bhupendpatil/Practice/blob/master/C/convert.c) [2.c](https://github.com/bhupendpatil/Practice/blob/master/C/convert2.c)
 Variable Scope | [1.c](https://github.com/bhupendpatil/Practice/blob/master/C/scope.c) [2.c](https://github.com/bhupendpatil/Practice/blob/master/C/scope2.c) [3.c](https://github.com/bhupendpatil/Practice/blob/master/C/scope3.c) [1.c](https://github.com/bhupendpatil/Practice/blob/master/C/static.c) [2.c](https://github.com/bhupendpatil/Practice/blob/master/C/static2.c)
+Memory Segments | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/memory_segments.c)
+Heap Segment | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/heap_example.c)
+Heap Error-Checked | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/errorchecked_heap.c)
 
 ## C++
 Program | Link
