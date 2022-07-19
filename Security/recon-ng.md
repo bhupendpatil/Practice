@@ -80,3 +80,41 @@ eg. `workspaces create re-cars`
 `options set FILENAME /home/Bhupend/Desktop/results.html`
 
 `run`
+
+### Pushpins
+
+`workspaces create bhupend`
+
+`marketplace install all`
+
+`keys add flickr_api xxxxxxxxxxxxxx`
+
+`keys add google_api xxxxxxxxxxxxxx`
+
+`db insert locations`
+
+#### add only value for street_address
+
+`show locations`
+
+`modules load recon/locations-locations/geocode`
+
+`run`
+
+`show locations`
+
+`back`
+
+`modules load recon/locations-pushpins/flickr`
+
+`run`
+
+`modules load reporting/pushpin`
+
+`options set LATITUDE XX.XXXXX`
+
+`options set LONGITUDE XX.XXXXX`
+
+`options set RADIUS 1`
+
+`run`
