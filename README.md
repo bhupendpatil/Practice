@@ -766,4 +766,9 @@ Program | Link
 When Dimmer Triggered Change Button State | [.rules](https://github.com/bhupendpatil/Practice/blob/master/openHAB/whenDimmerTriggeredChangeButtonState.rules)
 Change state to OFF when Dimmer is at Zero | [.rules](https://github.com/bhupendpatil/Practice/blob/master/openHAB/changeStateToOFFWhenDimmerIsAtZero.rules)
 
+## Security
+Program | Link
+-- | --
+
+
 <!-- prettier-ignore-end -->
