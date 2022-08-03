@@ -1,4 +1,4 @@
-# Harvester 
+# theHarvester 
 
 ## Execute help
 `theHarvester -h`
