@@ -769,6 +769,6 @@ Change state to OFF when Dimmer is at Zero | [.rules](https://github.com/bhupend
 ## Security
 Program | Link
 -- | --
-recon-ng | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/recon-ng.md)
+recon-ng | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/recon-ng.md) [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/recon.md)
 
 <!-- prettier-ignore-end -->
