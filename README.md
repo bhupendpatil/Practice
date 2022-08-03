@@ -771,5 +771,6 @@ Program | Link
 -- | --
 recon-ng | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/recon-ng.md) [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/recon.md)
 theHarvester | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/theHarvester.md)
+Osintgram | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/Osintgram.md)
 
 <!-- prettier-ignore-end -->
