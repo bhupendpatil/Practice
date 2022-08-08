@@ -773,5 +773,6 @@ recon-ng | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/r
 theHarvester | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/theHarvester.md)
 Osintgram | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/Osintgram.md)
 Sherlock | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/sherlock.md)
+Google Dorking | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/googledork.md)
 
 <!-- prettier-ignore-end -->
