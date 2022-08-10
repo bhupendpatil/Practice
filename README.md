@@ -775,5 +775,6 @@ Osintgram | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/
 Sherlock | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/sherlock.md)
 Google Dorking | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/googledork.md)
 DNS Reconnaissance | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/dnsReconnaissance.md)
+Enumerating Subdomains | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/enumeratingSubdomains.md)
 
 <!-- prettier-ignore-end -->
