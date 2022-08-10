@@ -774,5 +774,6 @@ theHarvester | [.md](https://github.com/bhupendpatil/Practice/blob/master/Securi
 Osintgram | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/Osintgram.md)
 Sherlock | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/sherlock.md)
 Google Dorking | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/googledork.md)
+DNS Reconnaissance | [.md](https://github.com/bhupendpatil/Practice/blob/master/Security/dnsReconnaissance.md)
 
 <!-- prettier-ignore-end -->
