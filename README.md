@@ -351,6 +351,7 @@ Variable Scope | [1.c](https://github.com/bhupendpatil/Practice/blob/master/C/sc
 Memory Segments | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/memory_segments.c)
 Heap Segment | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/heap_example.c)
 Heap Error-Checked | [.c](https://github.com/bhupendpatil/Practice/blob/master/C/errorchecked_heap.c)
+Address Variables and Storage Classes | [a1.c](https://github.com/bhupendpatil/Practice/blob/master/C/addressVariables%26StorageClasses/assignment1.c)
 
 ## C++
 Program | Link
