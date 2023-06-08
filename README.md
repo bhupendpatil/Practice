@@ -781,6 +781,6 @@ Enumerating Subdomains | [.md](https://github.com/bhupendpatil/Practice/blob/mas
 ## PCB
 Program | Link
 -- | --
-MCU Datalogger | [.md](https://github.com/bhupendpatil/Practice/tree/master/PCB/MCU%20Datalogger)
+MCU Datalogger | [project](https://github.com/bhupendpatil/Practice/tree/master/PCB/MCU%20Datalogger)
 
 <!-- prettier-ignore-end -->
