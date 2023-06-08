@@ -13,3 +13,4 @@ yarn-error.log*
 .pnp.js
 Rust/*/target
 PCB/*/*-backups
+PCB/*/#auto_saved_files#
