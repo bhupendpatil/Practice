@@ -12,3 +12,4 @@ yarn-error.log*
 /.pnp
 .pnp.js
 Rust/*/target
+PCB/*/*-backups
