@@ -754,6 +754,7 @@ Temperature and Humidity | [.yaml](https://github.com/bhupendpatil/Practice/blob
 Motion Detection | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/PIR.yaml)
 Switch | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/SimpleSwitch.yaml)
 RGB Light | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/RGBLight.yaml)
+Ultra Sonic Tank Level | [.yaml](https://github.com/bhupendpatil/Practice/blob/master/ESPHome/UltraSonicTanLevel.yaml)
 
 ## Node-RED
 Program | Link
