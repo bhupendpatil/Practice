@@ -1,0 +1,11 @@
+sensor:
+  - platform: ultrasonic
+    trigger_pin: 16
+    echo_pin: 17
+    name: "Water Tank Level"
+    unit_of_measurement: "%"
+    accuracy_decimals: 0
+    update_interval: 5s
+    filters:
+      - lambda: return ((((x*100)-43)-(66.6-43))/(66.6-43))*-100;
+      - filter_out: nan
