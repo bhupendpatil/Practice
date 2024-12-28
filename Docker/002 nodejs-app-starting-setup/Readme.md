@@ -1,5 +1,5 @@
 # Terminal Commands:
-
+docker
 ### To build 
 `docker build .`
 
