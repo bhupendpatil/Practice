@@ -744,5 +744,6 @@ Commands | [project](https://github.com/bhupendpatil/Practice/tree/master/Docker
 
 ## Blockchain
 Program | Link
+Simple Storage (Basic) | [.sol](https://github.com/bhupendpatil/Practice/blob/master/Solidity/SimpleStorage.sol)
 
 <!-- prettier-ignore-end -->
