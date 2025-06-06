@@ -745,8 +745,8 @@ Commands | [project](https://github.com/bhupendpatil/Practice/tree/master/Docker
 ## Blockchain
 Program | Link
 -- | --
-Simple Storage (Basic) | [.sol](https://github.com/bhupendpatil/Practice/blob/master/Blockchain/SimpleStorage.sol)
+Simple Storage (Basic) | [.sol](https://github.com/bhupendpatil/Practice/blob/master/Blockchain/SimpleStorage.sol) [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FoundrySimpleStorage)
 Storage Factory | [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/StorageFactory)
-Fund Me | [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FundMe)
+Fund Me | [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FundMe) [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FoundryFundMe)
 
 <!-- prettier-ignore-end -->
