@@ -23,3 +23,6 @@
 
 ## gas snapshot
 `forge snapshot`
+
+## install Cyfrin/foundry-devop
+`forge install Cyfrin/foundry-devops`
