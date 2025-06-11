@@ -13,3 +13,6 @@
 [submodule "Blockchain/FoundryFundMe/lib/chainlink-evm"]
 	path = Blockchain/FoundryFundMe/lib/chainlink-evm
 	url = https://github.com/smartcontractkit/chainlink-evm
+[submodule "Blockchain/FoundryFundMe/lib/foundry-devops"]
+	path = Blockchain/FoundryFundMe/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
