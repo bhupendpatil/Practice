@@ -747,6 +747,6 @@ Program | Link
 -- | --
 Simple Storage (Basic) | [.sol](https://github.com/bhupendpatil/Practice/blob/master/Blockchain/SimpleStorage.sol) [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FoundrySimpleStorage)
 Storage Factory | [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/StorageFactory)
-Fund Me | [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FundMe) [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FoundryFundMe)
+Fund Me | [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FundMe) [project](https://github.com/bhupendpatil/Practice/tree/master/Blockchain/FoundryFundMe) (project)[https://github.com/bhupendpatil/Practice/tree/master/Blockchain/HTMLFundMe]
 
 <!-- prettier-ignore-end -->
