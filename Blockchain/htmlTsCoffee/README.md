@@ -7,5 +7,5 @@
         - Call a function on a smart contract ✅
         - Have a test blockchains that we can call ✅
     - Get Balance ✅
-    - Withdraw
+    - Withdraw ✅
     - TypeScript
