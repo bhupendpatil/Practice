@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "typescript": "^5.8.3",
+    "viem": "^2.31.2"
+  }
+}
