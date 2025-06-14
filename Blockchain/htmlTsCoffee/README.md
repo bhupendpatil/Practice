@@ -8,4 +8,4 @@
         - Have a test blockchains that we can call ✅
     - Get Balance ✅
     - Withdraw ✅
-    - TypeScript
+    - TypeScript ✅
