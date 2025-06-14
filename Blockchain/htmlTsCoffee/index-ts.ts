@@ -16,6 +16,7 @@ const fundButton = document.getElementById("fundButton") as HTMLButtonElement
 const balanceButton = document.getElementById("balanceButton") as HTMLButtonElement
 const withdrawButton = document.getElementById("withdrawButton") as HTMLButtonElement
 const ethAmountInput = document.getElementById("ethAmount") as HTMLInputElement
+const addressAmountFundedInput = document.getElementById("addressamountfundedButton") as HTMLLabelElement
 
 let walletClient: WalletClient
 let publicClient: PublicClient
@@ -137,8 +138,13 @@ async function getCurrentChain(client: WalletClient): Promise<ReturnType<typeof 
   return currentChain
 }
 
+async function addressAmountFunded(): Promise<void> {
+  console.log("Fetching address amount funded...")
+}
+
 // Attach event listeners
 connectButton.onclick = connect
 fundButton.onclick = fund
 balanceButton.onclick = getBalance
 withdrawButton.onclick = withdraw
+addressAmountFundedInput.onclick = addressAmountFunded
