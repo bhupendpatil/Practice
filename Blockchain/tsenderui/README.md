@@ -1,7 +1,7 @@
 # TSender UI
 
 1. Create a basic React/NextJS Application ✅
-2. Connect our wallet, with a nicer connect application
+2. Connect our wallet, with a nicer connect application ✅
 3. Implement this function
 ```solidity
 function airdropERC20(
