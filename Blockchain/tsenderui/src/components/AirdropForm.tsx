@@ -2,14 +2,20 @@
 
 import { useState, useMemo, useEffect } from "react";
 import { RiAlertFill, RiInformationLine } from "react-icons/ri";
-import { useChainId, useWriteContract, useAccount, useWaitForTransactionReceipt, useReadContracts } from "wagmi";
+import {
+  useChainId,
+  useWriteContract,
+  useAccount,
+  useWaitForTransactionReceipt,
+  useReadContracts,
+} from "wagmi";
 import { chainsToTSender, tsenderAbi, erc20Abi } from "@/constants";
 import { readContract } from "@wagmi/core";
 import { useConfig } from "wagmi";
 import { CgSpinner } from "react-icons/cg";
-import { calculateTotal } from "@/utils";
+import { calculateTotal, formatTokenAmount } from "@/utils";
 import { InputForm } from "./ui/InputField";
-//import { Tabs, TabsList, TabsTrigger } from "./ui/Tabs"
+import { Tabs, TabsList, TabsTrigger } from "./ui/Tabs";
 import { waitForTransactionReceipt } from "@wagmi/core";
 
 interface AirdropFormProps {
@@ -17,7 +23,10 @@ interface AirdropFormProps {
   onModeChange: (unsafe: boolean) => void;
 }
 
-export default function AirdropForm({ isUnsafeMode, onModeChange}: AirdropFormProps) {
+export default function AirdropForm({
+  isUnsafeMode,
+  onModeChange,
+}: AirdropFormProps) {
   const [tokenAddress, setTokenAddress] = useState("");
   const [recipients, setRecipients] = useState("");
   const [amounts, setAmounts] = useState("");
@@ -211,7 +220,16 @@ export default function AirdropForm({ isUnsafeMode, onModeChange}: AirdropFormPr
     >
       <div className="flex items-center justify-between">
         <h2 className="text-xl font-semibold text-zinc-900">T-Sender</h2>
-        
+        <Tabs defaultValue={"false"}>
+          <TabsList>
+            <TabsTrigger value={"false"} onClick={() => onModeChange(false)}>
+              Safe Mode
+            </TabsTrigger>
+            <TabsTrigger value={"true"} onClick={() => onModeChange(true)}>
+              Unsafe Mode
+            </TabsTrigger>
+          </TabsList>
+        </Tabs>
       </div>
 
       <div className="space-y-6">
@@ -253,6 +271,9 @@ export default function AirdropForm({ isUnsafeMode, onModeChange}: AirdropFormPr
             </div>
             <div className="flex justify-between items-center">
               <span className="text-sm text-zinc-600">Amount (tokens):</span>
+              <span className="font-mono text-zinc-900">
+                {formatTokenAmount(total, tokenData?.[0]?.result as number)}
+              </span>
             </div>
           </div>
         </div>
