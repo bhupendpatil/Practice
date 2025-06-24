@@ -1,7 +1,7 @@
 # TSender UI
 
-1. Create a basic React/NextJS Application ✅
-2. Connect our wallet, with a nicer connect application ✅
+1. Create a basic React/NextJS Application 
+2. Connect our wallet, with a nicer connect application 
 3. Implement this function
 ```solidity
 function airdropERC20(
@@ -11,4 +11,5 @@ function airdropERC20(
     uint256 totalAmount
 )
 ```
-4. Deploy to fleek
+4. E2E Playwriting
+5. Deploy to fleek
