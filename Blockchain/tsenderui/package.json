@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "@rainbow-me/rainbowkit": "^2.2.7",
+    "@synthetixio/synpress": "^4.1.0",
     "@tanstack/react-query": "^5.80.7",
     "@wagmi/connectors": "^5.8.5",
     "@wagmi/core": "^2.17.3",
     "next": "15.3.3",
+    "radix-ui": "^1.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
@@ -25,6 +27,7 @@
     "wagmi": "^2.15.6"
   },
   "devDependencies": {
+    "@playwright/test": "^1.48.2",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
