@@ -1,0 +1,27 @@
+<svg viewBox="0 0 400 250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cake plate -->
+  <ellipse cx="200" cy="220" rx="140" ry="15" fill="#e0e0e0" stroke="#bbbbbb" stroke-width="1.5"/>
+  
+  <!-- Bottom cake layer -->
+  <rect x="100" y="160" width="200" height="60" rx="10" ry="10" fill="#ffb6c1" stroke="#ff99aa" stroke-width="1"/>
+  
+  <!-- Top cake layer -->
+  <rect x="130" y="110" width="140" height="50" rx="10" ry="10" fill="#fff0db" stroke="#f5e1c7" stroke-width="1"/>
+  
+  <!-- Frosting top -->
+  <ellipse cx="200" cy="110" rx="70" ry="10" fill="#ffffff" stroke="#f5e1c7" stroke-width="0.5"/>
+  
+  <!-- Candle -->
+  <rect x="196" y="75" width="8" height="35" fill="#ff9999" stroke="#ff7777" stroke-width="0.5"/>
+  
+  <!-- Candle flame -->
+  <path d="M200,75 Q200,65 200,75 M196,75 Q200,65 204,75" fill="#ffdd55" stroke="#ffcc00" stroke-width="1"/>
+  
+  <!-- Simple decorations -->
+  <circle cx="160" cy="135" r="5" fill="#ff8a8a"/>
+  <circle cx="200" cy="135" r="5" fill="#ff8a8a"/>
+  <circle cx="240" cy="135" r="5" fill="#ff8a8a"/>
+  
+  <!-- Simple icing swirls -->
+  <path d="M130,160 C150,150 170,170 190,160 C210,150 230,170 250,160 C270,150 290,170 300,160" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+</svg>

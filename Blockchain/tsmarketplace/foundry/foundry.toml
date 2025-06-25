@@ -1,0 +1,18 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = [
+    "lib",
+]
+remappings = [
+    "@openzeppelin-contracts/=lib/openzeppelin-contracts/",
+]
+fs_permissions = [
+    { access = "read", path = "./images/" },
+    { access = "read", path = "./broadcast" },
+]
+optimizer = true
+optimizer_runs = 500
+
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
