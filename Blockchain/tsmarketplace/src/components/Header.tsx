@@ -20,14 +20,6 @@ export default function Header() {
                     />
                     <h1 className="font-bold text-2xl hidden md:block">NFT Marketplace</h1>
                 </a>
-                <a
-                    href="https://github.com/cyfrin/ts-nft-marketplace-cu"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="p-1 rounded-lg bg-zinc-900 hover:bg-zinc-800 transition-colors border-2 border-zinc-600 hover:border-zinc-500 cursor-alias hidden md:block"
-                >
-                    <FaGithub className="h-5 w-5 text-white" />
-                </a>
             </div>
             <h3 className="italic text-left hidden text-zinc-500 lg:block">
                 A non-custodial, permissionless NFT Marketplace
