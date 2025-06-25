@@ -1,0 +1,25 @@
+name: marketplaceIndexer
+project_type: no-code
+networks:
+- name: anvil
+  chain_id: 31337
+  rpc: http://127.0.0.1:8545
+storage:
+  postgres:
+    enabled: true
+  csv:
+    enabled: true
+    path: ./generated_csv
+native_transfers:
+  enabled: false
+contracts:
+- name: NftMarketplace
+  details:
+  - network: anvil
+    address: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+    start_block: '0'
+  abi: ./abis/NftMarketplace.abi.json
+  include_events:
+  - ItemListed
+  - ItemCanceled
+  - ItemBought

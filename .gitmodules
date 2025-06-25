@@ -16,3 +16,6 @@
 [submodule "Blockchain/FoundryFundMe/lib/foundry-devops"]
 	path = Blockchain/FoundryFundMe/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "Blockchain/tsmarketplace/foundry/lib/openzeppelin-contracts"]
+	path = Blockchain/tsmarketplace/foundry/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
