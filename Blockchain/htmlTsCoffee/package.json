@@ -4,6 +4,6 @@
     "viem": "^2.31.2"
   },
   "devDependencies": {
-    "vite": "^6.3.5"
+    "vite": "^6.3.6"
   }
 }
