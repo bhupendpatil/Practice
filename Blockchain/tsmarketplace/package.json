@@ -28,7 +28,7 @@
     "react-icons": "^5.5.0",
     "uuid": "^11.1.0",
     "viem": "2.x",
-    "wagmi": "^2.14.15"
+    "wagmi": "^2.19.1"
   },
   "devDependencies": {
     "@synthetixio/synpress": "^4.0.10",
