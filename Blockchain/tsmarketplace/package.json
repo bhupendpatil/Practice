@@ -22,7 +22,7 @@
     "@types/uuid": "^10.0.0",
     "@wagmi/core": "^2.16.7",
     "graphql": "^16.10.0",
-    "next": "15.4.8",
+    "next": "15.4.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
