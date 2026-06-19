@@ -23,7 +23,7 @@
     "react-icons": "^5.5.0",
     "viem": "^2.31.4",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^3.2.4",
+    "vitest": "^4.1.9",
     "wagmi": "^2.15.6"
   },
   "devDependencies": {
